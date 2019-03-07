@@ -1,1 +1,251 @@
-
+Photo,Class,Label1:ConfScore,Label2:ConfScore,Label3:ConfScore,Label4:ConfScore,Label5:ConfScore
+.\Data\ImageNet\bicycle_n02834778\0.jpg,bicycle,Transportation:99.96%,Bicycle:99.96%,Person:99.85%,Car:98.26%,Wheel:98.22%
+.\Data\ImageNet\bicycle_n02834778\1.jpg,bicycle,Transportation:99.86%,Bicycle:99.86%,Vehicle:99.86%,Wheel:83.19%,Spoke:63.95%
+.\Data\ImageNet\bicycle_n02834778\10.jpg,bicycle,Person:99.47%,Vehicle:98.85%,Transportation:98.85%,Car:98.85%,Bicycle:95.05%
+.\Data\ImageNet\bicycle_n02834778\11.jpg,bicycle,Bicycle:99.59%,Person:99.56%,Traffic Light:99.50%,Car:97.22%,Clothing:93.42%
+.\Data\ImageNet\bicycle_n02834778\12.jpg,bicycle,Vehicle:99.50%,Transportation:99.50%,Car:99.50%,Bicycle:89.67%,License Plate:71.19%
+.\Data\ImageNet\bicycle_n02834778\13.jpg,bicycle,Vehicle:99.87%,Transportation:99.87%,Bicycle:99.87%,Person:99.69%,Wheel:95.01%
+.\Data\ImageNet\bicycle_n02834778\14.jpg,bicycle,Wheel:99.95%,Transportation:99.79%,Bicycle:99.79%,Person:99.69%,Mountain Bike:95.69%
+.\Data\ImageNet\bicycle_n02834778\15.jpg,bicycle,Person:99.89%,Shorts:99.74%,Transportation:91.96%,Vehicle:91.96%,Bicycle:90.13%
+.\Data\ImageNet\bicycle_n02834778\16.jpg,bicycle,Transportation:99.97%,Bicycle:99.97%,Vehicle:99.97%,Wheel:98.65%,Outdoors:73.52%
+.\Data\ImageNet\bicycle_n02834778\17.jpg,bicycle,Transportation:99.99%,Bicycle:99.99%,Vehicle:99.99%,Wheel:99.45%,Mountain Bike:81.71%
+.\Data\ImageNet\bicycle_n02834778\18.jpg,bicycle,Transportation:99.54%,Bicycle:99.54%,Vehicle:99.54%,Person:98.53%,Bmx:96.48%
+.\Data\ImageNet\bicycle_n02834778\19.jpg,bicycle,Person:99.77%,Transportation:98.36%,Bicycle:98.36%,Vehicle:98.36%,Wheel:95.26%
+.\Data\ImageNet\bicycle_n02834778\2.jpg,bicycle,Vehicle:99.99%,Transportation:99.99%,Bicycle:99.99%,Truck:99.72%,Person:98.46%
+.\Data\ImageNet\bicycle_n02834778\20.JPG,bicycle,Circus:99.63%,Leisure Activities:99.63%,Human:94.91%,Person:94.91%,
+.\Data\ImageNet\bicycle_n02834778\21.jpg,bicycle,Bicycle:99.54%,Vehicle:99.54%,Transportation:99.54%,Wheel:95.41%,Mountain Bike:93.64%
+.\Data\ImageNet\bicycle_n02834778\22.jpg,bicycle,Bicycle:99.87%,Vehicle:99.87%,Transportation:99.87%,Spoke:96.48%,Wheel:92.87%
+.\Data\ImageNet\bicycle_n02834778\23.jpg,bicycle,Person:99.55%,Path:99.42%,Neighborhood:96.39%,Sidewalk:90.57%,Transportation:81.36%
+.\Data\ImageNet\bicycle_n02834778\24.jpg,bicycle,Bicycle:99.96%,Vehicle:99.96%,Transportation:99.96%,Wheel:99.90%,Person:99.87%
+.\Data\ImageNet\bicycle_n02834778\3.jpg,bicycle,Flower:91.90%,Plant:91.90%,Transportation:91.71%,Bicycle:91.71%,Vehicle:91.71%
+.\Data\ImageNet\bicycle_n02834778\4.jpg,bicycle,Bicycle:99.87%,Vehicle:99.87%,Fence:99.25%,Picket:99.25%,Wheel:68.68%
+.\Data\ImageNet\bicycle_n02834778\5.jpg,bicycle,Transportation:99.99%,Bicycle:99.99%,Vehicle:99.99%,Wheel:98.83%,Mountain Bike:63.15%
+.\Data\ImageNet\bicycle_n02834778\6.jpg,bicycle,Wheel:99.97%,Vehicle:99.96%,Transportation:99.96%,Bicycle:99.96%,Person:99.53%
+.\Data\ImageNet\bicycle_n02834778\7.jpg,bicycle,Transportation:99.23%,Bicycle:99.23%,Vehicle:99.23%,Brick:92.98%,Door:86.40%
+.\Data\ImageNet\bicycle_n02834778\8.jpg,bicycle,Machine:98.53%,Spoke:98.53%,Wheel:96.10%,Chandelier:94.37%,Tire:90.08%
+.\Data\ImageNet\bicycle_n02834778\9.jpg,bicycle,Bench:99.91%,Bicycle:99.74%,Person:99.40%,Wheel:99.01%,Plant:89.65%
+.\Data\ImageNet\birds_n01604330\0.jpg,birds,Animal:99.90%,Bird:99.90%,Beak:97.87%,Plant:87.46%,Blackbird:87.37%
+.\Data\ImageNet\birds_n01604330\1.jpg,birds,Bird:99.38%,Animal:99.38%,Waterfowl:86.15%,Beak:72.48%,Stork:59.58%
+.\Data\ImageNet\birds_n01604330\10.jpg,birds,Bird:99.87%,Animal:99.87%,Buzzard:99.23%,Hawk:99.23%,Accipiter:94.11%
+.\Data\ImageNet\birds_n01604330\11.jpg,birds,Goose:99.90%,Animal:99.90%,Bird:99.90%,,
+.\Data\ImageNet\birds_n01604330\12.jpg,birds,Animal:99.85%,Bird:99.85%,Beak:99.85%,Vulture:99.14%,Kite Bird:88.47%
+.\Data\ImageNet\birds_n01604330\13.jpg,birds,Animal:99.67%,Bird:99.67%,Blackbird:96.42%,Agelaius:96.42%,
+.\Data\ImageNet\birds_n01604330\14.jpg,birds,Bird:99.99%,Animal:99.99%,Bee Eater:95.21%,Hummingbird:94.82%,
+.\Data\ImageNet\birds_n01604330\15.jpg,birds,Mammal:98.66%,Animal:98.66%,Pet:98.66%,Dog:98.66%,Canine:98.66%
+.\Data\ImageNet\birds_n01604330\16.jpg,birds,Bird:99.95%,Animal:99.95%,Wren:91.43%,Beak:87.21%,Finch:81.14%
+.\Data\ImageNet\birds_n01604330\17.jpg,birds,Animal:99.82%,Bird:99.82%,Anthus:97.65%,Sparrow:96.84%,Rock:83.35%
+.\Data\ImageNet\birds_n01604330\18.jpg,birds,Bird:99.96%,Animal:99.96%,Jay:94.31%,Bluebird:76.20%,Beak:75.23%
+.\Data\ImageNet\birds_n01604330\19.jpg,birds,Bird:99.72%,Animal:99.72%,Waterfowl:96.06%,Duck:95.94%,Anseriformes:86.81%
+.\Data\ImageNet\birds_n01604330\2.jpg,birds,Bird:99.89%,Animal:99.89%,Beak:97.95%,Seagull:97.13%,Albatross:73.70%
+.\Data\ImageNet\birds_n01604330\20.jpg,birds,Bee Eater:99.97%,Animal:99.97%,Bird:99.97%,Hummingbird:64.93%,Plant:56.86%
+.\Data\ImageNet\birds_n01604330\21.jpg,birds,Fowl:95.80%,Poultry:95.80%,Animal:95.80%,Bird:95.80%,Rooster:95.80%
+.\Data\ImageNet\birds_n01604330\22.jpg,birds,Animal:99.89%,Bird:99.89%,Parakeet:99.89%,Parrot:99.89%,
+.\Data\ImageNet\birds_n01604330\23.jpg,birds,Animal:94.14%,Antelope:94.14%,Bird:89.39%,Beak:89.39%,Tree:69.64%
+.\Data\ImageNet\birds_n01604330\24.JPG,birds,Animal:99.70%,Bird:99.70%,Beak:96.68%,Sparrow:76.72%,Finch:75.14%
+.\Data\ImageNet\birds_n01604330\3.jpg,birds,Bird:99.88%,Animal:99.88%,Accipiter:98.22%,Anthus:87.10%,Tree:73.94%
+.\Data\ImageNet\birds_n01604330\4.jpg,birds,Bird:99.91%,Animal:99.91%,Bee Eater:98.70%,Vegetation:91.70%,Toucan:79.30%
+.\Data\ImageNet\birds_n01604330\5.jpg,birds,Animal:99.45%,Bird:99.45%,Peacock:93.27%,,
+.\Data\ImageNet\birds_n01604330\6.jpg,birds,Bird:99.79%,Animal:99.79%,Beak:96.87%,Sparrow:74.09%,Finch:73.10%
+.\Data\ImageNet\birds_n01604330\7.jpg,birds,Bird:99.82%,Nature:90.64%,Water:88.65%,Outdoors:87.50%,Shoreline:86.44%
+.\Data\ImageNet\birds_n01604330\8.jpg,birds,Animal:99.91%,Bird:99.91%,Hummingbird:96.71%,Beak:82.27%,
+.\Data\ImageNet\birds_n01604330\9.jpg,birds,Jay:99.83%,Bird:99.83%,Animal:99.83%,Blue Jay:97.22%,Bluebird:91.96%
+.\Data\ImageNet\dog_n02084071\0.jpg,dog,Person:99.28%,Home Decor:98.94%,Strap:95.41%,Dog:93.90%,Pillow:89.50%
+.\Data\ImageNet\dog_n02084071\1.jpg,dog,Mammal:97.87%,Dog:97.87%,Animal:97.87%,Canine:97.87%,Rock:89.63%
+.\Data\ImageNet\dog_n02084071\10.jpg,dog,Nature:99.66%,Outdoors:99.54%,Snow:98.14%,Ice:93.36%,Dog:92.21%
+.\Data\ImageNet\dog_n02084071\11.jpg,dog,Snout:99.46%,Canine:83.29%,Labrador Retriever:83.29%,Mammal:83.29%,Animal:83.29%
+.\Data\ImageNet\dog_n02084071\12.jpg,dog,Pet:97.08%,Dog:97.08%,Canine:97.08%,Clothing:81.31%,Lifejacket:74.99%
+.\Data\ImageNet\dog_n02084071\13.jpg,dog,Water:96.10%,Outdoors:93.51%,Mammal:89.01%,Canine:89.01%,Nature:85.90%
+.\Data\ImageNet\dog_n02084071\14.jpg,dog,Vehicle:99.49%,Bicycle:99.49%,Transportation:99.49%,Path:98.83%,Wheel:94.41%
+.\Data\ImageNet\dog_n02084071\15.jpg,dog,Grass:97.78%,Animal:97.29%,Canine:97.29%,Pet:97.29%,Dog:97.29%
+.\Data\ImageNet\dog_n02084071\16.jpg,dog,Furniture:99.88%,Chair:99.62%,Cushion:99.61%,Couch:98.98%,Pillow:97.75%
+.\Data\ImageNet\dog_n02084071\17.jpg,dog,Mammal:98.93%,Canine:98.93%,Dog:98.93%,Pet:98.93%,Hound:89.11%
+.\Data\ImageNet\dog_n02084071\18.jpg,dog,Pet:95.56%,Dog:95.56%,Hound:95.56%,Canine:95.56%,Wood:95.30%
+.\Data\ImageNet\dog_n02084071\19.jpg,dog,Dog:97.73%,Pet:97.73%,Canine:97.73%,Animal:97.73%,Hound:97.52%
+.\Data\ImageNet\dog_n02084071\2.jpg,dog,Plant:99.93%,Grass:99.93%,Dog:98.50%,Puppy:98.50%,Canine:98.50%
+.\Data\ImageNet\dog_n02084071\20.jpg,dog,Strap:99.53%,Dog:99.20%,Person:99.12%,Leash:97.17%,Water:91.17%
+.\Data\ImageNet\dog_n02084071\21.jpg,dog,Mammal:96.84%,Canine:96.84%,Pet:96.71%,Pug:96.71%,Dog:96.71%
+.\Data\ImageNet\dog_n02084071\22.jpg,dog,Dog:99.54%,Road:98.31%,Gravel:98.31%,Ground:94.86%,Golden Retriever:85.05%
+.\Data\ImageNet\dog_n02084071\23.jpg,dog,Mammal:89.47%,Animal:89.47%,Hound:88.05%,Person:84.07%,Cattle:57.20%
+.\Data\ImageNet\dog_n02084071\24.JPG,dog,German Shepherd:99.17%,Pet:99.17%,Canine:99.17%,Mammal:99.17%,Animal:99.17%
+.\Data\ImageNet\dog_n02084071\3.jpg,dog,Strap:99.99%,Canine:99.67%,Dog:99.67%,Animal:99.67%,Leash:95.93%
+.\Data\ImageNet\dog_n02084071\4.jpg,dog,Strap:99.92%,Pet:97.68%,Dog:97.68%,Leash:85.77%,Clothing:56.97%
+.\Data\ImageNet\dog_n02084071\5.jpg,dog,Pet:98.68%,Mammal:98.68%,Dog:98.68%,Canine:98.68%,Animal:98.68%
+.\Data\ImageNet\dog_n02084071\6.jpg,dog,Animal:90.71%,Canine:90.71%,Mammal:90.71%,Dog:90.67%,Pet:90.67%
+.\Data\ImageNet\dog_n02084071\7.jpg,dog,Animal:94.09%,Canine:94.09%,Mammal:94.09%,Pet:93.47%,Chihuahua:91.31%
+.\Data\ImageNet\dog_n02084071\8.jpg,dog,Strap:99.93%,Mammal:98.27%,Dog:98.27%,Slate:93.23%,Leash:92.03%
+.\Data\ImageNet\dog_n02084071\9.jpg,dog,Pet:97.74%,Mammal:97.74%,Dog:97.74%,Canine:97.74%,Animal:97.74%
+.\Data\ImageNet\fishing_n00453935\0.jpg,fishing,Person:98.84%,Boat:98.62%,Animal:92.07%,Fish:92.07%,Outdoors:89.14%
+.\Data\ImageNet\fishing_n00453935\1.jpg,fishing,Person:99.39%,Fish:98.63%,Animal:98.63%,Sea Life:98.63%,Tuna:98.63%
+.\Data\ImageNet\fishing_n00453935\10.jpg,fishing,Coho:99.95%,Animal:99.95%,Fish:99.95%,Person:99.03%,Clothing:71.62%
+.\Data\ImageNet\fishing_n00453935\11.jpg,fishing,Bird:98.37%,Animal:98.37%,Water:91.60%,Fish:87.54%,Sea Life:80.16%
+.\Data\ImageNet\fishing_n00453935\12.jpg,fishing,Person:99.35%,Animal:93.54%,Fish:93.54%,Sturgeon:93.54%,Outdoors:65.96%
+.\Data\ImageNet\fishing_n00453935\13.jpg,fishing,Water:99.81%,Outdoors:99.76%,Person:98.89%,Fishing:98.69%,Angler:94.54%
+.\Data\ImageNet\fishing_n00453935\14.jpg,fishing,Person:95.71%,Boat:95.26%,Vehicle:95.26%,Transportation:95.26%,Watercraft:87.69%
+.\Data\ImageNet\fishing_n00453935\15.jpg,fishing,Water:99.94%,Outdoors:99.94%,Person:99.67%,Fishing:99.50%,Angler:95.07%
+.\Data\ImageNet\fishing_n00453935\16.jpg,fishing,Boat:99.98%,Outdoors:98.15%,Clothing:98.11%,Water:97.96%,Person:96.33%
+.\Data\ImageNet\fishing_n00453935\17.jpg,fishing,Vehicle:99.80%,Transportation:99.80%,Boat:99.80%,Person:99.34%,Cruiser:93.32%
+.\Data\ImageNet\fishing_n00453935\18.jpg,fishing,Fish:99.97%,Coho:99.97%,Animal:99.97%,Person:99.92%,Shoe:96.15%
+.\Data\ImageNet\fishing_n00453935\19.jpg,fishing,Person:99.63%,Water:99.30%,Outdoors:98.90%,Sunglasses:91.99%,Fishing:91.33%
+.\Data\ImageNet\fishing_n00453935\2.jpg,fishing,Person:91.23%,Sea Life:90.18%,Animal:90.18%,Clothing:84.53%,Fish:82.27%
+.\Data\ImageNet\fishing_n00453935\20.jpg,fishing,Boat:99.48%,Transportation:99.48%,Vehicle:99.48%,Outdoors:95.31%,Water:89.08%
+.\Data\ImageNet\fishing_n00453935\21.jpg,fishing,Person:99.74%,Transportation:93.74%,Boat:93.74%,Vehicle:93.74%,Tent:91.58%
+.\Data\ImageNet\fishing_n00453935\22.jpg,fishing,Water:98.81%,Outdoors:98.43%,Person:98.05%,Fishing:90.61%,Angler:84.99%
+.\Data\ImageNet\fishing_n00453935\23.jpg,fishing,Person:99.82%,Animal:99.25%,Tuna:99.25%,Fish:99.25%,Sea Life:99.25%
+.\Data\ImageNet\fishing_n00453935\24.jpg,fishing,Water:99.90%,Outdoors:99.82%,Person:99.22%,Fishing:98.37%,Angler:89.53%
+.\Data\ImageNet\fishing_n00453935\3.jpg,fishing,Military:94.16%,Cruiser:94.16%,Vehicle:94.16%,Transportation:94.16%,Water:87.53%
+.\Data\ImageNet\fishing_n00453935\4.jpg,fishing,Person:99.54%,Outdoors:96.02%,Water:95.70%,Animal:91.47%,Tuna:91.47%
+.\Data\ImageNet\fishing_n00453935\5.jpg,fishing,Person:99.43%,Water:98.30%,Outdoors:98.04%,Fishing:80.36%,Sea:68.12%
+.\Data\ImageNet\fishing_n00453935\6.jpg,fishing,Animal:97.01%,Coho:97.01%,Fish:97.01%,Person:90.30%,Tuna:83.33%
+.\Data\ImageNet\fishing_n00453935\7.jpg,fishing,Sea Life:99.15%,Tuna:99.15%,Fish:99.15%,Outdoors:92.00%,Bonito:91.98%
+.\Data\ImageNet\fishing_n00453935\8.jpg,fishing,Person:99.81%,Clothing:98.29%,Water:97.61%,Sunglasses:95.68%,Outdoors:88.31%
+.\Data\ImageNet\fishing_n00453935\9.jpg,fishing,Person:99.55%,Wood:91.74%,Outdoors:90.76%,Plywood:82.13%,Clothing:79.76%
+.\Data\ImageNet\gymnastics_n00433802\0.jpg,gymnastics,Person:98.75%,Acrobatic:94.52%,Athlete:86.07%,Sport:86.07%,Gymnastics:79.73%
+.\Data\ImageNet\gymnastics_n00433802\1.jpg,gymnastics,Person:99.69%,Athlete:99.64%,Gymnastics:98.64%,Acrobatic:98.64%,Gymnast:95.84%
+.\Data\ImageNet\gymnastics_n00433802\10.jpg,gymnastics,Person:99.22%,Athlete:97.48%,Sport:97.48%,Gymnastics:78.47%,Gymnast:78.47%
+.\Data\ImageNet\gymnastics_n00433802\11.jpg,gymnastics,Person:99.34%,Athlete:99.34%,Acrobatic:98.74%,Gymnastics:98.72%,Gymnast:95.10%
+.\Data\ImageNet\gymnastics_n00433802\12.jpg,gymnastics,Person:99.89%,Sport:96.64%,Athlete:96.64%,Gymnastics:89.08%,Dance:86.91%
+.\Data\ImageNet\gymnastics_n00433802\13.jpg,gymnastics,Person:99.45%,Dance:97.01%,Athlete:95.72%,Ballet:89.60%,Chair:85.10%
+.\Data\ImageNet\gymnastics_n00433802\14.jpg,gymnastics,Person:99.56%,Athlete:96.53%,Sport:96.53%,Acrobatic:93.15%,Gymnastics:93.15%
+.\Data\ImageNet\gymnastics_n00433802\15.jpg,gymnastics,Person:99.66%,Sport:99.12%,Athlete:99.12%,Gymnastics:94.86%,Acrobatic:94.86%
+.\Data\ImageNet\gymnastics_n00433802\16.jpg,gymnastics,Athlete:98.83%,Person:98.83%,Sport:98.83%,Acrobatic:96.65%,Gymnastics:96.46%
+.\Data\ImageNet\gymnastics_n00433802\17.jpg,gymnastics,Person:99.03%,Acrobatic:98.94%,Athlete:98.13%,Sport:98.13%,Gymnastics:97.22%
+.\Data\ImageNet\gymnastics_n00433802\18.jpg,gymnastics,Person:98.44%,Sport:95.59%,Skating:85.68%,Ice Skating:81.33%,Shoe:58.00%
+.\Data\ImageNet\gymnastics_n00433802\19.jpg,gymnastics,Person:99.65%,Acrobatic:98.76%,Gymnastics:98.76%,Sport:98.76%,Athlete:93.85%
+.\Data\ImageNet\gymnastics_n00433802\2.jpeg,gymnastics,Person:99.37%,Sport:98.23%,Athlete:98.23%,Acrobatic:97.28%,Gymnastics:96.55%
+.\Data\ImageNet\gymnastics_n00433802\20.jpg,gymnastics,Person:99.22%,Athlete:98.44%,Sport:98.44%,Acrobatic:97.94%,Gymnastics:97.70%
+.\Data\ImageNet\gymnastics_n00433802\21.jpg,gymnastics,Person:99.19%,Acrobatic:97.89%,Sport:96.62%,Athlete:96.03%,Gymnastics:93.39%
+.\Data\ImageNet\gymnastics_n00433802\22.jpg,gymnastics,Person:98.67%,Acrobatic:93.73%,Athlete:93.70%,Sport:93.70%,Gymnastics:87.80%
+.\Data\ImageNet\gymnastics_n00433802\23.jpg,gymnastics,Person:99.06%,Athlete:96.58%,Sport:96.58%,Gymnastics:94.59%,Gymnast:92.15%
+.\Data\ImageNet\gymnastics_n00433802\24.jpg,gymnastics,Clothing:99.34%,Person:98.99%,Vacation:98.57%,Tourist:94.28%,Bikini:93.59%
+.\Data\ImageNet\gymnastics_n00433802\3.jpg,gymnastics,Person:99.87%,Acrobatic:95.42%,Gymnastics:85.89%,Leisure Activities:81.69%,Athlete:76.05%
+.\Data\ImageNet\gymnastics_n00433802\4.jpg,gymnastics,Person:99.11%,Sport:98.89%,Athlete:98.89%,Acrobatic:98.35%,Gymnastics:97.92%
+.\Data\ImageNet\gymnastics_n00433802\5.jpg,gymnastics,Person:99.65%,Sport:98.62%,Athlete:98.62%,Gymnastics:95.47%,Acrobatic:95.47%
+.\Data\ImageNet\gymnastics_n00433802\6.jpg,gymnastics,Person:99.32%,Sport:96.23%,Acrobatic:94.65%,Athlete:88.30%,Gymnastics:88.27%
+.\Data\ImageNet\gymnastics_n00433802\7.jpg,gymnastics,Person:99.83%,Athlete:89.48%,Sport:89.48%,Acrobatic:88.19%,Gymnastics:78.29%
+.\Data\ImageNet\gymnastics_n00433802\8.jpg,gymnastics,Person:97.08%,Grass:97.04%,Plant:97.04%,Fitness:95.47%,Working Out:95.47%
+.\Data\ImageNet\gymnastics_n00433802\9.jpg,gymnastics,Person:98.70%,Sport:98.63%,Athlete:98.63%,Acrobatic:96.28%,Gymnastics:96.09%
+.\Data\ImageNet\jet_n03335030\0.jpg,jet,Airplane:99.31%,Transportation:99.31%,Aircraft:99.31%,Vehicle:99.31%,Warplane:94.21%
+.\Data\ImageNet\jet_n03335030\1.jpg,jet,Building:99.84%,Hangar:99.84%,Airplane:99.15%,Aircraft:99.15%,Architecture:80.49%
+.\Data\ImageNet\jet_n03335030\10.jpg,jet,Flying:99.97%,Animal:99.97%,Bird:99.97%,Airplane:98.75%,Vehicle:98.75%
+.\Data\ImageNet\jet_n03335030\11.jpg,jet,Transportation:98.62%,Vehicle:98.62%,Airplane:98.62%,Aircraft:98.62%,Warplane:94.51%
+.\Data\ImageNet\jet_n03335030\12.jpg,jet,Airplane:99.63%,Aircraft:99.63%,Transportation:99.63%,Warplane:96.85%,Bomber:96.24%
+.\Data\ImageNet\jet_n03335030\13.jpg,jet,Airplane:98.27%,Aircraft:98.27%,Vehicle:98.27%,Warplane:95.14%,Bomber:91.62%
+.\Data\ImageNet\jet_n03335030\14.jpg,jet,Vehicle:99.34%,Aircraft:99.34%,Airplane:99.34%,Warplane:93.81%,Bomber:93.15%
+.\Data\ImageNet\jet_n03335030\15.jpg,jet,Airplane:98.48%,Aircraft:98.48%,Vehicle:98.48%,Transportation:98.48%,Flying:98.41%
+.\Data\ImageNet\jet_n03335030\16.jpg,jet,Transportation:99.56%,Vehicle:99.56%,Aircraft:99.56%,Airplane:99.56%,Warplane:93.03%
+.\Data\ImageNet\jet_n03335030\17.jpg,jet,Transportation:94.18%,Vehicle:94.18%,Aircraft:93.60%,Spaceship:93.34%,Airplane:87.34%
+.\Data\ImageNet\jet_n03335030\18.jpg,jet,Flying:99.33%,Aircraft:97.52%,Airplane:97.52%,Vehicle:97.52%,Warplane:91.00%
+.\Data\ImageNet\jet_n03335030\19.jpg,jet,Airplane:98.13%,Transportation:98.13%,Aircraft:98.13%,Warplane:98.13%,Bomber:95.84%
+.\Data\ImageNet\jet_n03335030\2.jpg,jet,Transportation:99.35%,Aircraft:99.35%,Airplane:99.35%,Vehicle:99.35%,Machine:95.88%
+.\Data\ImageNet\jet_n03335030\20.jpg,jet,Transportation:96.90%,Aircraft:96.90%,Airplane:96.90%,Vehicle:96.90%,Warplane:96.40%
+.\Data\ImageNet\jet_n03335030\21.jpg,jet,Aircraft:99.74%,Transportation:99.74%,Airplane:99.74%,Vehicle:99.74%,Flying:98.91%
+.\Data\ImageNet\jet_n03335030\22.jpg,jet,Airplane:98.71%,Vehicle:98.71%,Aircraft:98.71%,Transportation:98.71%,Jet:91.68%
+.\Data\ImageNet\jet_n03335030\23.jpg,jet,Transportation:97.76%,Aircraft:97.76%,Airplane:97.76%,Vehicle:97.76%,Warplane:96.33%
+.\Data\ImageNet\jet_n03335030\24.jpg,jet,Shark:97.48%,Vehicle:79.50%,Airplane:79.50%,Transportation:79.50%,Aircraft:79.50%
+.\Data\ImageNet\jet_n03335030\3.jpg,jet,Aircraft:99.72%,Transportation:99.72%,Airplane:99.72%,Vehicle:99.72%,Warplane:93.15%
+.\Data\ImageNet\jet_n03335030\4.jpg,jet,Airplane:98.77%,Aircraft:98.77%,Person:96.67%,Bomber:95.41%,Warplane:95.41%
+.\Data\ImageNet\jet_n03335030\5.jpg,jet,Vehicle:98.37%,Aircraft:98.37%,Airplane:98.37%,Transportation:98.37%,Bomber:93.28%
+.\Data\ImageNet\jet_n03335030\6.jpg,jet,Warplane:96.23%,Airplane:96.23%,Aircraft:96.23%,Transportation:96.23%,Bomber:93.82%
+.\Data\ImageNet\jet_n03335030\7.jpg,jet,Aircraft:97.71%,Airplane:97.71%,Vehicle:97.71%,Bomber:97.02%,Warplane:97.02%
+.\Data\ImageNet\jet_n03335030\8.jpg,jet,Airplane:99.58%,Vehicle:99.58%,Aircraft:99.58%,Warplane:96.47%,Bomber:95.37%
+.\Data\ImageNet\jet_n03335030\9.jpg,jet,Aircraft:98.79%,Airplane:98.79%,Vehicle:98.79%,Warplane:98.40%,Bomber:98.04%
+.\Data\ImageNet\motorcycle_n03790512\0.jpg,motorcycle,Motorcycle:99.98%,Person:99.23%,Machine:97.24%,Clothing:88.77%,Motor:87.60%
+.\Data\ImageNet\motorcycle_n03790512\1.jpg,motorcycle,Motorcycle:99.80%,Vehicle:99.80%,Person:99.75%,Helmet:93.46%,Moped:90.90%
+.\Data\ImageNet\motorcycle_n03790512\10.jpg,motorcycle,Clothing:99.97%,Motorcycle:99.96%,Person:99.48%,Helmet:99.28%,Crash Helmet:99.28%
+.\Data\ImageNet\motorcycle_n03790512\11.jpg,motorcycle,Motorcycle:99.46%,Person:98.80%,Clothing:98.63%,Helmet:98.21%,Crash Helmet:91.31%
+.\Data\ImageNet\motorcycle_n03790512\12.jpg,motorcycle,Motorcycle:99.93%,Machine:97.26%,Motor:86.87%,Clothing:83.04%,Spoke:72.75%
+.\Data\ImageNet\motorcycle_n03790512\13.jpg,motorcycle,Helmet:99.34%,Clothing:99.34%,Motorcycle:99.14%,Person:98.33%,Wheel:94.36%
+.\Data\ImageNet\motorcycle_n03790512\14.jpg,motorcycle,Motorcycle:99.29%,Vehicle:99.29%,Transportation:99.29%,Person:98.40%,Motor Scooter:93.51%
+.\Data\ImageNet\motorcycle_n03790512\15.jpg,motorcycle,Person:99.65%,Motorcycle:99.58%,Vehicle:99.58%,Transportation:99.58%,Road:93.45%
+.\Data\ImageNet\motorcycle_n03790512\16.jpg,motorcycle,Motorcycle:99.99%,Clothing:99.98%,Helmet:99.98%,Person:99.45%,Crash Helmet:99.03%
+.\Data\ImageNet\motorcycle_n03790512\17.jpg,motorcycle,Person:98.76%,Vehicle:93.11%,Transportation:93.11%,Motorcycle:93.11%,Animal:67.27%
+.\Data\ImageNet\motorcycle_n03790512\18.jpg,motorcycle,Person:99.69%,Motorcycle:98.86%,Transportation:98.86%,Vehicle:98.86%,Sidecar:85.40%
+.\Data\ImageNet\motorcycle_n03790512\19.jpg,motorcycle,Motorcycle:99.78%,Car:99.26%,Person:96.24%,Helmet:95.84%,Road:93.68%
+.\Data\ImageNet\motorcycle_n03790512\2.jpg,motorcycle,Motorcycle:99.89%,Machine:99.18%,Car:98.71%,Wheel:96.50%,Spoke:94.65%
+.\Data\ImageNet\motorcycle_n03790512\20.jpg,motorcycle,Motorcycle:99.95%,Machine:99.10%,Wheel:99.10%,Person:98.23%,Clothing:92.38%
+.\Data\ImageNet\motorcycle_n03790512\21.jpg,motorcycle,Motorcycle:99.97%,Wheel:99.58%,Machine:99.58%,Chair:96.58%,Motor:91.17%
+.\Data\ImageNet\motorcycle_n03790512\22.jpg,motorcycle,Motorcycle:99.99%,Car:99.43%,Machine:98.30%,Wheel:97.59%,Motor:94.47%
+.\Data\ImageNet\motorcycle_n03790512\23.jpg,motorcycle,Motorcycle:99.96%,Clothing:99.93%,Person:99.42%,Helmet:98.76%,Crash Helmet:98.76%
+.\Data\ImageNet\motorcycle_n03790512\24.jpg,motorcycle,Transportation:99.97%,Motorcycle:99.97%,Vehicle:99.97%,Moped:82.22%,Machine:80.87%
+.\Data\ImageNet\motorcycle_n03790512\3.jpg,motorcycle,Motorcycle:97.73%,Machine:96.83%,Spoke:89.63%,Wheel:87.44%,Motor:71.16%
+.\Data\ImageNet\motorcycle_n03790512\4.jpg,motorcycle,Motorcycle:99.94%,Machine:98.52%,Motor:95.18%,Engine:82.18%,Spoke:57.06%
+.\Data\ImageNet\motorcycle_n03790512\5.jpg,motorcycle,Motorcycle:99.98%,Clothing:99.87%,Person:99.41%,Helmet:99.30%,Crash Helmet:99.30%
+.\Data\ImageNet\motorcycle_n03790512\6.jpg,motorcycle,Motorcycle:99.91%,Clothing:98.32%,Crash Helmet:98.30%,Helmet:98.30%,Person:94.85%
+.\Data\ImageNet\motorcycle_n03790512\7.jpg,motorcycle,Motorcycle:99.65%,Machine:97.81%,Motor:92.14%,Clothing:83.10%,Spoke:74.54%
+.\Data\ImageNet\motorcycle_n03790512\8.jpg,motorcycle,Transportation:99.96%,Motorcycle:99.96%,Clothing:87.85%,Machine:87.16%,Motor Scooter:86.53%
+.\Data\ImageNet\motorcycle_n03790512\9.jpg,motorcycle,Person:99.82%,Motorcycle:96.08%,Wheel:84.33%,Machine:84.33%,Clothing:82.70%
+.\Data\ImageNet\shark_n01482330\0.jpg,shark,Animal:94.10%,Sea Life:94.10%,Shark:91.25%,Fish:91.25%,Mammal:62.99%
+.\Data\ImageNet\shark_n01482330\1.jpg,shark,Animal:97.98%,Fish:97.98%,Sea Life:97.98%,Shark:97.98%,Great White Shark:79.39%
+.\Data\ImageNet\shark_n01482330\10.jpg,shark,Shark:97.39%,Animal:97.39%,Sea Life:97.39%,Fish:97.39%,People:66.34%
+.\Data\ImageNet\shark_n01482330\11.jpg,shark,Water:98.28%,Outdoors:95.44%,Sea Life:90.46%,Animal:90.46%,Nature:90.20%
+.\Data\ImageNet\shark_n01482330\12.jpg,shark,Outdoors:99.08%,Sea:99.08%,Water:99.08%,Sea Life:96.90%,Reef:96.90%
+.\Data\ImageNet\shark_n01482330\13.jpg,shark,Shark:96.19%,Animal:96.19%,Fish:96.19%,Sea Life:96.19%,Great White Shark:84.01%
+.\Data\ImageNet\shark_n01482330\14.jpg,shark,Sea Life:97.41%,Shark:97.41%,Fish:97.41%,Animal:97.41%,Water:89.66%
+.\Data\ImageNet\shark_n01482330\15.jpg,shark,Shark:99.55%,Fish:99.55%,Animal:99.55%,Sea Life:99.55%,Great White Shark:91.46%
+.\Data\ImageNet\shark_n01482330\16.jpg,shark,Sea Life:90.33%,Animal:90.33%,Fish:89.43%,Shark:89.43%,Aquatic:69.96%
+.\Data\ImageNet\shark_n01482330\17.jpg,shark,Person:98.55%,Fish:96.37%,Animal:96.37%,Sturgeon:96.37%,Sunglasses:94.49%
+.\Data\ImageNet\shark_n01482330\18.jpg,shark,Water:99.83%,Person:96.43%,Aquatic:94.58%,Outdoors:94.00%,Fish:93.37%
+.\Data\ImageNet\shark_n01482330\19.jpg,shark,Animal:95.57%,Shark:95.57%,Sea Life:95.57%,Fish:95.57%,Great White Shark:58.67%
+.\Data\ImageNet\shark_n01482330\2.jpg,shark,Animal:93.59%,Shark:93.59%,Sea Life:93.59%,Fish:93.59%,Great White Shark:77.90%
+.\Data\ImageNet\shark_n01482330\20.jpg,shark,Animal:96.24%,Fish:96.24%,Sea Life:96.24%,Shark:96.24%,Great White Shark:75.35%
+.\Data\ImageNet\shark_n01482330\21.jpg,shark,Fish:94.72%,Animal:94.72%,Shark:94.19%,Sea Life:94.19%,Great White Shark:59.79%
+.\Data\ImageNet\shark_n01482330\22.jpg,shark,Animal:94.36%,Sea Life:94.36%,Fish:90.28%,Manta Ray:86.93%,Water:72.07%
+.\Data\ImageNet\shark_n01482330\23.jpg,shark,Water:94.27%,Sea Life:92.82%,Animal:92.82%,Fish:92.01%,Shark:87.19%
+.\Data\ImageNet\shark_n01482330\24.jpg,shark,Animal:93.46%,Sea Life:93.46%,Fish:91.13%,Shark:88.14%,Water:61.70%
+.\Data\ImageNet\shark_n01482330\3.jpg,shark,Fish:94.80%,Sea Life:94.80%,Shark:94.80%,Animal:94.80%,Water:78.09%
+.\Data\ImageNet\shark_n01482330\4.jpg,shark,Person:99.73%,Fish:96.40%,Animal:96.40%,Sea Life:93.45%,Great White Shark:71.75%
+.\Data\ImageNet\shark_n01482330\5.jpg,shark,Person:99.09%,Animal:90.68%,Sea Life:90.68%,Fish:88.69%,Shark:78.33%
+.\Data\ImageNet\shark_n01482330\6.jpg,shark,Fish:97.04%,Shark:97.04%,Sea Life:97.04%,Animal:97.04%,Great White Shark:83.14%
+.\Data\ImageNet\shark_n01482330\7.jpg,shark,Water:94.54%,Animal:94.11%,Sea Life:94.11%,Fish:92.21%,Outdoors:70.62%
+.\Data\ImageNet\shark_n01482330\8.jpg,shark,Person:97.99%,Animal:84.55%,Mammal:84.55%,Clothing:82.34%,Elephant:81.08%
+.\Data\ImageNet\shark_n01482330\9.jpg,shark,Shark:92.75%,Animal:92.75%,Fish:92.75%,Sea Life:92.75%,Great White Shark:57.33%
+.\Data\ImageNet\swimming_n00442115\0.jpg,swimming,Person:98.58%,Outdoors:97.13%,Nature:96.79%,Field:92.78%,Agriculture:92.78%
+.\Data\ImageNet\swimming_n00442115\1.jpg,swimming,Human:99.95%,Person:99.95%,Airport:93.52%,Terminal:59.79%,Airport Terminal:59.79%
+.\Data\ImageNet\swimming_n00442115\10.jpg,swimming,Water:100.00%,Person:100.00%,Swimming:100.00%,Sport:100.00%,Clothing:89.25%
+.\Data\ImageNet\swimming_n00442115\11.jpg,swimming,Person:98.70%,Sport:97.61%,Water:96.44%,Swimming:93.27%,Soccer Ball:91.79%
+.\Data\ImageNet\swimming_n00442115\12.jpg,swimming,Swimming:99.96%,Person:99.96%,Water:99.96%,Pool:99.71%,Face:96.13%
+.\Data\ImageNet\swimming_n00442115\13.jpg,swimming,Swimming:100.00%,Person:100.00%,Water:100.00%,Sport:100.00%,Pool:90.89%
+.\Data\ImageNet\swimming_n00442115\14.jpg,swimming,Water:99.97%,Sport:99.97%,Swimming:99.97%,Person:99.97%,Diving:96.34%
+.\Data\ImageNet\swimming_n00442115\15.jpg,swimming,Sport:100.00%,Water:100.00%,Swimming:100.00%,Person:100.00%,Pool:97.58%
+.\Data\ImageNet\swimming_n00442115\16.jpg,swimming,Water:99.90%,Person:99.48%,Water Park:96.64%,Amusement Park:96.64%,Outdoors:75.98%
+.\Data\ImageNet\swimming_n00442115\17.jpg,swimming,Sport:99.99%,Swimming:99.99%,Person:99.99%,Water:99.99%,Pool:84.78%
+.\Data\ImageNet\swimming_n00442115\18.jpg,swimming,Person:100.00%,Swimming:100.00%,Human:100.00%,Water:100.00%,Sport:100.00%
+.\Data\ImageNet\swimming_n00442115\19.jpg,swimming,Pool:99.87%,Water:99.87%,Person:98.86%,Swimming:98.67%,Swimming Pool:96.20%
+.\Data\ImageNet\swimming_n00442115\2.jpg,swimming,Water:100.00%,Person:100.00%,Sport:100.00%,Swimming:100.00%,Sunglasses:98.53%
+.\Data\ImageNet\swimming_n00442115\20.jpg,swimming,Swimming:100.00%,Sport:100.00%,Person:100.00%,Water:100.00%,Pool:87.11%
+.\Data\ImageNet\swimming_n00442115\21.jpg,swimming,Person:100.00%,Human:100.00%,Water:100.00%,Swimming:100.00%,Sport:100.00%
+.\Data\ImageNet\swimming_n00442115\22.jpg,swimming,Water:99.95%,Person:99.95%,Swimming:99.95%,Sport:99.95%,Outdoors:98.13%
+.\Data\ImageNet\swimming_n00442115\23.jpg,swimming,Person:99.96%,Water:99.96%,Swimming:99.96%,Sport:99.96%,Clothing:99.33%
+.\Data\ImageNet\swimming_n00442115\24.jpg,swimming,Water:99.92%,Pool:99.87%,Swimming Pool:97.18%,Lighting:84.69%,Person:72.13%
+.\Data\ImageNet\swimming_n00442115\3.jpg,swimming,Water:99.96%,Sport:99.96%,Swimming:99.96%,Person:99.96%,Nature:92.31%
+.\Data\ImageNet\swimming_n00442115\4.jpg,swimming,Water:100.00%,Sports:100.00%,Swimming:100.00%,Sport:100.00%,Pool:55.68%
+.\Data\ImageNet\swimming_n00442115\5.jpg,swimming,Swimming:100.00%,Water:100.00%,Sport:100.00%,Person:100.00%,Pool:64.68%
+.\Data\ImageNet\swimming_n00442115\6.jpg,swimming,Water:99.36%,Person:99.27%,Sport:96.88%,Swimming:94.30%,Diving:84.61%
+.\Data\ImageNet\swimming_n00442115\7.jpg,swimming,Water:99.98%,Diving:99.01%,Person:99.01%,Sport:99.01%,Clothing:82.31%
+.\Data\ImageNet\swimming_n00442115\8.jpg,swimming,Person:99.16%,Water:97.81%,Sport:95.97%,Diving:90.02%,Athlete:87.04%
+.\Data\ImageNet\swimming_n00442115\9.jpg,swimming,Person:96.50%,Sport:84.75%,Clothing:76.30%,People:63.86%,Swimwear:60.54%
+.\Data\ImageNet\unicycle_n04509417\0.jpg,Unicycle,Person:99.81%,Clothing:98.29%,Transportation:83.01%,Vehicle:82.32%,Tartan:72.15%
+.\Data\ImageNet\unicycle_n04509417\1.jpg,Unicycle,Person:98.76%,Vehicle:92.45%,Transportation:92.45%,Bicycle:92.39%,Bmx:92.39%
+.\Data\ImageNet\unicycle_n04509417\10.jpg,Unicycle,Person:99.27%,Bicycle:97.04%,Vehicle:97.04%,Transportation:97.04%,Clothing:80.55%
+.\Data\ImageNet\unicycle_n04509417\11.jpg,Unicycle,Vegetation:99.97%,Woodland:99.94%,Land:99.94%,Person:99.57%,Grove:99.30%
+.\Data\ImageNet\unicycle_n04509417\12.jpg,Unicycle,Person:99.87%,Vehicle:99.20%,Transportation:99.20%,Bicycle:99.20%,Sport:86.67%
+.\Data\ImageNet\unicycle_n04509417\13.jpg,Unicycle,Person:99.82%,Vehicle:99.62%,Transportation:99.62%,Bicycle:99.62%,Car:94.38%
+.\Data\ImageNet\unicycle_n04509417\14.jpg,Unicycle,Truck:99.97%,Vehicle:99.97%,Person:99.90%,Car:99.45%,Bicycle:98.11%
+.\Data\ImageNet\unicycle_n04509417\15.jpg,Unicycle,Person:99.74%,Sport:90.56%,Wheel:85.06%,Vehicle:75.20%,Bicycle:75.20%
+.\Data\ImageNet\unicycle_n04509417\16.jpg,Unicycle,Person:99.78%,Sport:95.68%,Acrobatic:95.24%,Athlete:87.90%,Gymnastics:80.62%
+.\Data\ImageNet\unicycle_n04509417\17.jpg,Unicycle,Person:98.82%,Transportation:94.08%,Vehicle:94.08%,Outdoors:93.98%,Nature:91.79%
+.\Data\ImageNet\unicycle_n04509417\18.jpg,Unicycle,Transportation:92.09%,Vehicle:92.09%,Bicycle:92.09%,Wheel:88.51%,Housing:75.55%
+.\Data\ImageNet\unicycle_n04509417\19.jpg,Unicycle,Person:99.75%,Vehicle:98.95%,Bicycle:98.95%,Transportation:98.95%,Wheel:96.08%
+.\Data\ImageNet\unicycle_n04509417\2.jpg,Unicycle,Person:99.59%,Bicycle:97.70%,Transportation:97.70%,Vehicle:97.70%,Shorts:91.78%
+.\Data\ImageNet\unicycle_n04509417\20.jpg,Unicycle,Person:99.25%,Transportation:95.54%,Vehicle:95.54%,Tricycle:93.50%,Wheel:84.57%
+.\Data\ImageNet\unicycle_n04509417\21.jpg,Unicycle,Person:99.77%,Vehicle:93.43%,Transportation:93.43%,Bicycle:88.83%,Bmx:84.59%
+.\Data\ImageNet\unicycle_n04509417\22.jpg,Unicycle,Machine:99.74%,Wheel:99.74%,Bicycle:99.22%,Tire:96.48%,Spoke:86.34%
+.\Data\ImageNet\unicycle_n04509417\23.JPG,Unicycle,Person:96.57%,Grass:92.68%,Machine:64.81%,Sport:63.35%,Spoke:61.42%
+.\Data\ImageNet\unicycle_n04509417\24.jpg,Unicycle,Transportation:95.37%,Vehicle:95.37%,Tire:69.96%,Wheel:58.53%,Machine:58.53%
+.\Data\ImageNet\unicycle_n04509417\3.jpg,Unicycle,Person:99.73%,Transportation:92.96%,Vehicle:92.96%,Clothing:89.50%,Pedestrian:88.08%
+.\Data\ImageNet\unicycle_n04509417\4.jpg,Unicycle,Person:99.94%,Pants:96.35%,Clothing:96.35%,Jeans:76.83%,Flooring:75.94%
+.\Data\ImageNet\unicycle_n04509417\5.jpg,Unicycle,Person:98.53%,Vehicle:97.99%,Bicycle:97.99%,Transportation:97.99%,Wheel:81.26%
+.\Data\ImageNet\unicycle_n04509417\6.jpg,Unicycle,Person:99.87%,Vehicle:99.17%,Car:99.17%,Transportation:99.17%,Bicycle:95.42%
+.\Data\ImageNet\unicycle_n04509417\7.jpg,Unicycle,Person:98.71%,Vehicle:96.07%,Transportation:96.07%,Bmx:95.96%,Bicycle:95.96%
+.\Data\ImageNet\unicycle_n04509417\8.jpg,Unicycle,Person:99.77%,Transportation:94.35%,Vehicle:94.25%,Bicycle:72.01%,Car:70.67%
+.\Data\ImageNet\unicycle_n04509417\9.jpg,Unicycle,Wheel:99.85%,Bicycle:97.58%,Transportation:97.58%,Vehicle:97.58%,Mountain Bike:97.58%
