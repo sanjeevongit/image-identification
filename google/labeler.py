@@ -26,6 +26,7 @@ lemmatizer = nltk.stem.WordNetLemmatizer()
 def extract_label(path):
     m = re.search(r'(\\)(.+)(_)', path)
     return m.group(2)
+
 def get_dataset(directory):
     data = pd.DataFrame(columns=['path', 'class'])
     for path, directories, files in os.walk(directory):
@@ -52,6 +53,7 @@ for i in range(len(data)):
     # Performs label detection on the image file
     response = client.label_detection(image=image)
     labels = response.label_annotations
+    # Parse labels
     tag_scores = []
     success = 0
     count = 0  # I know this is stupid, but this isn't worth refactoring
@@ -63,6 +65,7 @@ for i in range(len(data)):
         if tag == data['class'][i] and count < 5:
             success = score
         count += 1
+    # Handle when less than 5 tags are returned
     tag_scores = tag_scores[:10]
     while len(tag_scores) < 10:
         tag_scores.append('')
@@ -71,8 +74,9 @@ for i in range(len(data)):
     tag_scores.append(success)
     row = pd.DataFrame([tag_scores], columns=['tag1', 'score1', 'tag2', 'score2', 'tag3', 'score3', 'tag4', 'score4', 'tag5', 'score5', 'success'])
     tags = tags.append(row, ignore_index=True)
+# Output and display results
 end_time = time.time()
-print(end_time - start_time)
+print('Time taken: {} seconds'.format(end_time - start_time))
 results = data.join(tags)
-
+results.to_csv('../output/google_labels.csv', index=False)
 print('Mean Score:', sum(results.success) / len(results))
