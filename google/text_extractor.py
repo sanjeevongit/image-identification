@@ -48,7 +48,7 @@ def jaccard_similarity(list1, list2):
 
 labels = pd.read_csv('../data/SVT/svt_labels.csv')
 labels['Extracted_Text'] = None
-labels['similarity'] = 0
+labels['similarity'] = 0.0
 start_time = time.time()
 
 # Do actual text extraction

@@ -1,176 +1,176 @@
 Image,Words,Extracted_Text,similarity
-02_19.jpg,"['arcade', ""brown's"", 'clean', 'dry', 'hair', 'inside', 'located', 'salon']","['altera', 'arcade', ""brown's"", 'clea', 'dr', 'expe', 'hair', 'lonaded', 'nside', 'salon', 'spe']",0
-15_19.jpg,"['2', 'a', 'at', 'believe', 'boutique', 'designed', 'have', 'holiday', 'holiday', 'hotel', 'inn', 'inn', 'left', 'price', 'see', 'turn', 'yield', 'you']","['a', 'holiday', 'left', 'yield']",0
-11_17.jpg,['tabu'],[],0
-01_09.jpg,"['corner', 'greek', ""nick's""]","['corner', 'greek', 'nicks']",0
-13_18.jpg,"['bar', ""portland's"", 'restaurant']","['bar', 'ds', ""portland's"", 'restaura', 't']",0
-09_19.jpg,['simon'],['simon'],1
-05_14.jpg,"['de', 'la', 'salle']","['de', 'la', 'salle']",1
-04_19.jpg,"['$1', '&', 'children', 'cleaners', 'cut', 'glenoaks', 'hair', 'laundry', 'men', 'open', ""rubina's"", 'salon', 'shirts', 'supply', 'women']","['&', 'air', 'cleaner', 'cleaners', 'cu', 'glenoaks', 'laundry', 'men', 'salon', 'supply', 'ty']",0
-01_02.jpg,"['75', 'one', ""sol's"", 'way']","[""sol's""]",0
-16_06.jpg,"['beat', 'books', 'bookstore', 'cash', 'city', 'lights']","['2009', 'books', 'city', 'g', 'lights']",0
-17_11.jpg,"['buy', 'leasing', 'miraido', 'office', 'village', 'wanted']","['leasing', 'mraidd', 'office', 'village']",0
-15_04.jpg,"['1500', 'admission', 'american', 'and', 'art', 'european', 'free', 'icons', 'museum', 'of', 'paintings', 'russian', 'timken', 'works']","['2', '500', 'and', 'art', 'at', 'lcons', 'merican', 'museum', 'of', 'paintings', 'russian', 'timken', 'works']",0
-14_02.jpg,['marriott'],['narrioft'],0
-12_16.jpg,"['bus', 'facility', 'mint', 'one', 'parking', 'states', 'tunnel', 'united', 'use', 'way']","['80s', 'facility', 'parking', 'un']",0
-00_11.jpg,"['ford', 'mills', 'to', 'welcome']","['""', '2.', '>', '?', 'mills', 'to', 'welcome', 'くぎ', 'くぎ""?']",0
-09_03.jpg,"['café', ""houlihan's""]","['houlih', ""houlihan's""]",0
-06_01.jpg,"['café', 'garden']","['cafe', 'girden']",0
-00_00.jpg,"['beer', 'doll', 'house', 'tap']","['beer', 'tap']",0
-14_08.jpg,"['avenue', 'fifth', 'pioneer', 'place', 'saks']","['avenue', 'fifth', 'pioneer', 'place', 'saks', '一', '一pioneer']",0
-17_08.jpg,"['bo', 'chinese', 'town', 'vietnamese']","['bo', 'chinese', 't', 'vietnamesi']",0
-12_18.jpg,"['$1', 'chinatown', 'ding', 'dollar', 'hardware', 'ho', 'houseware', 'inc', 'medicine', 'stationary', 'up']","['chinatown', 'dii', 'ding', 'dollar', 'hardware', 'hoser', 'inc.', 'metitine', 'o', 'stationery']",0
-18_03.jpg,"['hotel', 'm', 'max']",[],0
-18_19.jpg,"['neumos', 'shows', 'upcoming']","['pcomina', 'show']",0
-19_06.jpg,"['adams', 'atm', 'everyday', 'fireplace', 'liquor', 'pacific', 'samuel', 'special', 'state', 'the', 'wine']","['(the', 'atm', 'be', 'fireplace', 'liquor']",0
-13_13.jpg,"['55', 'space']",[],0
-15_07.jpg,"[""croce's"", 'restaurant']","[""croce's"", 'restaurant']",1
-09_00.jpg,"['centre', 'circle']","['centre', 'circle']",1
-14_14.jpg,"['and', 'and', 'life', 'microtia', 'satyriconpdx.com', 'station', 'system', 'the', 'times']","['and', 'life', 'microtia', 'satyriconpdx.com', 'station', 'system', 'the', 'times']",0
-02_07.jpg,"['delicious', 'gigi', 'just', 'pizza', 'sapph']","['(gigi)', 'app']",0
-02_12.jpg,"['balitmore', 'scores']","['core', 'scores']",0
-08_05.jpg,"['plaza', 'shell', 'two']","['>', 'plaza', 'くの', 'くの>']",0
-06_15.jpg,"['day', 'physicians', 'surgery']","['daysurgery', 'physicians']",0
-13_12.jpg,['ymca'],[],0
-09_14.jpg,"['brothers', 'products', 'zesco', 'zoll']","['""', '>', '?', 'brothers', 'products', 'ta', 'zesco', 'zolli̇', 'くぎ', 'くぎ""?']",0
-13_04.jpg,"['dodge', 'phelps', 'tower']",[],0
-03_14.jpg,"['14th', '2010', 'best', 'himalayas', 'indian', 'lunch', 'restaurant', 'street']","['.', '14th', '2010', 'best', 'himalayas', 'indian', 'lunct', 'stre', '|']",0
-04_03.jpg,"['446', 'barber', 'color', 'cut', 'modern', 'open', 'perm']","['446', 'barber', 'cut', 'erm', 'modern', 'olor']",0
-17_15.jpg,"['division', 'goodsource', 'goodwill']","[':', 'goodwill', 'と', 'と:']",0
-18_08.jpg,"['1130', 'garage']",[],0
-07_06.jpg,"['&', '8612057', 'andora', 'baked', 'bakery', 'captiol', 'custom', 'foods', 'for', 'gentlemen', 'goods', 'jewelry', 'ladies', 'tailors', 'watercourse']","['!', '&', '2057', '861', 'capitol', 'course', 'custom', 'for', 'gentlemen', 'jewelry', 'ladies', 'tailors', 'terco', 'terco!']",0
-00_14.jpg,"['house', 'no', 'original', 'pancake', 'parking']","['house', 'pancake', 'parking']",0
-01_16.jpg,['embassy'],"['a', 'e', 'm', 's', 'y']",0
-03_18.jpg,"['barnsley', 'co.', 'michelin', 'tire', 'yokoha']","['barnsley', 'co', 'co.', 'tire']",0
-11_01.jpg,"['56', 'napasorn']",[],0
-07_13.jpg,"['$5', '1275', 'enter', 'large', 'open', 'order', ""quizno's"", 'subs']","['275', 'quiznosmsubs', 'quiznossubs']",0
-16_00.jpg,"['francisco', 'grand', 'hyatt', 'san']",['grand'],0
-15_02.jpg,"['beer', 'classic', 'draft', 'food', 'great', 'house', 'largest', 'of', 'rock', 'selection', ""world's"", 'yard']","['""', '>', '?', 'classic', 'dr', 'draftbeer', 'eat', 'food', 'house', 'largest', 'n', 'of', 'roc', 'selection', 'yard', 'くぎ', 'くぎ""?']",0
-00_09.jpg,"['3,000', 'daily', 'goodwill', 'items', 'new', 'over', 'stocked', 'store']","['3,000', 'goodwill', 'over', 'store']",0
-14_18.jpg,['marriott'],['marrtott'],0
-13_07.jpg,"['eye', 'lounge']","['<07', '>', 'eye', 'lounge']",0
-00_12.jpg,['subway'],[],0
-18_09.jpg,"['and', 'pike', 'shop', 'western', 'wine']","['and', 'pike', 'shop', 'western', 'wine']",1
-16_02.jpg,"['54', 'mosser', 'parking', 'the']","['(', '54', 'li', 'li(', 'mosser', 'parking', 'the']",0
-08_16.jpg,['alden'],['alden'],1
-15_06.jpg,"['cortez', 'el']","['cortez', 'el']",1
-10_03.jpg,"['176', '1k36', '212-240-9800', 'a', 'church', 'cuisine', 'express', 'house', 'of', 'open', 'pakistan', 'paya', 'phone', 'st.', 'tea', 'tex-mexican', 'touch', 'traditional']","['176', '212-240-9800', 'a', 'church', 'cuisine', 'house', 'ic', 'k36', 'of', 'pakistan', 'paya', 'st', 'tea', 'tex-mexican', 'touch', 'traditional']",0
-11_06.jpg,"['coffee', 'starbucks']","['coffee', 'starbucks']",1
-05_01.jpg,"['moon', 'palace']","['>', 'moon', 'palace', 'くの', 'くの>', '酒']",0
-05_05.jpg,"['draperies', 'fabrics', 'fine', ""fisherman's"", 'g.', 'inc', 'sons']","['fabrics', 'fine']",0
-17_05.jpg,"[""mcdonald's""]","[""mcdonald's""]",1
-08_10.jpg,"['1001', 'mckinney']",[],0
-02_09.jpg,"['&', 'access', 'cafeteria', 'first', 'for', 'garage', 'guests', 'hotel', 'mount', 'must', 'new', 'register', 'vernon']","['&', 'cafetecia', 'guests', 'hotel', 'irst', 'mount', 'must', 'nen', 'register', 'vetnon']",0
-09_18.jpg,"['211', 'homewood', 'suites']","['1', '2', 'homewood', 'suites', 'ta']",0
-18_15.jpg,"['&', 'avenue', 'bar', 'grill', 'sixth']","['&', 'avenue', 'bar', 'gril', 'ixth']",0
-09_05.jpg,['complexions'],['complexions'],1
-06_00.jpg,"['$1', '&', 'deli', 'espresso', 'fine', 'food', 'fresh', 'imports', 'italian', ""jimmy's"", 'meats', 'plus', 'sausages', 'shot', 'store', 'tax']","['$1', '8', 'espressi', 'food', 'fresh', 'hi', 'immys', 'imports&deli', 'italian', 'meats', 'plus', 'sausages', 'shot', 'store', 'tax']",0
-18_10.jpg,"['best', 'executive', 'inn', 'western']","['executive', 'inn', 'western']",0
-11_07.jpg,"['dido', 'dj', 'house', 'lane', 'latin', 'lisa', 'night', 'parliament', 'resort']","['dido', 'dj', 'house', 'parliament', 'resort']",0
-07_00.jpg,"['book', 'books', 'capitol', 'hill', 'the']","['books', 'capitol', 'hill']",0
-04_17.jpg,"['1', '5', '6', 'buy', 'delivers', 'free', 'get', 'gifts', 'he', 'jas', 'man', 'open', 'pizza']","['0', '1', 'bau', 'buy', 'et', 'gifts', 'jas', 'pizzaoman']",0
-17_04.jpg,"['closed', 'gombei']",['gombei'],0
-17_09.jpg,"['claire', 'sainte', 'the']","['claire', 'sainte', 'the']",1
-17_19.jpg,"['18', '6', 'anno', 'apr', 'domini', 'mar', 'saner', 'thru']","['anno', 'apri8', 'domini', 'marg', 'saner', 'thru']",0
-14_01.jpg,['higgins'],['higgins'],1
-07_07.jpg,"['&', '6', '8', 'alaskan', 'amber', 'are', 'bud', 'custom', 'days', 'framing', 'have', 'hollywood', 'in', 'in', 'light', 'more', 'movie', 'only', 'posters', 'quality', 'rock', 'than', 'the', 'there', 'to', 'we', 'world']","['!', '""', '""we', '1', '6', '8', ':', 'are', 'custom', 'days', 'days!', 'have', 'hollywood', 'in', 'more', 'movie&rock', 'only', 'posters', 'quality', 'than', 'the', 'there', 'world', 'world!""']",0
-16_13.jpg,"['129', 'restaurant', 'tara']","['restaurant', 'tara']",0
-05_16.jpg,['target'],['target'],1
-00_10.jpg,"[""angelo's"", 'beer', 'car', 'hamburgers', 'hop', 'laundromat', 'service', 'to', 'video', 'welcome']","['amburgers', 'angela', 'aundromat', 'serr']",0
-19_09.jpg,"['&', '1417', 'a', 'america', 'book', 'books', 'booksforamerica.org', 'bookstore', 'building', 'cds', 'donate', 'efforts', 'for', 'help', 'here', 'library', 'literacy', 'movies', 'new', 'non-profit', 'our', 'sale', 'support', 'used']","['&', '1417', 'america', 'books', 'donate', 'efforts', 'for', 'help', 'iteracy', 'now', 'our', 'support', 'used', 'utique']",0
-13_05.jpg,"['el', 'portal']","['el', 'portal']",1
-14_15.jpg,['genies'],['genies'],1
-13_16.jpg,"['arts', 'modified']","[')', '>', 'arts', 'modified', 'くぎ', 'くぎ)']",0
-18_06.jpg,"['10-22', '40%', '60%', 'across', 'adult', 'advisory', 'america', 'avenue', 'avenueq.com', 'broadway', 'from', 'june', 'paramount', 'parental', 'rubber', 'situations']","['10-22', '4', ':', 'adult', 'advisory', 'advisory:', 'avenueq.com', 'foam', 'june', 'paramount', 'parental', 'rubber', 'situations']",0
-13_11.jpg,"['auto', 'magic']","['auto', 'magic']",1
-05_11.jpg,"['&', 'bar', 'certified', 'corner', 'grill', 'grocers', ""martin's""]","['&', 'bar', 'corner', 'grill', ""martin's""]",0
-14_07.jpg,"['college', 'everest']","['college', 'everest']",1
-07_10.jpg,"['day', 'every', 'free', 'mall', ""mcdonald's"", 'ride']","[""cdonald's"", 'free', 'mall', 'ride']",0
-11_10.jpg,"['church', 'dianetics', 'foundation', 'hubbard', 'of', 'scientology']","['2009', 'church', 'dianetics', 'fundation', 'good', 'of', 'scientology']",0
-14_11.jpg,"['outdoor', 'store', 'u.s.', 'water']","['outdoor', 'store', 'u.s.']",0
-18_07.jpg,"['alterations', 'city', 'custom', 'hotel', 'moore', 'tailors', 'the']","['alterations', 'hotel', 'moore', 'tailo', 'the']",0
-05_13.jpg,"['at&t', 'gamestop']","['at&t', 'gamesto']",0
-15_01.jpg,"['embassy', 'parking', 'suites']","['embassy', 'parking', 'suites']",1
-16_01.jpg,"['1231', 'hotel', 'whitcomb']",[],0
-19_01.jpg,"['box', 'bus', 'jewel', 'metro', 'no', 'or', 'parking', 'standing', 'tiny', 'zone']",[],0
-19_03.jpg,"['24', 'cvs', 'hours', 'pharmacy']","['24', 'cvs/pharmacy', 'hours']",0
-16_18.jpg,"['900', 'chw', 'francis', 'hospital', 'memorial', 'parking', 'saint', 'valet']","['francis', 'hosptalchw', 'memorial', 'saint']",0
-16_10.jpg,"['biersch', 'brewery', 'gordon', 'restaurant']","['biersch', 'breweryb', 'gordon', 'restaurant']",0
-09_17.jpg,"['and', 'center', 'conference', 'crowne', 'grand', 'hall', 'hotels', 'plaza', 'resorts', 'the']","['and', 'andー', 'center', 'conference', 'crowne', 'e', 'grand', 'hall', 'hotels', 'plaza', 're', 'sorts', 'the', 'ー']",0
-13_10.jpg,"['hut', 'pizza']",[],0
-14_03.jpg,"['living', 'room', 'theaters']","['living', 'room', 'theaters']",1
-01_05.jpg,"['1', '800', 'a', 'car', 'enterprise', 'rent']","['eenterprise', 'oo', 'r']",0
-02_16.jpg,"['2', '5', 'all', 'beer', 'bird', 'day', 'drank', 'during', 'events', 'flu', 'for', 'game', 'hampton', 'here', 'inn', 'latina', 'no', 'parking', 'pickles', 'pub', 'specials', 'stadium', 'wise']","['2', 'beer', 'bird', 'drank', 'flu', 'forss', 'here', 'latina', 'pickles', 'pub', 'speci', 'wise']",0
-04_01.jpg,"['&', '818-755-2700', 'a/c', 'chiropractic', 'deli', 'di', 'for', 'fresh', 'garny', 'giulio', 'lease', 'meat', 'medical', 'piken', 'space']","['chiropractic', 'di', 'fresh', 'giulio', 'meat&del', 'oarn', 'piken']",0
-03_02.jpg,"['2539', 'beads', 'ow', 'pen']","['beads', 'en']",0
-14_10.jpg,"['kitchen', 'park']","['kitchen', 'park']",1
-01_13.jpg,"['700', 'apparel', 'brand', 'cool', 'icebox', 'products', 'promotional', 'stuff', 'the']","['700', 'br', 'e', 'ol', 'pparel', 'products', 'promational', 'stuff', 'th']",0
-11_09.jpg,"['bar', 'central', 'east', 'phone', 'station']","['00', 'bar', 'central', 'east', 'l', 'phone', 'station']",0
-07_14.jpg,"['and', 'brown', 'comfort', 'hotel', 'inn', 'palace', 'spa']","['co', 'fort', 'inn']",0
-18_17.jpg,"['cinerama', 'www.cinerama.com']","['cinerama', 'www.cinerama.com']",1
-14_17.jpg,"['high', 'lincoln', 'school']","['high', 'lincoln', 'school']",1
-06_04.jpg,"['beer', 'cards', 'cocacola', 'for', 'lease', 'lotto', 'open', 'or', 'phone', 'sale', 'save-way', 'sip', 'the', 'wine']","['372', 'beer', 'cards', 'for', 'lease', 'lotto', 'or', 'phone', 'sale', 'save-way', 'wine']",0
-17_10.jpg,"['agency', 'liquid']","['agency', 'liquid']",1
-15_17.jpg,"['courtyard', 'marriott']","['courtyard', 'harriotl']",0
-05_06.jpg,"['jerome', 'school', 'st']","['school', 'stjerome']",0
-05_08.jpg,"['(312)225-8888', 'chinatown', 'hotel']","['1)225-8888', 'chinatown', 'hotel', '華埠', '華埠賓館', '賓館']",0
-17_18.jpg,"['billiards', 'first', 'south']","['billiards', 'first', 'south']",1
-08_14.jpg,['at&t'],[],0
-03_00.jpg,"['&', '1535', 'brewery', 'hand', 'left', 'mirror', 'mountain', 'pond', 'pub', 'sun']","['535', 'ountoin', 'pub&brewery', 'sun']",0
-02_03.jpg,"['1400', 'community', 'dunbar', 'high', 'laurence', 'orleans', 'paul', 'school', 'street']","['1400', 'community', 'dunbar', 'hion', 'laurence', 'orleans', 'paul', 'school', 'street']",0
-12_02.jpg,"['&', 'bank', 'day', 'dime', ""don't"", 'nickel', 'ny', 'open', 'pic', 'td', 'we', ""we're"", 'you']","['!', 'bank', 'day', ""don't"", 'free', 'free!', 'open', 'pic', 'td', ""we're"", 'you']",0
-12_15.jpg,"['jazz', 'ortliebs']",['ortliebs'],0
-02_04.jpg,"['4455', 'adams', 'atm', 'award', 'baltimore', 'beer', 'buffalo', 'camden', 'catering', 'draft', 'karaoke', 'pub', 'restaurant', 'samuel', 'specials', 'the']","['&', '-4455', 'award', 'baltimore', 'buffalo', 'camden', 'catering', 'draf', 'favori', 'karooke', 'n', 'pub', 'the', 'winn', 'www.camdenp']",0
-01_19.jpg,"['202', 'hertz', 'parking']",[],0
-12_06.jpg,"['artisans', 'cap', 'espresso', 'galato', 'giro', 'panini']","['gelato', 'oni', 'pan', 'presso']",0
-03_15.jpg,"['cookin', 'fox', 'heat', 'horton', 'reverend', 'the']",[],0
-16_14.jpg,"['1660', 'inn', 'square', 'washington']","['1660', 'inn', 'square', 'washington']",1
-03_12.jpg,['trident'],['trident'],1
-17_00.jpg,"['art', 'jose', 'museum', 'of', 'san']","['art', 'jose', 'm', 'museu', 'of', 'san']",0
-04_04.jpg,"['glenoaks', 'master', 'nails']","['563-4', '564410', 'glenoaks', 'mast', 'master', 'nails']",0
-07_16.jpg,"['620', 'ii', 'new', 'records', 'trax', 'used', 'wax']","['13""', '620', 'e.', 'ii', 'ore', 'trax', 'wax']",0
-09_10.jpg,"[""leon's""]",[],0
-02_11.jpg,"['cuisine', 'thai', 'thairish']","['cuisine', 'thai']",0
-04_07.jpg,"['glenoaks', 'mobile', 't']","['-', '.', '.-mobile', 'glenoaks', 'mobile']",0
-18_16.jpg,"['94', 'closed', 'restaurant', 'stewart']","['94', 'restaurant', 'stewart']",0
-05_03.jpg,"['foods', 'market', 'whole']","['foods', 'whole']",0
-10_02.jpg,"['coffee', 'donuts', 'dunkin']","['donuts', ""dunkin'"", 'pho']",0
-01_01.jpg,['budget'],['budget'],1
-07_19.jpg,"['(303)777-7777', '7228', 'cab', 'hotel', 'warwick', 'yellow']","['(303)', '728', '777-7777', 'cab', 'hote', 'warwick', 'yellow']",0
-10_18.jpg,"['7pm', '8am', 'except', 'except', 'frankly', 'loading', 'no', 'standing', 'sunday', 'trucks', 'unloading', 'wines']","['8am-7pm', 'except', 'frankl', 'no', 'standing', 'sunday', 'trucks', 'wines']",0
-01_04.jpg,['shell'],[],0
-17_07.jpg,"['&', 'carlos', 'ernst', 'san', 'st', 'young']",[],0
-09_02.jpg,"['25', 'ahead', 'construction', 'days', 'inn', 'jersey', 'new', 'road', 'st']","['25', 'ad', 'ahe', 'days', 'iinn', 'jersey', 'new', 'road', 'st']",0
-13_14.jpg,"['&', 'circles', 'discs', 'tapes']","['a', 'circles:discs', 'tapes']",0
-11_05.jpg,"['bike', 'delivery', ""kyle's"", 'shop', 'specials']","['0', '228-7088', 'bike', 'kyles', 'lali', 'shop', 'specials', 'up&deivery', 'vv']",0
-06_08.jpg,"['antique', ""b's"", 'free', 'lula', 'mall', 'open', 'rear']","['antique', ""b's"", 'lula', 'mall', 'n', 'open', 'rear']",0
-06_12.jpg,"['coffee', 'starbucks']",['coffee'],0
-04_05.jpg,"['church', 'first', 'methodist', 'united']","['church', 'first', 'methodist', 'united']",1
-11_15.jpg,"['&', 'colonial', 'hobby', 'inc', 'photo']","['&', 'coconiac', 'hobby', 'inc', 'photo']",0
-12_04.jpg,"['center', 'city', 'do', 'embassy', 'enter', 'not', 'parking', 'suites']","['center', 'city', 'do', 'embassy', 'enter', 'entir', 'not', 'parking', 'suites', '↓']",0
-18_00.jpg,"['antica', 'pizza', 'pizzeria', 'tribunali', 'via']","['antica', 'pizzeria', 'tribunali', 'via']",0
-08_17.jpg,"['spaghetti', 'warehouse']","['ar', 'ge', 'pa', 's', 'spaghetti', 't', 'warehouse']",0
-03_01.jpg,"['2709', 'boot', 'fitting', ""larry's"", 'spruce', 'street']","['2709', 'boot', 'fitting', 'gas', ""larry's"", 'spruce', 'street']",0
-08_04.jpg,"['allen', 'center', 'hess', 'one']","['center', 'hess', 'llen', 'くの']",0
-00_05.jpg,"['241', 'anaheim', 'library', 'muzeo', 'public']",['muzio'],0
-09_04.jpg,"['n', 'shake', 'steak']",[],0
-09_16.jpg,"['1610', 'anodizing', 'industrial']","['1610', 'anodizing', 'industrial']",1
-04_14.jpg,"['920', 'accountancy', 'closed', 'm&m']","['&', '21-6626', '9', '920', 'accountancy', 'closed', 'm', 'mers']",0
-07_08.jpg,"['avenue', 'free', 'gas', 'theater']",[],0
-15_14.jpg,"['1-800-598-1810', '660', 'comfort', 'g', 'gaslamp', 'inn', 'street']","['1-800-598-1810', '660', 'comfort', 'g', 'gaslamp', 'inn', 'street']",1
-01_18.jpg,"['fdc', 'hotel', 'quality']","['fdc', 'hotel', 'quality']",1
-00_07.jpg,"['anaheim', 'band', 'instruments']","['anaheim', 'band', 'instruments']",1
-02_14.jpg,['chiapparellis'],['chiapparellis'],1
-07_17.jpg,"['chinese', 'fax', 'food', 'great', 'tel', 'wall']","['-832-', '6611', '6612', '832', 'chinese', 'fax303', 'fooi', 'tel303']",0
-03_08.jpg,['timberline'],[],0
-01_10.jpg,"['payless', 'shoesource']","['paless', 'sheesource']",0
-05_10.jpg,"['chicago', 'grandstand', 'police']","['chicado', 'gra', 'grandstand', 'police']",0
-13_02.jpg,"['coffee', 'starbucks']",[],0
-11_02.jpg,"['hatsu', 'sushi']","['hatsu', 'sushi']",1
-15_08.jpg,"['casbah', 'the']","['dsba', 'the']",0
-18_05.jpg,"['&', '1410', 'dinner', 'lunch', ""quinn's""]","['&', 'dinner', 'lunch']",0
-07_05.jpg,"['13th', 'any', ""bender's"", ""domino's"", 'no', 'parking', 'pizza', 'time']","['benders', ""domino's"", 'ta']",0
-13_03.jpg,"['&', 'café', 'pasta', 'pizza', 'quiznos', 'roma', 'salads', 'subs', 'subs']","['&sabs', 'cafe', 'pasta', 'pizza', 'roma', 'salads']",0
-06_02.jpg,"['1924', 'bar', 'blue', 'collar', 'the']","['1924', 'bar', 'the']",0
-11_00.jpg,"['bohemian', 'entrance', 'grand', 'hotel']","['bohemian', 'entrance', 'grand', 'hotel']",1
-13_08.jpg,"['a', 'car', 'enterprise', 'rent']","['ent', 'ise']",0
+02_19.jpg,"['arcade', ""brown's"", 'clean', 'dry', 'hair', 'inside', 'located', 'salon']","['altera', 'arcade', ""brown's"", 'clea', 'dr', 'expe', 'hair', 'lonaded', 'nside', 'salon', 'spe']",0.26666666666666666
+15_19.jpg,"['2', 'a', 'at', 'believe', 'boutique', 'designed', 'have', 'holiday', 'holiday', 'hotel', 'inn', 'inn', 'left', 'price', 'see', 'turn', 'yield', 'you']","['a', 'holiday', 'left', 'yield']",0.2222222222222222
+11_17.jpg,['tabu'],[],0.0
+01_09.jpg,"['corner', 'greek', ""nick's""]","['corner', 'greek', 'nicks']",0.5
+13_18.jpg,"['bar', ""portland's"", 'restaurant']","['bar', 'ds', ""portland's"", 'restaura', 't']",0.3333333333333333
+09_19.jpg,['simon'],['simon'],1.0
+05_14.jpg,"['de', 'la', 'salle']","['de', 'la', 'salle']",1.0
+04_19.jpg,"['$1', '&', 'children', 'cleaners', 'cut', 'glenoaks', 'hair', 'laundry', 'men', 'open', ""rubina's"", 'salon', 'shirts', 'supply', 'women']","['&', 'air', 'cleaner', 'cleaners', 'cu', 'glenoaks', 'laundry', 'men', 'salon', 'supply', 'ty']",0.3684210526315789
+01_02.jpg,"['75', 'one', ""sol's"", 'way']","[""sol's""]",0.25
+16_06.jpg,"['beat', 'books', 'bookstore', 'cash', 'city', 'lights']","['2009', 'books', 'city', 'g', 'lights']",0.375
+17_11.jpg,"['buy', 'leasing', 'miraido', 'office', 'village', 'wanted']","['leasing', 'mraidd', 'office', 'village']",0.42857142857142855
+15_04.jpg,"['1500', 'admission', 'american', 'and', 'art', 'european', 'free', 'icons', 'museum', 'of', 'paintings', 'russian', 'timken', 'works']","['2', '500', 'and', 'art', 'at', 'lcons', 'merican', 'museum', 'of', 'paintings', 'russian', 'timken', 'works']",0.42105263157894735
+14_02.jpg,['marriott'],['narrioft'],0.0
+12_16.jpg,"['bus', 'facility', 'mint', 'one', 'parking', 'states', 'tunnel', 'united', 'use', 'way']","['80s', 'facility', 'parking', 'un']",0.16666666666666666
+00_11.jpg,"['ford', 'mills', 'to', 'welcome']","['""', '2.', '>', '?', 'mills', 'to', 'welcome', 'くぎ', 'くぎ""?']",0.3
+09_03.jpg,"['café', ""houlihan's""]","['houlih', ""houlihan's""]",0.3333333333333333
+06_01.jpg,"['café', 'garden']","['cafe', 'girden']",0.0
+00_00.jpg,"['beer', 'doll', 'house', 'tap']","['beer', 'tap']",0.5
+14_08.jpg,"['avenue', 'fifth', 'pioneer', 'place', 'saks']","['avenue', 'fifth', 'pioneer', 'place', 'saks', '一', '一pioneer']",0.7142857142857143
+17_08.jpg,"['bo', 'chinese', 'town', 'vietnamese']","['bo', 'chinese', 't', 'vietnamesi']",0.3333333333333333
+12_18.jpg,"['$1', 'chinatown', 'ding', 'dollar', 'hardware', 'ho', 'houseware', 'inc', 'medicine', 'stationary', 'up']","['chinatown', 'dii', 'ding', 'dollar', 'hardware', 'hoser', 'inc.', 'metitine', 'o', 'stationery']",0.23529411764705882
+18_03.jpg,"['hotel', 'm', 'max']",[],0.0
+18_19.jpg,"['neumos', 'shows', 'upcoming']","['pcomina', 'show']",0.0
+19_06.jpg,"['adams', 'atm', 'everyday', 'fireplace', 'liquor', 'pacific', 'samuel', 'special', 'state', 'the', 'wine']","['(the', 'atm', 'be', 'fireplace', 'liquor']",0.23076923076923078
+13_13.jpg,"['55', 'space']",[],0.0
+15_07.jpg,"[""croce's"", 'restaurant']","[""croce's"", 'restaurant']",1.0
+09_00.jpg,"['centre', 'circle']","['centre', 'circle']",1.0
+14_14.jpg,"['and', 'and', 'life', 'microtia', 'satyriconpdx.com', 'station', 'system', 'the', 'times']","['and', 'life', 'microtia', 'satyriconpdx.com', 'station', 'system', 'the', 'times']",0.8888888888888888
+02_07.jpg,"['delicious', 'gigi', 'just', 'pizza', 'sapph']","['(gigi)', 'app']",0.0
+02_12.jpg,"['balitmore', 'scores']","['core', 'scores']",0.3333333333333333
+08_05.jpg,"['plaza', 'shell', 'two']","['>', 'plaza', 'くの', 'くの>']",0.16666666666666666
+06_15.jpg,"['day', 'physicians', 'surgery']","['daysurgery', 'physicians']",0.25
+13_12.jpg,['ymca'],[],0.0
+09_14.jpg,"['brothers', 'products', 'zesco', 'zoll']","['""', '>', '?', 'brothers', 'products', 'ta', 'zesco', 'zolli̇', 'くぎ', 'くぎ""?']",0.2727272727272727
+13_04.jpg,"['dodge', 'phelps', 'tower']",[],0.0
+03_14.jpg,"['14th', '2010', 'best', 'himalayas', 'indian', 'lunch', 'restaurant', 'street']","['.', '14th', '2010', 'best', 'himalayas', 'indian', 'lunct', 'stre', '|']",0.4166666666666667
+04_03.jpg,"['446', 'barber', 'color', 'cut', 'modern', 'open', 'perm']","['446', 'barber', 'cut', 'erm', 'modern', 'olor']",0.4444444444444444
+17_15.jpg,"['division', 'goodsource', 'goodwill']","[':', 'goodwill', 'と', 'と:']",0.16666666666666666
+18_08.jpg,"['1130', 'garage']",[],0.0
+07_06.jpg,"['&', '8612057', 'andora', 'baked', 'bakery', 'captiol', 'custom', 'foods', 'for', 'gentlemen', 'goods', 'jewelry', 'ladies', 'tailors', 'watercourse']","['!', '&', '2057', '861', 'capitol', 'course', 'custom', 'for', 'gentlemen', 'jewelry', 'ladies', 'tailors', 'terco', 'terco!']",0.3181818181818182
+00_14.jpg,"['house', 'no', 'original', 'pancake', 'parking']","['house', 'pancake', 'parking']",0.6
+01_16.jpg,['embassy'],"['a', 'e', 'm', 's', 'y']",0.0
+03_18.jpg,"['barnsley', 'co.', 'michelin', 'tire', 'yokoha']","['barnsley', 'co', 'co.', 'tire']",0.5
+11_01.jpg,"['56', 'napasorn']",[],0.0
+07_13.jpg,"['$5', '1275', 'enter', 'large', 'open', 'order', ""quizno's"", 'subs']","['275', 'quiznosmsubs', 'quiznossubs']",0.0
+16_00.jpg,"['francisco', 'grand', 'hyatt', 'san']",['grand'],0.25
+15_02.jpg,"['beer', 'classic', 'draft', 'food', 'great', 'house', 'largest', 'of', 'rock', 'selection', ""world's"", 'yard']","['""', '>', '?', 'classic', 'dr', 'draftbeer', 'eat', 'food', 'house', 'largest', 'n', 'of', 'roc', 'selection', 'yard', 'くぎ', 'くぎ""?']",0.3181818181818182
+00_09.jpg,"['3,000', 'daily', 'goodwill', 'items', 'new', 'over', 'stocked', 'store']","['3,000', 'goodwill', 'over', 'store']",0.5
+14_18.jpg,['marriott'],['marrtott'],0.0
+13_07.jpg,"['eye', 'lounge']","['<07', '>', 'eye', 'lounge']",0.5
+00_12.jpg,['subway'],[],0.0
+18_09.jpg,"['and', 'pike', 'shop', 'western', 'wine']","['and', 'pike', 'shop', 'western', 'wine']",1.0
+16_02.jpg,"['54', 'mosser', 'parking', 'the']","['(', '54', 'li', 'li(', 'mosser', 'parking', 'the']",0.5714285714285714
+08_16.jpg,['alden'],['alden'],1.0
+15_06.jpg,"['cortez', 'el']","['cortez', 'el']",1.0
+10_03.jpg,"['176', '1k36', '212-240-9800', 'a', 'church', 'cuisine', 'express', 'house', 'of', 'open', 'pakistan', 'paya', 'phone', 'st.', 'tea', 'tex-mexican', 'touch', 'traditional']","['176', '212-240-9800', 'a', 'church', 'cuisine', 'house', 'ic', 'k36', 'of', 'pakistan', 'paya', 'st', 'tea', 'tex-mexican', 'touch', 'traditional']",0.6190476190476191
+11_06.jpg,"['coffee', 'starbucks']","['coffee', 'starbucks']",1.0
+05_01.jpg,"['moon', 'palace']","['>', 'moon', 'palace', 'くの', 'くの>', '酒']",0.3333333333333333
+05_05.jpg,"['draperies', 'fabrics', 'fine', ""fisherman's"", 'g.', 'inc', 'sons']","['fabrics', 'fine']",0.2857142857142857
+17_05.jpg,"[""mcdonald's""]","[""mcdonald's""]",1.0
+08_10.jpg,"['1001', 'mckinney']",[],0.0
+02_09.jpg,"['&', 'access', 'cafeteria', 'first', 'for', 'garage', 'guests', 'hotel', 'mount', 'must', 'new', 'register', 'vernon']","['&', 'cafetecia', 'guests', 'hotel', 'irst', 'mount', 'must', 'nen', 'register', 'vetnon']",0.35294117647058826
+09_18.jpg,"['211', 'homewood', 'suites']","['1', '2', 'homewood', 'suites', 'ta']",0.3333333333333333
+18_15.jpg,"['&', 'avenue', 'bar', 'grill', 'sixth']","['&', 'avenue', 'bar', 'gril', 'ixth']",0.42857142857142855
+09_05.jpg,['complexions'],['complexions'],1.0
+06_00.jpg,"['$1', '&', 'deli', 'espresso', 'fine', 'food', 'fresh', 'imports', 'italian', ""jimmy's"", 'meats', 'plus', 'sausages', 'shot', 'store', 'tax']","['$1', '8', 'espressi', 'food', 'fresh', 'hi', 'immys', 'imports&deli', 'italian', 'meats', 'plus', 'sausages', 'shot', 'store', 'tax']",0.47619047619047616
+18_10.jpg,"['best', 'executive', 'inn', 'western']","['executive', 'inn', 'western']",0.75
+11_07.jpg,"['dido', 'dj', 'house', 'lane', 'latin', 'lisa', 'night', 'parliament', 'resort']","['dido', 'dj', 'house', 'parliament', 'resort']",0.5555555555555556
+07_00.jpg,"['book', 'books', 'capitol', 'hill', 'the']","['books', 'capitol', 'hill']",0.6
+04_17.jpg,"['1', '5', '6', 'buy', 'delivers', 'free', 'get', 'gifts', 'he', 'jas', 'man', 'open', 'pizza']","['0', '1', 'bau', 'buy', 'et', 'gifts', 'jas', 'pizzaoman']",0.23529411764705882
+17_04.jpg,"['closed', 'gombei']",['gombei'],0.5
+17_09.jpg,"['claire', 'sainte', 'the']","['claire', 'sainte', 'the']",1.0
+17_19.jpg,"['18', '6', 'anno', 'apr', 'domini', 'mar', 'saner', 'thru']","['anno', 'apri8', 'domini', 'marg', 'saner', 'thru']",0.4
+14_01.jpg,['higgins'],['higgins'],1.0
+07_07.jpg,"['&', '6', '8', 'alaskan', 'amber', 'are', 'bud', 'custom', 'days', 'framing', 'have', 'hollywood', 'in', 'in', 'light', 'more', 'movie', 'only', 'posters', 'quality', 'rock', 'than', 'the', 'there', 'to', 'we', 'world']","['!', '""', '""we', '1', '6', '8', ':', 'are', 'custom', 'days', 'days!', 'have', 'hollywood', 'in', 'more', 'movie&rock', 'only', 'posters', 'quality', 'than', 'the', 'there', 'world', 'world!""']",0.45714285714285713
+16_13.jpg,"['129', 'restaurant', 'tara']","['restaurant', 'tara']",0.6666666666666666
+05_16.jpg,['target'],['target'],1.0
+00_10.jpg,"[""angelo's"", 'beer', 'car', 'hamburgers', 'hop', 'laundromat', 'service', 'to', 'video', 'welcome']","['amburgers', 'angela', 'aundromat', 'serr']",0.0
+19_09.jpg,"['&', '1417', 'a', 'america', 'book', 'books', 'booksforamerica.org', 'bookstore', 'building', 'cds', 'donate', 'efforts', 'for', 'help', 'here', 'library', 'literacy', 'movies', 'new', 'non-profit', 'our', 'sale', 'support', 'used']","['&', '1417', 'america', 'books', 'donate', 'efforts', 'for', 'help', 'iteracy', 'now', 'our', 'support', 'used', 'utique']",0.4074074074074074
+13_05.jpg,"['el', 'portal']","['el', 'portal']",1.0
+14_15.jpg,['genies'],['genies'],1.0
+13_16.jpg,"['arts', 'modified']","[')', '>', 'arts', 'modified', 'くぎ', 'くぎ)']",0.3333333333333333
+18_06.jpg,"['10-22', '40%', '60%', 'across', 'adult', 'advisory', 'america', 'avenue', 'avenueq.com', 'broadway', 'from', 'june', 'paramount', 'parental', 'rubber', 'situations']","['10-22', '4', ':', 'adult', 'advisory', 'advisory:', 'avenueq.com', 'foam', 'june', 'paramount', 'parental', 'rubber', 'situations']",0.45
+13_11.jpg,"['auto', 'magic']","['auto', 'magic']",1.0
+05_11.jpg,"['&', 'bar', 'certified', 'corner', 'grill', 'grocers', ""martin's""]","['&', 'bar', 'corner', 'grill', ""martin's""]",0.7142857142857143
+14_07.jpg,"['college', 'everest']","['college', 'everest']",1.0
+07_10.jpg,"['day', 'every', 'free', 'mall', ""mcdonald's"", 'ride']","[""cdonald's"", 'free', 'mall', 'ride']",0.42857142857142855
+11_10.jpg,"['church', 'dianetics', 'foundation', 'hubbard', 'of', 'scientology']","['2009', 'church', 'dianetics', 'fundation', 'good', 'of', 'scientology']",0.4444444444444444
+14_11.jpg,"['outdoor', 'store', 'u.s.', 'water']","['outdoor', 'store', 'u.s.']",0.75
+18_07.jpg,"['alterations', 'city', 'custom', 'hotel', 'moore', 'tailors', 'the']","['alterations', 'hotel', 'moore', 'tailo', 'the']",0.5
+05_13.jpg,"['at&t', 'gamestop']","['at&t', 'gamesto']",0.3333333333333333
+15_01.jpg,"['embassy', 'parking', 'suites']","['embassy', 'parking', 'suites']",1.0
+16_01.jpg,"['1231', 'hotel', 'whitcomb']",[],0.0
+19_01.jpg,"['box', 'bus', 'jewel', 'metro', 'no', 'or', 'parking', 'standing', 'tiny', 'zone']",[],0.0
+19_03.jpg,"['24', 'cvs', 'hours', 'pharmacy']","['24', 'cvs/pharmacy', 'hours']",0.4
+16_18.jpg,"['900', 'chw', 'francis', 'hospital', 'memorial', 'parking', 'saint', 'valet']","['francis', 'hosptalchw', 'memorial', 'saint']",0.3333333333333333
+16_10.jpg,"['biersch', 'brewery', 'gordon', 'restaurant']","['biersch', 'breweryb', 'gordon', 'restaurant']",0.6
+09_17.jpg,"['and', 'center', 'conference', 'crowne', 'grand', 'hall', 'hotels', 'plaza', 'resorts', 'the']","['and', 'andー', 'center', 'conference', 'crowne', 'e', 'grand', 'hall', 'hotels', 'plaza', 're', 'sorts', 'the', 'ー']",0.6
+13_10.jpg,"['hut', 'pizza']",[],0.0
+14_03.jpg,"['living', 'room', 'theaters']","['living', 'room', 'theaters']",1.0
+01_05.jpg,"['1', '800', 'a', 'car', 'enterprise', 'rent']","['eenterprise', 'oo', 'r']",0.0
+02_16.jpg,"['2', '5', 'all', 'beer', 'bird', 'day', 'drank', 'during', 'events', 'flu', 'for', 'game', 'hampton', 'here', 'inn', 'latina', 'no', 'parking', 'pickles', 'pub', 'specials', 'stadium', 'wise']","['2', 'beer', 'bird', 'drank', 'flu', 'forss', 'here', 'latina', 'pickles', 'pub', 'speci', 'wise']",0.4
+04_01.jpg,"['&', '818-755-2700', 'a/c', 'chiropractic', 'deli', 'di', 'for', 'fresh', 'garny', 'giulio', 'lease', 'meat', 'medical', 'piken', 'space']","['chiropractic', 'di', 'fresh', 'giulio', 'meat&del', 'oarn', 'piken']",0.29411764705882354
+03_02.jpg,"['2539', 'beads', 'ow', 'pen']","['beads', 'en']",0.2
+14_10.jpg,"['kitchen', 'park']","['kitchen', 'park']",1.0
+01_13.jpg,"['700', 'apparel', 'brand', 'cool', 'icebox', 'products', 'promotional', 'stuff', 'the']","['700', 'br', 'e', 'ol', 'pparel', 'products', 'promational', 'stuff', 'th']",0.2
+11_09.jpg,"['bar', 'central', 'east', 'phone', 'station']","['00', 'bar', 'central', 'east', 'l', 'phone', 'station']",0.7142857142857143
+07_14.jpg,"['and', 'brown', 'comfort', 'hotel', 'inn', 'palace', 'spa']","['co', 'fort', 'inn']",0.1111111111111111
+18_17.jpg,"['cinerama', 'www.cinerama.com']","['cinerama', 'www.cinerama.com']",1.0
+14_17.jpg,"['high', 'lincoln', 'school']","['high', 'lincoln', 'school']",1.0
+06_04.jpg,"['beer', 'cards', 'cocacola', 'for', 'lease', 'lotto', 'open', 'or', 'phone', 'sale', 'save-way', 'sip', 'the', 'wine']","['372', 'beer', 'cards', 'for', 'lease', 'lotto', 'or', 'phone', 'sale', 'save-way', 'wine']",0.6666666666666666
+17_10.jpg,"['agency', 'liquid']","['agency', 'liquid']",1.0
+15_17.jpg,"['courtyard', 'marriott']","['courtyard', 'harriotl']",0.3333333333333333
+05_06.jpg,"['jerome', 'school', 'st']","['school', 'stjerome']",0.25
+05_08.jpg,"['(312)225-8888', 'chinatown', 'hotel']","['1)225-8888', 'chinatown', 'hotel', '華埠', '華埠賓館', '賓館']",0.2857142857142857
+17_18.jpg,"['billiards', 'first', 'south']","['billiards', 'first', 'south']",1.0
+08_14.jpg,['at&t'],[],0.0
+03_00.jpg,"['&', '1535', 'brewery', 'hand', 'left', 'mirror', 'mountain', 'pond', 'pub', 'sun']","['535', 'ountoin', 'pub&brewery', 'sun']",0.07692307692307693
+02_03.jpg,"['1400', 'community', 'dunbar', 'high', 'laurence', 'orleans', 'paul', 'school', 'street']","['1400', 'community', 'dunbar', 'hion', 'laurence', 'orleans', 'paul', 'school', 'street']",0.8
+12_02.jpg,"['&', 'bank', 'day', 'dime', ""don't"", 'nickel', 'ny', 'open', 'pic', 'td', 'we', ""we're"", 'you']","['!', 'bank', 'day', ""don't"", 'free', 'free!', 'open', 'pic', 'td', ""we're"", 'you']",0.5
+12_15.jpg,"['jazz', 'ortliebs']",['ortliebs'],0.5
+02_04.jpg,"['4455', 'adams', 'atm', 'award', 'baltimore', 'beer', 'buffalo', 'camden', 'catering', 'draft', 'karaoke', 'pub', 'restaurant', 'samuel', 'specials', 'the']","['&', '-4455', 'award', 'baltimore', 'buffalo', 'camden', 'catering', 'draf', 'favori', 'karooke', 'n', 'pub', 'the', 'winn', 'www.camdenp']",0.2916666666666667
+01_19.jpg,"['202', 'hertz', 'parking']",[],0.0
+12_06.jpg,"['artisans', 'cap', 'espresso', 'galato', 'giro', 'panini']","['gelato', 'oni', 'pan', 'presso']",0.0
+03_15.jpg,"['cookin', 'fox', 'heat', 'horton', 'reverend', 'the']",[],0.0
+16_14.jpg,"['1660', 'inn', 'square', 'washington']","['1660', 'inn', 'square', 'washington']",1.0
+03_12.jpg,['trident'],['trident'],1.0
+17_00.jpg,"['art', 'jose', 'museum', 'of', 'san']","['art', 'jose', 'm', 'museu', 'of', 'san']",0.5714285714285714
+04_04.jpg,"['glenoaks', 'master', 'nails']","['563-4', '564410', 'glenoaks', 'mast', 'master', 'nails']",0.5
+07_16.jpg,"['620', 'ii', 'new', 'records', 'trax', 'used', 'wax']","['13""', '620', 'e.', 'ii', 'ore', 'trax', 'wax']",0.4
+09_10.jpg,"[""leon's""]",[],0.0
+02_11.jpg,"['cuisine', 'thai', 'thairish']","['cuisine', 'thai']",0.6666666666666666
+04_07.jpg,"['glenoaks', 'mobile', 't']","['-', '.', '.-mobile', 'glenoaks', 'mobile']",0.3333333333333333
+18_16.jpg,"['94', 'closed', 'restaurant', 'stewart']","['94', 'restaurant', 'stewart']",0.75
+05_03.jpg,"['foods', 'market', 'whole']","['foods', 'whole']",0.6666666666666666
+10_02.jpg,"['coffee', 'donuts', 'dunkin']","['donuts', ""dunkin'"", 'pho']",0.2
+01_01.jpg,['budget'],['budget'],1.0
+07_19.jpg,"['(303)777-7777', '7228', 'cab', 'hotel', 'warwick', 'yellow']","['(303)', '728', '777-7777', 'cab', 'hote', 'warwick', 'yellow']",0.3
+10_18.jpg,"['7pm', '8am', 'except', 'except', 'frankly', 'loading', 'no', 'standing', 'sunday', 'trucks', 'unloading', 'wines']","['8am-7pm', 'except', 'frankl', 'no', 'standing', 'sunday', 'trucks', 'wines']",0.42857142857142855
+01_04.jpg,['shell'],[],0.0
+17_07.jpg,"['&', 'carlos', 'ernst', 'san', 'st', 'young']",[],0.0
+09_02.jpg,"['25', 'ahead', 'construction', 'days', 'inn', 'jersey', 'new', 'road', 'st']","['25', 'ad', 'ahe', 'days', 'iinn', 'jersey', 'new', 'road', 'st']",0.5
+13_14.jpg,"['&', 'circles', 'discs', 'tapes']","['a', 'circles:discs', 'tapes']",0.16666666666666666
+11_05.jpg,"['bike', 'delivery', ""kyle's"", 'shop', 'specials']","['0', '228-7088', 'bike', 'kyles', 'lali', 'shop', 'specials', 'up&deivery', 'vv']",0.2727272727272727
+06_08.jpg,"['antique', ""b's"", 'free', 'lula', 'mall', 'open', 'rear']","['antique', ""b's"", 'lula', 'mall', 'n', 'open', 'rear']",0.75
+06_12.jpg,"['coffee', 'starbucks']",['coffee'],0.5
+04_05.jpg,"['church', 'first', 'methodist', 'united']","['church', 'first', 'methodist', 'united']",1.0
+11_15.jpg,"['&', 'colonial', 'hobby', 'inc', 'photo']","['&', 'coconiac', 'hobby', 'inc', 'photo']",0.6666666666666666
+12_04.jpg,"['center', 'city', 'do', 'embassy', 'enter', 'not', 'parking', 'suites']","['center', 'city', 'do', 'embassy', 'enter', 'entir', 'not', 'parking', 'suites', '↓']",0.8
+18_00.jpg,"['antica', 'pizza', 'pizzeria', 'tribunali', 'via']","['antica', 'pizzeria', 'tribunali', 'via']",0.8
+08_17.jpg,"['spaghetti', 'warehouse']","['ar', 'ge', 'pa', 's', 'spaghetti', 't', 'warehouse']",0.2857142857142857
+03_01.jpg,"['2709', 'boot', 'fitting', ""larry's"", 'spruce', 'street']","['2709', 'boot', 'fitting', 'gas', ""larry's"", 'spruce', 'street']",0.8571428571428571
+08_04.jpg,"['allen', 'center', 'hess', 'one']","['center', 'hess', 'llen', 'くの']",0.3333333333333333
+00_05.jpg,"['241', 'anaheim', 'library', 'muzeo', 'public']",['muzio'],0.0
+09_04.jpg,"['n', 'shake', 'steak']",[],0.0
+09_16.jpg,"['1610', 'anodizing', 'industrial']","['1610', 'anodizing', 'industrial']",1.0
+04_14.jpg,"['920', 'accountancy', 'closed', 'm&m']","['&', '21-6626', '9', '920', 'accountancy', 'closed', 'm', 'mers']",0.3333333333333333
+07_08.jpg,"['avenue', 'free', 'gas', 'theater']",[],0.0
+15_14.jpg,"['1-800-598-1810', '660', 'comfort', 'g', 'gaslamp', 'inn', 'street']","['1-800-598-1810', '660', 'comfort', 'g', 'gaslamp', 'inn', 'street']",1.0
+01_18.jpg,"['fdc', 'hotel', 'quality']","['fdc', 'hotel', 'quality']",1.0
+00_07.jpg,"['anaheim', 'band', 'instruments']","['anaheim', 'band', 'instruments']",1.0
+02_14.jpg,['chiapparellis'],['chiapparellis'],1.0
+07_17.jpg,"['chinese', 'fax', 'food', 'great', 'tel', 'wall']","['-832-', '6611', '6612', '832', 'chinese', 'fax303', 'fooi', 'tel303']",0.07692307692307693
+03_08.jpg,['timberline'],[],0.0
+01_10.jpg,"['payless', 'shoesource']","['paless', 'sheesource']",0.0
+05_10.jpg,"['chicago', 'grandstand', 'police']","['chicado', 'gra', 'grandstand', 'police']",0.4
+13_02.jpg,"['coffee', 'starbucks']",[],0.0
+11_02.jpg,"['hatsu', 'sushi']","['hatsu', 'sushi']",1.0
+15_08.jpg,"['casbah', 'the']","['dsba', 'the']",0.3333333333333333
+18_05.jpg,"['&', '1410', 'dinner', 'lunch', ""quinn's""]","['&', 'dinner', 'lunch']",0.6
+07_05.jpg,"['13th', 'any', ""bender's"", ""domino's"", 'no', 'parking', 'pizza', 'time']","['benders', ""domino's"", 'ta']",0.1
+13_03.jpg,"['&', 'café', 'pasta', 'pizza', 'quiznos', 'roma', 'salads', 'subs', 'subs']","['&sabs', 'cafe', 'pasta', 'pizza', 'roma', 'salads']",0.36363636363636365
+06_02.jpg,"['1924', 'bar', 'blue', 'collar', 'the']","['1924', 'bar', 'the']",0.6
+11_00.jpg,"['bohemian', 'entrance', 'grand', 'hotel']","['bohemian', 'entrance', 'grand', 'hotel']",1.0
+13_08.jpg,"['a', 'car', 'enterprise', 'rent']","['ent', 'ise']",0.0
