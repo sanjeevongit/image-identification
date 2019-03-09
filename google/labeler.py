@@ -12,6 +12,7 @@ import pandas as pd
 import re
 import time
 import nltk
+from tqdm import tqdm
 nltk.download('wordnet')
 # Imports the Google Cloud client library
 # pip install google-cloud-vision
@@ -32,7 +33,7 @@ def get_dataset(directory):
     for path, directories, files in os.walk(directory):
         for file in files:
             filename, file_extension = os.path.splitext(file)
-            if file_extension.strip().lower() == '.jpg':
+            if (file_extension.strip().lower() == '.jpg') or (file_extension.strip().lower() == '.jpeg'):
                 label = lemmatizer.lemmatize(extract_label(path))
                 row = pd.DataFrame([[os.path.join(path, file), label]], columns=['path', 'class'])
                 data = data.append(row, ignore_index=True)
@@ -42,7 +43,7 @@ data = get_dataset('../data/ImageNet')
 tags = pd.DataFrame(columns=['tag1', 'score1', 'tag2', 'score2', 'tag3', 'score3', 'tag4', 'score4', 'tag5', 'score5', 'success'])
 start_time = time.time()
 
-for i in range(len(data)):
+for i in tqdm(range(len(data))):
     file_name = data.path[i]
     # Loads the image into memory
     with io.open(file_name, 'rb') as image_file:
