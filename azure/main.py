@@ -1,14 +1,14 @@
 import json
 import label
 from azure.cognitiveservices.vision.computervision import ComputerVisionAPI
-# from azure.cognitiveservices.vision.computervision.models import VisualFeatureTypes
+from azure.cognitiveservices.vision.computervision.models import VisualFeatureTypes
 from msrest.authentication import CognitiveServicesCredentials
 from pprint import pprint
 from pathlib import Path
+import numpy as np
+import pandas as pd
 
-# Get region and key from environment variables
-# Set credentials
-# credentials = CognitiveServicesCredentials(key)
+import io
 
 
 def create_client():
@@ -24,13 +24,18 @@ def create_client():
     return ComputerVisionAPI(region, credentials)
 
 
-# client = ComputerVisionAPI(region, credentials)
-
 if __name__ == '__main__':
-    client = create_client()
     label_path = Path("../data/ImageNet")
-
     l = label.Labeler(label_path)
-    print (l.data)
+
+    client = create_client()
+    n = 5
+    f = l.data.head(n)
+    f.apply()
+    full_labels = f.apply()
+
+    open(Path(l.data['path'][1]), "rb")
+    # d = client.tag_image_in_stream(sample)
+
 
 # execute only if run as the entry point into the program
