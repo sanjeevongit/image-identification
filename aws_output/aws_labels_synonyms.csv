@@ -1,0 +1,251 @@
+filename,class,tag1:score1,tag2:score2,tag3:score3,tag4:score4,tag5:score5
+.\Data\ImageNet\bicycle_n02834778\0.jpg,bicycle,Transportation:0.99961,Bicycle:0.99961,Person:0.99851,Car:0.98262,Wheel:0.98217
+.\Data\ImageNet\bicycle_n02834778\1.jpg,bicycle,Vehicle:0.99857,Bicycle:0.99857,Transportation:0.99857,Wheel:0.83194,Spoke:0.63950
+.\Data\ImageNet\bicycle_n02834778\10.jpg,bicycle,Person:0.99474,Transportation:0.98855,Vehicle:0.98855,Car:0.98855,Bicycle:0.95053
+.\Data\ImageNet\bicycle_n02834778\11.jpg,bicycle,Bicycle:0.99594,Person:0.99560,Traffic Light:0.99500,Car:0.97222,Clothing:0.93423
+.\Data\ImageNet\bicycle_n02834778\12.jpg,bicycle,Transportation:0.99499,Vehicle:0.99499,Car:0.99499,Bicycle:0.89666,License Plate:0.71193
+.\Data\ImageNet\bicycle_n02834778\13.jpg,bicycle,Bicycle:0.99871,Vehicle:0.99871,Transportation:0.99871,Person:0.99689,Wheel:0.95005
+.\Data\ImageNet\bicycle_n02834778\14.jpg,bicycle,Wheel:0.99947,Bicycle:0.99790,Transportation:0.99790,Person:0.99693,Mountain Bike:0.95691
+.\Data\ImageNet\bicycle_n02834778\15.jpg,bicycle,Person:0.99888,Shorts:0.99742,Vehicle:0.91963,Transportation:0.91963,Bicycle:0.90134
+.\Data\ImageNet\bicycle_n02834778\16.jpg,bicycle,Vehicle:0.99973,Bicycle:0.99973,Transportation:0.99973,Wheel:0.98653,Outdoors:0.73518
+.\Data\ImageNet\bicycle_n02834778\17.jpg,bicycle,Vehicle:0.99989,Bicycle:0.99989,Transportation:0.99989,Wheel:0.99454,Mountain Bike:0.81714
+.\Data\ImageNet\bicycle_n02834778\18.jpg,bicycle,Vehicle:0.99538,Bicycle:0.99538,Transportation:0.99538,Person:0.98526,Bmx:0.96484
+.\Data\ImageNet\bicycle_n02834778\19.jpg,bicycle,Person:0.99772,Vehicle:0.98360,Bicycle:0.98360,Transportation:0.98360,Wheel:0.95262
+.\Data\ImageNet\bicycle_n02834778\2.jpg,bicycle,Vehicle:0.99986,Bicycle:0.99986,Transportation:0.99986,Truck:0.99718,Person:0.98463
+.\Data\ImageNet\bicycle_n02834778\20.JPG,bicycle,Leisure Activities:0.99628,Circus:0.99628,Person:0.94906,Human:0.94906,
+.\Data\ImageNet\bicycle_n02834778\21.jpg,bicycle,Vehicle:0.99542,Bicycle:0.99542,Transportation:0.99542,Wheel:0.95412,Mountain Bike:0.93639
+.\Data\ImageNet\bicycle_n02834778\22.jpg,bicycle,Transportation:0.99872,Vehicle:0.99872,Bicycle:0.99872,Spoke:0.96484,Wheel:0.92866
+.\Data\ImageNet\bicycle_n02834778\23.jpg,bicycle,Person:0.99554,Path:0.99418,Neighborhood:0.96390,Sidewalk:0.90566,Transportation:0.81365
+.\Data\ImageNet\bicycle_n02834778\24.jpg,bicycle,Bicycle:0.99964,Vehicle:0.99964,Transportation:0.99964,Wheel:0.99903,Person:0.99867
+.\Data\ImageNet\bicycle_n02834778\3.jpg,bicycle,Plant:0.91898,Flower:0.91898,Vehicle:0.91712,Bicycle:0.91712,Transportation:0.91712
+.\Data\ImageNet\bicycle_n02834778\4.jpg,bicycle,Vehicle:0.99866,Bicycle:0.99866,Picket:0.99253,Fence:0.99253,Wheel:0.68680
+.\Data\ImageNet\bicycle_n02834778\5.jpg,bicycle,Transportation:0.99991,Vehicle:0.99991,Bicycle:0.99991,Wheel:0.98831,Mountain Bike:0.63152
+.\Data\ImageNet\bicycle_n02834778\6.jpg,bicycle,Wheel:0.99973,Transportation:0.99958,Vehicle:0.99958,Bicycle:0.99958,Person:0.99529
+.\Data\ImageNet\bicycle_n02834778\7.jpg,bicycle,Vehicle:0.99230,Bicycle:0.99230,Transportation:0.99230,Brick:0.92980,Door:0.86399
+.\Data\ImageNet\bicycle_n02834778\8.jpg,bicycle,Machine:0.98532,Spoke:0.98532,Wheel:0.96096,Chandelier:0.94367,Tire:0.90082
+.\Data\ImageNet\bicycle_n02834778\9.jpg,bicycle,Bench:0.99915,Bicycle:0.99736,Person:0.99402,Wheel:0.99015,Plant:0.89651
+.\Data\ImageNet\birds_n01604330\0.jpg,birds:bird,Bird:0.99902,Animal:0.99902,Beak:0.97871,Plant:0.87461,Blackbird:0.87366
+.\Data\ImageNet\birds_n01604330\1.jpg,birds:bird,Bird:0.99377,Animal:0.99377,Waterfowl:0.86146,Beak:0.72480,Stork:0.59576
+.\Data\ImageNet\birds_n01604330\10.jpg,birds:bird,Animal:0.99871,Bird:0.99871,Hawk:0.99227,Buzzard:0.99227,Accipiter:0.94113
+.\Data\ImageNet\birds_n01604330\11.jpg,birds:bird,Bird:0.99903,Goose:0.99903,Animal:0.99903,,
+.\Data\ImageNet\birds_n01604330\12.jpg,birds:bird,Bird:0.99849,Beak:0.99849,Animal:0.99849,Vulture:0.99139,Kite Bird:0.88471
+.\Data\ImageNet\birds_n01604330\13.jpg,birds:bird,Bird:0.99673,Animal:0.99673,Blackbird:0.96422,Agelaius:0.96422,
+.\Data\ImageNet\birds_n01604330\14.jpg,birds:bird,Animal:0.99988,Bird:0.99988,Bee Eater:0.95205,Hummingbird:0.94823,
+.\Data\ImageNet\birds_n01604330\15.jpg,birds:bird,Dog:0.98659,Animal:0.98659,Mammal:0.98659,Pet:0.98659,Canine:0.98659
+.\Data\ImageNet\birds_n01604330\16.jpg,birds:bird,Animal:0.99954,Bird:0.99954,Wren:0.91428,Beak:0.87211,Finch:0.81140
+.\Data\ImageNet\birds_n01604330\17.jpg,birds:bird,Animal:0.99815,Bird:0.99815,Anthus:0.97647,Sparrow:0.96836,Rock:0.83351
+.\Data\ImageNet\birds_n01604330\18.jpg,birds:bird,Animal:0.99960,Bird:0.99960,Jay:0.94309,Bluebird:0.76201,Beak:0.75233
+.\Data\ImageNet\birds_n01604330\19.jpg,birds:bird,Bird:0.99720,Animal:0.99720,Waterfowl:0.96060,Duck:0.95937,Anseriformes:0.86806
+.\Data\ImageNet\birds_n01604330\2.jpg,birds:bird,Bird:0.99893,Animal:0.99893,Beak:0.97955,Seagull:0.97128,Albatross:0.73702
+.\Data\ImageNet\birds_n01604330\20.jpg,birds:bird,Bee Eater:0.99967,Animal:0.99967,Bird:0.99967,Hummingbird:0.64927,Plant:0.56865
+.\Data\ImageNet\birds_n01604330\21.jpg,birds:bird,Bird:0.95801,Rooster:0.95801,Poultry:0.95801,Fowl:0.95801,Animal:0.95801
+.\Data\ImageNet\birds_n01604330\22.jpg,birds:bird,Animal:0.99890,Bird:0.99890,Parakeet:0.99890,Parrot:0.99890,
+.\Data\ImageNet\birds_n01604330\23.jpg,birds:bird,Antelope:0.94138,Animal:0.94138,Beak:0.89392,Bird:0.89392,Tree:0.69642
+.\Data\ImageNet\birds_n01604330\24.JPG,birds:bird,Bird:0.99696,Animal:0.99696,Beak:0.96676,Sparrow:0.76723,Finch:0.75144
+.\Data\ImageNet\birds_n01604330\3.jpg,birds:bird,Bird:0.99876,Animal:0.99876,Accipiter:0.98225,Anthus:0.87104,Tree:0.73941
+.\Data\ImageNet\birds_n01604330\4.jpg,birds:bird,Animal:0.99906,Bird:0.99906,Bee Eater:0.98698,Vegetation:0.91697,Toucan:0.79301
+.\Data\ImageNet\birds_n01604330\5.jpg,birds:bird,Animal:0.99450,Bird:0.99450,Peacock:0.93274,,
+.\Data\ImageNet\birds_n01604330\6.jpg,birds:bird,Bird:0.99787,Animal:0.99787,Beak:0.96867,Sparrow:0.74089,Finch:0.73096
+.\Data\ImageNet\birds_n01604330\7.jpg,birds:bird,Bird:0.99823,Nature:0.90641,Water:0.88647,Outdoors:0.87499,Shoreline:0.86438
+.\Data\ImageNet\birds_n01604330\8.jpg,birds:bird,Bird:0.99907,Animal:0.99907,Hummingbird:0.96712,Beak:0.82269,
+.\Data\ImageNet\birds_n01604330\9.jpg,birds:bird,Bird:0.99826,Jay:0.99826,Animal:0.99826,Blue Jay:0.97221,Bluebird:0.91960
+.\Data\ImageNet\dog_n02084071\0.jpg,dog,Person:0.99276,Home Decor:0.98940,Strap:0.95411,Dog:0.93897,Pillow:0.89500
+.\Data\ImageNet\dog_n02084071\1.jpg,dog,Animal:0.97870,Canine:0.97870,Mammal:0.97870,Dog:0.97870,Rock:0.89634
+.\Data\ImageNet\dog_n02084071\10.jpg,dog,Nature:0.99665,Outdoors:0.99536,Snow:0.98141,Ice:0.93356,Dog:0.92206
+.\Data\ImageNet\dog_n02084071\11.jpg,dog,Snout:0.99455,Mammal:0.83290,Animal:0.83290,Labrador Retriever:0.83290,Canine:0.83290
+.\Data\ImageNet\dog_n02084071\12.jpg,dog,Dog:0.97079,Canine:0.97079,Pet:0.97079,Clothing:0.81306,Lifejacket:0.74991
+.\Data\ImageNet\dog_n02084071\13.jpg,dog,Water:0.96101,Outdoors:0.93513,Mammal:0.89006,Canine:0.89006,Nature:0.85898
+.\Data\ImageNet\dog_n02084071\14.jpg,dog,Bicycle:0.99492,Transportation:0.99492,Vehicle:0.99492,Path:0.98833,Wheel:0.94409
+.\Data\ImageNet\dog_n02084071\15.jpg,dog,Grass:0.97777,Animal:0.97294,Pet:0.97294,Dog:0.97294,Canine:0.97294
+.\Data\ImageNet\dog_n02084071\16.jpg,dog,Furniture:0.99885,Chair:0.99617,Cushion:0.99606,Couch:0.98979,Pillow:0.97754
+.\Data\ImageNet\dog_n02084071\17.jpg,dog,Dog:0.98926,Canine:0.98926,Mammal:0.98926,Pet:0.98926,Hound:0.89110
+.\Data\ImageNet\dog_n02084071\18.jpg,dog,Pet:0.95564,Canine:0.95564,Dog:0.95564,Hound:0.95564,Wood:0.95300
+.\Data\ImageNet\dog_n02084071\19.jpg,dog,Canine:0.97733,Animal:0.97733,Dog:0.97733,Pet:0.97733,Hound:0.97516
+.\Data\ImageNet\dog_n02084071\2.jpg,dog,Plant:0.99929,Grass:0.99929,Puppy:0.98501,Canine:0.98501,Dog:0.98501
+.\Data\ImageNet\dog_n02084071\20.jpg,dog,Strap:0.99534,Dog:0.99199,Person:0.99120,Leash:0.97171,Water:0.91173
+.\Data\ImageNet\dog_n02084071\21.jpg,dog,Canine:0.96839,Mammal:0.96839,Pet:0.96715,Pug:0.96715,Dog:0.96715
+.\Data\ImageNet\dog_n02084071\22.jpg,dog,Dog:0.99535,Road:0.98311,Gravel:0.98311,Ground:0.94857,Golden Retriever:0.85045
+.\Data\ImageNet\dog_n02084071\23.jpg,dog,Mammal:0.89472,Animal:0.89472,Hound:0.88046,Person:0.84072,Cattle:0.57201
+.\Data\ImageNet\dog_n02084071\24.JPG,dog,Animal:0.99172,Mammal:0.99172,German Shepherd:0.99172,Canine:0.99172,Pet:0.99172
+.\Data\ImageNet\dog_n02084071\3.jpg,dog,Strap:0.99995,Dog:0.99669,Mammal:0.99669,Animal:0.99669,Leash:0.95925
+.\Data\ImageNet\dog_n02084071\4.jpg,dog,Strap:0.99921,Dog:0.97682,Canine:0.97682,Leash:0.85775,Clothing:0.56972
+.\Data\ImageNet\dog_n02084071\5.jpg,dog,Pet:0.98681,Mammal:0.98681,Animal:0.98681,Canine:0.98681,Dog:0.98681
+.\Data\ImageNet\dog_n02084071\6.jpg,dog,Mammal:0.90709,Canine:0.90709,Animal:0.90709,Dog:0.90672,Pet:0.90672
+.\Data\ImageNet\dog_n02084071\7.jpg,dog,Mammal:0.94094,Canine:0.94094,Animal:0.94094,Pet:0.93468,Chihuahua:0.91312
+.\Data\ImageNet\dog_n02084071\8.jpg,dog,Strap:0.99934,Dog:0.98268,Canine:0.98268,Slate:0.93226,Leash:0.92031
+.\Data\ImageNet\dog_n02084071\9.jpg,dog,Pet:0.97743,Animal:0.97743,Dog:0.97743,Canine:0.97743,Mammal:0.97743
+.\Data\ImageNet\fishing_n00453935\0.jpg,fishing,Person:0.98842,Boat:0.98621,Animal:0.92071,Fish:0.92071,Outdoors:0.89137
+.\Data\ImageNet\fishing_n00453935\1.jpg,fishing,Person:0.99388,Tuna:0.98629,Animal:0.98629,Fish:0.98629,Sea Life:0.98629
+.\Data\ImageNet\fishing_n00453935\10.jpg,fishing,Coho:0.99954,Fish:0.99954,Animal:0.99954,Person:0.99029,Clothing:0.71624
+.\Data\ImageNet\fishing_n00453935\11.jpg,fishing,Animal:0.98368,Bird:0.98368,Water:0.91600,Fish:0.87538,Sea Life:0.80165
+.\Data\ImageNet\fishing_n00453935\12.jpg,fishing,Person:0.99347,Sturgeon:0.93539,Fish:0.93539,Animal:0.93539,Outdoors:0.65961
+.\Data\ImageNet\fishing_n00453935\13.jpg,fishing,Water:0.99806,Outdoors:0.99756,Person:0.98891,Fishing:0.98693,Angler:0.94538
+.\Data\ImageNet\fishing_n00453935\14.jpg,fishing,Person:0.95712,Boat:0.95257,Vehicle:0.95257,Transportation:0.95257,Watercraft:0.87690
+.\Data\ImageNet\fishing_n00453935\15.jpg,fishing,Water:0.99943,Outdoors:0.99938,Person:0.99665,Fishing:0.99498,Angler:0.95068
+.\Data\ImageNet\fishing_n00453935\16.jpg,fishing,Boat:0.99979,Outdoors:0.98148,Clothing:0.98113,Water:0.97956,Person:0.96329
+.\Data\ImageNet\fishing_n00453935\17.jpg,fishing,Vehicle:0.99800,Boat:0.99800,Transportation:0.99800,Person:0.99344,Cruiser:0.93319
+.\Data\ImageNet\fishing_n00453935\18.jpg,fishing,Animal:0.99973,Coho:0.99973,Fish:0.99973,Person:0.99921,Shoe:0.96148
+.\Data\ImageNet\fishing_n00453935\19.jpg,fishing,Person:0.99625,Water:0.99296,Outdoors:0.98903,Sunglasses:0.91987,Fishing:0.91328
+.\Data\ImageNet\fishing_n00453935\2.jpg,fishing,Person:0.91227,Animal:0.90176,Sea Life:0.90176,Clothing:0.84527,Fish:0.82270
+.\Data\ImageNet\fishing_n00453935\20.jpg,fishing,Boat:0.99483,Vehicle:0.99483,Transportation:0.99483,Outdoors:0.95311,Water:0.89082
+.\Data\ImageNet\fishing_n00453935\21.jpg,fishing,Person:0.99744,Transportation:0.93738,Vehicle:0.93738,Boat:0.93738,Tent:0.91575
+.\Data\ImageNet\fishing_n00453935\22.jpg,fishing,Water:0.98810,Outdoors:0.98429,Person:0.98048,Fishing:0.90612,Angler:0.84990
+.\Data\ImageNet\fishing_n00453935\23.jpg,fishing,Person:0.99821,Fish:0.99246,Animal:0.99246,Sea Life:0.99246,Tuna:0.99246
+.\Data\ImageNet\fishing_n00453935\24.jpg,fishing,Water:0.99897,Outdoors:0.99822,Person:0.99219,Fishing:0.98370,Angler:0.89532
+.\Data\ImageNet\fishing_n00453935\3.jpg,fishing,Transportation:0.94164,Cruiser:0.94164,Military:0.94164,Vehicle:0.94164,Water:0.87526
+.\Data\ImageNet\fishing_n00453935\4.jpg,fishing,Person:0.99536,Outdoors:0.96017,Water:0.95695,Animal:0.91466,Tuna:0.91466
+.\Data\ImageNet\fishing_n00453935\5.jpg,fishing,Person:0.99430,Water:0.98299,Outdoors:0.98042,Fishing:0.80358,Sea:0.68120
+.\Data\ImageNet\fishing_n00453935\6.jpg,fishing,Fish:0.97010,Coho:0.97010,Animal:0.97010,Person:0.90299,Tuna:0.83326
+.\Data\ImageNet\fishing_n00453935\7.jpg,fishing,Tuna:0.99151,Fish:0.99151,Sea Life:0.99151,Outdoors:0.91999,Bonito:0.91981
+.\Data\ImageNet\fishing_n00453935\8.jpg,fishing,Person:0.99805,Clothing:0.98292,Water:0.97606,Sunglasses:0.95677,Outdoors:0.88306
+.\Data\ImageNet\fishing_n00453935\9.jpg,fishing,Person:0.99554,Wood:0.91739,Outdoors:0.90760,Plywood:0.82130,Clothing:0.79757
+.\Data\ImageNet\gymnastics_n00433802\0.jpg,gymnastics,Person:0.98751,Acrobatic:0.94516,Sport:0.86066,Athlete:0.86066,Gymnastics:0.79725
+.\Data\ImageNet\gymnastics_n00433802\1.jpg,gymnastics,Person:0.99685,Athlete:0.99636,Gymnastics:0.98645,Acrobatic:0.98645,Gymnast:0.95838
+.\Data\ImageNet\gymnastics_n00433802\10.jpg,gymnastics,Person:0.99216,Athlete:0.97478,Sport:0.97478,Gymnast:0.78466,Gymnastics:0.78466
+.\Data\ImageNet\gymnastics_n00433802\11.jpg,gymnastics,Athlete:0.99343,Person:0.99343,Acrobatic:0.98738,Gymnastics:0.98718,Gymnast:0.95097
+.\Data\ImageNet\gymnastics_n00433802\12.jpg,gymnastics,Person:0.99885,Sport:0.96637,Athlete:0.96637,Gymnastics:0.89079,Dance:0.86908
+.\Data\ImageNet\gymnastics_n00433802\13.jpg,gymnastics,Person:0.99447,Dance:0.97010,Athlete:0.95723,Ballet:0.89595,Chair:0.85104
+.\Data\ImageNet\gymnastics_n00433802\14.jpg,gymnastics,Person:0.99560,Athlete:0.96526,Sport:0.96526,Acrobatic:0.93147,Gymnastics:0.93147
+.\Data\ImageNet\gymnastics_n00433802\15.jpg,gymnastics,Person:0.99662,Sport:0.99116,Athlete:0.99116,Acrobatic:0.94862,Gymnastics:0.94862
+.\Data\ImageNet\gymnastics_n00433802\16.jpg,gymnastics,Person:0.98827,Sport:0.98827,Athlete:0.98827,Acrobatic:0.96654,Gymnastics:0.96465
+.\Data\ImageNet\gymnastics_n00433802\17.jpg,gymnastics,Person:0.99028,Acrobatic:0.98944,Athlete:0.98130,Sport:0.98130,Gymnastics:0.97217
+.\Data\ImageNet\gymnastics_n00433802\18.jpg,gymnastics,Person:0.98439,Sport:0.95595,Skating:0.85683,Ice Skating:0.81335,Shoe:0.58003
+.\Data\ImageNet\gymnastics_n00433802\19.jpg,gymnastics,Person:0.99649,Gymnastics:0.98763,Sport:0.98763,Acrobatic:0.98763,Athlete:0.93852
+.\Data\ImageNet\gymnastics_n00433802\2.jpeg,gymnastics,Person:0.99374,Athlete:0.98230,Sport:0.98230,Acrobatic:0.97283,Gymnastics:0.96545
+.\Data\ImageNet\gymnastics_n00433802\20.jpg,gymnastics,Person:0.99215,Athlete:0.98437,Sport:0.98437,Acrobatic:0.97940,Gymnastics:0.97696
+.\Data\ImageNet\gymnastics_n00433802\21.jpg,gymnastics,Person:0.99193,Acrobatic:0.97895,Sport:0.96621,Athlete:0.96032,Gymnastics:0.93394
+.\Data\ImageNet\gymnastics_n00433802\22.jpg,gymnastics,Person:0.98669,Acrobatic:0.93727,Athlete:0.93700,Sport:0.93700,Gymnastics:0.87801
+.\Data\ImageNet\gymnastics_n00433802\23.jpg,gymnastics,Person:0.99064,Athlete:0.96579,Sport:0.96579,Gymnastics:0.94585,Gymnast:0.92150
+.\Data\ImageNet\gymnastics_n00433802\24.jpg,gymnastics,Clothing:0.99342,Person:0.98992,Vacation:0.98566,Tourist:0.94279,Bikini:0.93589
+.\Data\ImageNet\gymnastics_n00433802\3.jpg,gymnastics,Person:0.99870,Acrobatic:0.95417,Gymnastics:0.85888,Leisure Activities:0.81687,Athlete:0.76055
+.\Data\ImageNet\gymnastics_n00433802\4.jpg,gymnastics,Person:0.99106,Athlete:0.98887,Sport:0.98887,Acrobatic:0.98347,Gymnastics:0.97918
+.\Data\ImageNet\gymnastics_n00433802\5.jpg,gymnastics,Person:0.99646,Athlete:0.98623,Sport:0.98623,Gymnastics:0.95468,Acrobatic:0.95468
+.\Data\ImageNet\gymnastics_n00433802\6.jpg,gymnastics,Person:0.99323,Sport:0.96232,Acrobatic:0.94649,Athlete:0.88295,Gymnastics:0.88271
+.\Data\ImageNet\gymnastics_n00433802\7.jpg,gymnastics,Person:0.99826,Athlete:0.89483,Sport:0.89483,Acrobatic:0.88190,Gymnastics:0.78292
+.\Data\ImageNet\gymnastics_n00433802\8.jpg,gymnastics,Person:0.97081,Grass:0.97039,Plant:0.97039,Fitness:0.95467,Working Out:0.95467
+.\Data\ImageNet\gymnastics_n00433802\9.jpg,gymnastics,Person:0.98698,Sport:0.98629,Athlete:0.98629,Acrobatic:0.96281,Gymnastics:0.96092
+.\Data\ImageNet\jet_n03335030\0.jpg,jet:aircraft,Airplane:0.99309,Transportation:0.99309,Vehicle:0.99309,Aircraft:0.99309,Warplane:0.94212
+.\Data\ImageNet\jet_n03335030\1.jpg,jet:aircraft,Building:0.99845,Hangar:0.99845,Airplane:0.99148,Aircraft:0.99148,Architecture:0.80493
+.\Data\ImageNet\jet_n03335030\10.jpg,jet:aircraft,Flying:0.99973,Animal:0.99973,Bird:0.99973,Airplane:0.98746,Vehicle:0.98746
+.\Data\ImageNet\jet_n03335030\11.jpg,jet:aircraft,Aircraft:0.98618,Transportation:0.98618,Vehicle:0.98618,Airplane:0.98618,Warplane:0.94513
+.\Data\ImageNet\jet_n03335030\12.jpg,jet:aircraft,Transportation:0.99631,Aircraft:0.99631,Airplane:0.99631,Warplane:0.96845,Bomber:0.96241
+.\Data\ImageNet\jet_n03335030\13.jpg,jet:aircraft,Aircraft:0.98273,Airplane:0.98273,Vehicle:0.98273,Warplane:0.95142,Bomber:0.91621
+.\Data\ImageNet\jet_n03335030\14.jpg,jet:aircraft,Airplane:0.99340,Vehicle:0.99340,Aircraft:0.99340,Warplane:0.93810,Bomber:0.93148
+.\Data\ImageNet\jet_n03335030\15.jpg,jet:aircraft,Airplane:0.98480,Vehicle:0.98480,Aircraft:0.98480,Transportation:0.98480,Flying:0.98407
+.\Data\ImageNet\jet_n03335030\16.jpg,jet:aircraft,Aircraft:0.99561,Transportation:0.99561,Vehicle:0.99561,Airplane:0.99561,Warplane:0.93029
+.\Data\ImageNet\jet_n03335030\17.jpg,jet:aircraft,Vehicle:0.94184,Transportation:0.94184,Aircraft:0.93600,Spaceship:0.93337,Airplane:0.87336
+.\Data\ImageNet\jet_n03335030\18.jpg,jet:aircraft,Flying:0.99327,Airplane:0.97520,Vehicle:0.97520,Aircraft:0.97520,Warplane:0.90995
+.\Data\ImageNet\jet_n03335030\19.jpg,jet:aircraft,Transportation:0.98128,Aircraft:0.98128,Warplane:0.98128,Airplane:0.98128,Bomber:0.95838
+.\Data\ImageNet\jet_n03335030\2.jpg,jet:aircraft,Transportation:0.99355,Vehicle:0.99355,Aircraft:0.99355,Airplane:0.99355,Machine:0.95881
+.\Data\ImageNet\jet_n03335030\20.jpg,jet:aircraft,Aircraft:0.96896,Transportation:0.96896,Vehicle:0.96896,Airplane:0.96896,Warplane:0.96396
+.\Data\ImageNet\jet_n03335030\21.jpg,jet:aircraft,Transportation:0.99738,Vehicle:0.99738,Airplane:0.99738,Aircraft:0.99738,Flying:0.98907
+.\Data\ImageNet\jet_n03335030\22.jpg,jet:aircraft,Aircraft:0.98714,Vehicle:0.98714,Transportation:0.98714,Airplane:0.98714,Jet:0.91682
+.\Data\ImageNet\jet_n03335030\23.jpg,jet:aircraft,Transportation:0.97759,Airplane:0.97759,Vehicle:0.97759,Aircraft:0.97759,Warplane:0.96334
+.\Data\ImageNet\jet_n03335030\24.jpg,jet:aircraft,Shark:0.97483,Airplane:0.79501,Transportation:0.79501,Vehicle:0.79501,Aircraft:0.79501
+.\Data\ImageNet\jet_n03335030\3.jpg,jet:aircraft,Transportation:0.99717,Vehicle:0.99717,Airplane:0.99717,Aircraft:0.99717,Warplane:0.93146
+.\Data\ImageNet\jet_n03335030\4.jpg,jet:aircraft,Airplane:0.98775,Aircraft:0.98775,Person:0.96672,Bomber:0.95413,Warplane:0.95413
+.\Data\ImageNet\jet_n03335030\5.jpg,jet:aircraft,Aircraft:0.98370,Airplane:0.98370,Vehicle:0.98370,Transportation:0.98370,Bomber:0.93281
+.\Data\ImageNet\jet_n03335030\6.jpg,jet:aircraft,Warplane:0.96233,Airplane:0.96233,Transportation:0.96233,Aircraft:0.96233,Bomber:0.93818
+.\Data\ImageNet\jet_n03335030\7.jpg,jet:aircraft,Vehicle:0.97709,Aircraft:0.97709,Airplane:0.97709,Warplane:0.97022,Bomber:0.97022
+.\Data\ImageNet\jet_n03335030\8.jpg,jet:aircraft,Aircraft:0.99580,Airplane:0.99580,Vehicle:0.99580,Warplane:0.96466,Bomber:0.95373
+.\Data\ImageNet\jet_n03335030\9.jpg,jet:aircraft,Aircraft:0.98791,Airplane:0.98791,Vehicle:0.98791,Warplane:0.98404,Bomber:0.98041
+.\Data\ImageNet\motorcycle_n03790512\0.jpg,motorcycle,Motorcycle:0.99978,Person:0.99226,Machine:0.97245,Clothing:0.88765,Motor:0.87597
+.\Data\ImageNet\motorcycle_n03790512\1.jpg,motorcycle,Vehicle:0.99800,Motorcycle:0.99800,Person:0.99749,Helmet:0.93459,Moped:0.90896
+.\Data\ImageNet\motorcycle_n03790512\10.jpg,motorcycle,Clothing:0.99972,Motorcycle:0.99961,Person:0.99482,Crash Helmet:0.99283,Helmet:0.99283
+.\Data\ImageNet\motorcycle_n03790512\11.jpg,motorcycle,Motorcycle:0.99456,Person:0.98796,Clothing:0.98634,Helmet:0.98210,Crash Helmet:0.91309
+.\Data\ImageNet\motorcycle_n03790512\12.jpg,motorcycle,Motorcycle:0.99929,Machine:0.97263,Motor:0.86870,Clothing:0.83045,Spoke:0.72751
+.\Data\ImageNet\motorcycle_n03790512\13.jpg,motorcycle,Clothing:0.99344,Helmet:0.99344,Motorcycle:0.99141,Person:0.98327,Wheel:0.94356
+.\Data\ImageNet\motorcycle_n03790512\14.jpg,motorcycle,Motorcycle:0.99294,Vehicle:0.99294,Transportation:0.99294,Person:0.98402,Motor Scooter:0.93514
+.\Data\ImageNet\motorcycle_n03790512\15.jpg,motorcycle,Person:0.99654,Vehicle:0.99581,Motorcycle:0.99581,Transportation:0.99581,Road:0.93453
+.\Data\ImageNet\motorcycle_n03790512\16.jpg,motorcycle,Motorcycle:0.99986,Helmet:0.99982,Clothing:0.99982,Person:0.99445,Crash Helmet:0.99032
+.\Data\ImageNet\motorcycle_n03790512\17.jpg,motorcycle,Person:0.98759,Motorcycle:0.93108,Vehicle:0.93108,Transportation:0.93108,Animal:0.67273
+.\Data\ImageNet\motorcycle_n03790512\18.jpg,motorcycle,Person:0.99694,Transportation:0.98864,Motorcycle:0.98864,Vehicle:0.98864,Sidecar:0.85401
+.\Data\ImageNet\motorcycle_n03790512\19.jpg,motorcycle,Motorcycle:0.99782,Car:0.99260,Person:0.96235,Helmet:0.95843,Road:0.93678
+.\Data\ImageNet\motorcycle_n03790512\2.jpg,motorcycle,Motorcycle:0.99892,Machine:0.99178,Car:0.98711,Wheel:0.96500,Spoke:0.94646
+.\Data\ImageNet\motorcycle_n03790512\20.jpg,motorcycle,Motorcycle:0.99953,Machine:0.99100,Wheel:0.99100,Person:0.98232,Clothing:0.92385
+.\Data\ImageNet\motorcycle_n03790512\21.jpg,motorcycle,Motorcycle:0.99972,Wheel:0.99582,Machine:0.99582,Chair:0.96575,Motor:0.91169
+.\Data\ImageNet\motorcycle_n03790512\22.jpg,motorcycle,Motorcycle:0.99987,Car:0.99434,Machine:0.98302,Wheel:0.97591,Motor:0.94472
+.\Data\ImageNet\motorcycle_n03790512\23.jpg,motorcycle,Motorcycle:0.99959,Clothing:0.99928,Person:0.99423,Crash Helmet:0.98764,Helmet:0.98764
+.\Data\ImageNet\motorcycle_n03790512\24.jpg,motorcycle,Vehicle:0.99966,Motorcycle:0.99966,Transportation:0.99966,Moped:0.82220,Machine:0.80866
+.\Data\ImageNet\motorcycle_n03790512\3.jpg,motorcycle,Motorcycle:0.97727,Machine:0.96826,Spoke:0.89626,Wheel:0.87438,Motor:0.71162
+.\Data\ImageNet\motorcycle_n03790512\4.jpg,motorcycle,Motorcycle:0.99937,Machine:0.98518,Motor:0.95180,Engine:0.82177,Spoke:0.57058
+.\Data\ImageNet\motorcycle_n03790512\5.jpg,motorcycle,Motorcycle:0.99982,Clothing:0.99865,Person:0.99406,Crash Helmet:0.99303,Helmet:0.99303
+.\Data\ImageNet\motorcycle_n03790512\6.jpg,motorcycle,Motorcycle:0.99907,Clothing:0.98320,Crash Helmet:0.98299,Helmet:0.98299,Person:0.94851
+.\Data\ImageNet\motorcycle_n03790512\7.jpg,motorcycle,Motorcycle:0.99650,Machine:0.97814,Motor:0.92144,Clothing:0.83104,Spoke:0.74544
+.\Data\ImageNet\motorcycle_n03790512\8.jpg,motorcycle,Transportation:0.99960,Motorcycle:0.99960,Clothing:0.87849,Machine:0.87159,Motor Scooter:0.86531
+.\Data\ImageNet\motorcycle_n03790512\9.jpg,motorcycle,Person:0.99825,Motorcycle:0.96077,Wheel:0.84326,Machine:0.84326,Clothing:0.82699
+.\Data\ImageNet\shark_n01482330\0.jpg,shark,Animal:0.94097,Sea Life:0.94097,Shark:0.91252,Fish:0.91252,Mammal:0.62992
+.\Data\ImageNet\shark_n01482330\1.jpg,shark,Shark:0.97984,Fish:0.97984,Sea Life:0.97984,Animal:0.97984,Great White Shark:0.79388
+.\Data\ImageNet\shark_n01482330\10.jpg,shark,Shark:0.97390,Fish:0.97390,Animal:0.97390,Sea Life:0.97390,People:0.66339
+.\Data\ImageNet\shark_n01482330\11.jpg,shark,Water:0.98282,Outdoors:0.95441,Sea Life:0.90459,Animal:0.90459,Nature:0.90196
+.\Data\ImageNet\shark_n01482330\12.jpg,shark,Outdoors:0.99082,Water:0.99082,Sea:0.99082,Reef:0.96895,Sea Life:0.96895
+.\Data\ImageNet\shark_n01482330\13.jpg,shark,Shark:0.96191,Animal:0.96191,Fish:0.96191,Sea Life:0.96191,Great White Shark:0.84009
+.\Data\ImageNet\shark_n01482330\14.jpg,shark,Shark:0.97408,Fish:0.97408,Animal:0.97408,Sea Life:0.97408,Water:0.89663
+.\Data\ImageNet\shark_n01482330\15.jpg,shark,Animal:0.99548,Fish:0.99548,Sea Life:0.99548,Shark:0.99548,Great White Shark:0.91459
+.\Data\ImageNet\shark_n01482330\16.jpg,shark,Sea Life:0.90330,Animal:0.90330,Fish:0.89431,Shark:0.89431,Aquatic:0.69957
+.\Data\ImageNet\shark_n01482330\17.jpg,shark,Person:0.98555,Sturgeon:0.96373,Animal:0.96373,Fish:0.96373,Sunglasses:0.94493
+.\Data\ImageNet\shark_n01482330\18.jpg,shark,Water:0.99832,Person:0.96428,Aquatic:0.94577,Outdoors:0.94004,Fish:0.93368
+.\Data\ImageNet\shark_n01482330\19.jpg,shark,Fish:0.95571,Sea Life:0.95571,Shark:0.95571,Animal:0.95571,Great White Shark:0.58675
+.\Data\ImageNet\shark_n01482330\2.jpg,shark,Fish:0.93593,Animal:0.93593,Sea Life:0.93593,Shark:0.93593,Great White Shark:0.77902
+.\Data\ImageNet\shark_n01482330\20.jpg,shark,Animal:0.96239,Fish:0.96239,Shark:0.96239,Sea Life:0.96239,Great White Shark:0.75352
+.\Data\ImageNet\shark_n01482330\21.jpg,shark,Fish:0.94724,Animal:0.94724,Sea Life:0.94188,Shark:0.94188,Great White Shark:0.59788
+.\Data\ImageNet\shark_n01482330\22.jpg,shark,Sea Life:0.94359,Animal:0.94359,Fish:0.90280,Manta Ray:0.86927,Water:0.72068
+.\Data\ImageNet\shark_n01482330\23.jpg,shark,Water:0.94271,Animal:0.92818,Sea Life:0.92818,Fish:0.92015,Shark:0.87191
+.\Data\ImageNet\shark_n01482330\24.jpg,shark,Animal:0.93460,Sea Life:0.93460,Fish:0.91131,Shark:0.88144,Water:0.61695
+.\Data\ImageNet\shark_n01482330\3.jpg,shark,Fish:0.94797,Animal:0.94797,Sea Life:0.94797,Shark:0.94797,Water:0.78090
+.\Data\ImageNet\shark_n01482330\4.jpg,shark,Person:0.99727,Fish:0.96398,Animal:0.96398,Sea Life:0.93448,Great White Shark:0.71753
+.\Data\ImageNet\shark_n01482330\5.jpg,shark,Person:0.99093,Animal:0.90676,Sea Life:0.90676,Fish:0.88694,Shark:0.78330
+.\Data\ImageNet\shark_n01482330\6.jpg,shark,Fish:0.97043,Shark:0.97043,Sea Life:0.97043,Animal:0.97043,Great White Shark:0.83137
+.\Data\ImageNet\shark_n01482330\7.jpg,shark,Water:0.94543,Animal:0.94110,Sea Life:0.94110,Fish:0.92213,Outdoors:0.70623
+.\Data\ImageNet\shark_n01482330\8.jpg,shark,Person:0.97990,Mammal:0.84551,Animal:0.84551,Clothing:0.82344,Elephant:0.81079
+.\Data\ImageNet\shark_n01482330\9.jpg,shark,Shark:0.92752,Fish:0.92752,Sea Life:0.92752,Animal:0.92752,Great White Shark:0.57330
+.\Data\ImageNet\swimming_n00442115\0.jpg,swimming,Person:0.98576,Outdoors:0.97129,Nature:0.96794,Agriculture:0.92776,Field:0.92776
+.\Data\ImageNet\swimming_n00442115\1.jpg,swimming,Human:0.99947,Person:0.99947,Airport:0.93516,Airport Terminal:0.59791,Terminal:0.59791
+.\Data\ImageNet\swimming_n00442115\10.jpg,swimming,Swimming:0.99998,Water:0.99998,Person:0.99998,Sport:0.99998,Clothing:0.89251
+.\Data\ImageNet\swimming_n00442115\11.jpg,swimming,Person:0.98702,Sport:0.97610,Water:0.96443,Swimming:0.93266,Soccer Ball:0.91790
+.\Data\ImageNet\swimming_n00442115\12.jpg,swimming,Water:0.99962,Person:0.99962,Swimming:0.99962,Pool:0.99709,Face:0.96129
+.\Data\ImageNet\swimming_n00442115\13.jpg,swimming,Person:0.99997,Water:0.99997,Sport:0.99997,Swimming:0.99997,Pool:0.90890
+.\Data\ImageNet\swimming_n00442115\14.jpg,swimming,Water:0.99973,Person:0.99969,Sport:0.99969,Swimming:0.99969,Diving:0.96342
+.\Data\ImageNet\swimming_n00442115\15.jpg,swimming,Swimming:0.99999,Person:0.99999,Water:0.99999,Sport:0.99999,Pool:0.97585
+.\Data\ImageNet\swimming_n00442115\16.jpg,swimming,Water:0.99905,Person:0.99481,Amusement Park:0.96637,Water Park:0.96637,Outdoors:0.75977
+.\Data\ImageNet\swimming_n00442115\17.jpg,swimming,Swimming:0.99994,Sport:0.99994,Person:0.99994,Water:0.99994,Pool:0.84777
+.\Data\ImageNet\swimming_n00442115\18.jpg,swimming,Human:1.00000,Swimming:1.00000,Sport:1.00000,Person:1.00000,Water:1.00000
+.\Data\ImageNet\swimming_n00442115\19.jpg,swimming,Water:0.99867,Pool:0.99867,Person:0.98862,Swimming:0.98671,Swimming Pool:0.96199
+.\Data\ImageNet\swimming_n00442115\2.jpg,swimming,Person:0.99996,Water:0.99996,Sport:0.99996,Swimming:0.99996,Sunglasses:0.98532
+.\Data\ImageNet\swimming_n00442115\20.jpg,swimming,Water:0.99996,Swimming:0.99996,Sport:0.99996,Person:0.99996,Pool:0.87105
+.\Data\ImageNet\swimming_n00442115\21.jpg,swimming,Person:0.99997,Water:0.99997,Swimming:0.99997,Sport:0.99997,Human:0.99997
+.\Data\ImageNet\swimming_n00442115\22.jpg,swimming,Swimming:0.99945,Water:0.99945,Person:0.99945,Sport:0.99945,Outdoors:0.98131
+.\Data\ImageNet\swimming_n00442115\23.jpg,swimming,Swimming:0.99955,Person:0.99955,Sport:0.99955,Water:0.99955,Clothing:0.99331
+.\Data\ImageNet\swimming_n00442115\24.jpg,swimming,Water:0.99920,Pool:0.99873,Swimming Pool:0.97181,Lighting:0.84692,Person:0.72127
+.\Data\ImageNet\swimming_n00442115\3.jpg,swimming,Swimming:0.99960,Sport:0.99960,Person:0.99960,Water:0.99960,Nature:0.92306
+.\Data\ImageNet\swimming_n00442115\4.jpg,swimming,Water:1.00000,Sport:1.00000,Swimming:1.00000,Sports:1.00000,Pool:0.55681
+.\Data\ImageNet\swimming_n00442115\5.jpg,swimming,Water:0.99999,Person:0.99999,Sport:0.99999,Swimming:0.99999,Pool:0.64680
+.\Data\ImageNet\swimming_n00442115\6.jpg,swimming,Water:0.99363,Person:0.99274,Sport:0.96876,Swimming:0.94300,Diving:0.84614
+.\Data\ImageNet\swimming_n00442115\7.jpg,swimming,Water:0.99981,Person:0.99008,Diving:0.99008,Sport:0.99008,Clothing:0.82314
+.\Data\ImageNet\swimming_n00442115\8.jpg,swimming,Person:0.99159,Water:0.97811,Sport:0.95972,Diving:0.90018,Athlete:0.87045
+.\Data\ImageNet\swimming_n00442115\9.jpg,swimming,Person:0.96504,Sport:0.84755,Clothing:0.76300,People:0.63862,Swimwear:0.60541
+.\Data\ImageNet\unicycle_n04509417\0.jpg,Unicycle:Vehicle:Wheel,Person:0.99807,Clothing:0.98287,Transportation:0.83010,Vehicle:0.82315,Tartan:0.72145
+.\Data\ImageNet\unicycle_n04509417\1.jpg,Unicycle:Vehicle:Wheel,Person:0.98765,Vehicle:0.92445,Transportation:0.92445,Bmx:0.92390,Bicycle:0.92390
+.\Data\ImageNet\unicycle_n04509417\10.jpg,Unicycle:Vehicle:Wheel,Person:0.99273,Vehicle:0.97044,Bicycle:0.97044,Transportation:0.97044,Clothing:0.80549
+.\Data\ImageNet\unicycle_n04509417\11.jpg,Unicycle:Vehicle:Wheel,Vegetation:0.99967,Land:0.99937,Woodland:0.99937,Person:0.99567,Grove:0.99299
+.\Data\ImageNet\unicycle_n04509417\12.jpg,Unicycle:Vehicle:Wheel,Person:0.99873,Vehicle:0.99202,Bicycle:0.99202,Transportation:0.99202,Sport:0.86672
+.\Data\ImageNet\unicycle_n04509417\13.jpg,Unicycle:Vehicle:Wheel,Person:0.99824,Vehicle:0.99616,Bicycle:0.99616,Transportation:0.99616,Car:0.94378
+.\Data\ImageNet\unicycle_n04509417\14.jpg,Unicycle:Vehicle:Wheel,Vehicle:0.99972,Truck:0.99972,Person:0.99896,Car:0.99446,Bicycle:0.98109
+.\Data\ImageNet\unicycle_n04509417\15.jpg,Unicycle:Vehicle:Wheel,Person:0.99743,Sport:0.90559,Wheel:0.85055,Bicycle:0.75200,Vehicle:0.75200
+.\Data\ImageNet\unicycle_n04509417\16.jpg,Unicycle:Vehicle:Wheel,Person:0.99779,Sport:0.95678,Acrobatic:0.95244,Athlete:0.87900,Gymnastics:0.80623
+.\Data\ImageNet\unicycle_n04509417\17.jpg,Unicycle:Vehicle:Wheel,Person:0.98819,Vehicle:0.94084,Transportation:0.94084,Outdoors:0.93985,Nature:0.91794
+.\Data\ImageNet\unicycle_n04509417\18.jpg,Unicycle:Vehicle:Wheel,Bicycle:0.92091,Transportation:0.92091,Vehicle:0.92091,Wheel:0.88512,Housing:0.75548
+.\Data\ImageNet\unicycle_n04509417\19.jpg,Unicycle:Vehicle:Wheel,Person:0.99749,Transportation:0.98947,Bicycle:0.98947,Vehicle:0.98947,Wheel:0.96085
+.\Data\ImageNet\unicycle_n04509417\2.jpg,Unicycle:Vehicle:Wheel,Person:0.99585,Vehicle:0.97700,Bicycle:0.97700,Transportation:0.97700,Shorts:0.91783
+.\Data\ImageNet\unicycle_n04509417\20.jpg,Unicycle:Vehicle:Wheel,Person:0.99251,Vehicle:0.95537,Transportation:0.95537,Tricycle:0.93503,Wheel:0.84570
+.\Data\ImageNet\unicycle_n04509417\21.jpg,Unicycle:Vehicle:Wheel,Person:0.99770,Vehicle:0.93434,Transportation:0.93434,Bicycle:0.88825,Bmx:0.84590
+.\Data\ImageNet\unicycle_n04509417\22.jpg,Unicycle:Vehicle:Wheel,Machine:0.99737,Wheel:0.99737,Bicycle:0.99219,Tire:0.96485,Spoke:0.86340
+.\Data\ImageNet\unicycle_n04509417\23.JPG,Unicycle:Vehicle:Wheel,Person:0.96567,Grass:0.92675,Machine:0.64805,Sport:0.63354,Spoke:0.61422
+.\Data\ImageNet\unicycle_n04509417\24.jpg,Unicycle:Vehicle:Wheel,Vehicle:0.95371,Transportation:0.95371,Tire:0.69958,Wheel:0.58534,Machine:0.58534
+.\Data\ImageNet\unicycle_n04509417\3.jpg,Unicycle:Vehicle:Wheel,Person:0.99734,Transportation:0.92960,Vehicle:0.92960,Clothing:0.89505,Pedestrian:0.88078
+.\Data\ImageNet\unicycle_n04509417\4.jpg,Unicycle:Vehicle:Wheel,Person:0.99944,Pants:0.96350,Clothing:0.96350,Jeans:0.76834,Flooring:0.75937
+.\Data\ImageNet\unicycle_n04509417\5.jpg,Unicycle:Vehicle:Wheel,Person:0.98530,Vehicle:0.97992,Bicycle:0.97992,Transportation:0.97992,Wheel:0.81256
+.\Data\ImageNet\unicycle_n04509417\6.jpg,Unicycle:Vehicle:Wheel,Person:0.99868,Vehicle:0.99167,Car:0.99167,Transportation:0.99167,Bicycle:0.95419
+.\Data\ImageNet\unicycle_n04509417\7.jpg,Unicycle:Vehicle:Wheel,Person:0.98715,Vehicle:0.96072,Transportation:0.96072,Bicycle:0.95956,Bmx:0.95956
+.\Data\ImageNet\unicycle_n04509417\8.jpg,Unicycle:Vehicle:Wheel,Person:0.99770,Transportation:0.94348,Vehicle:0.94248,Bicycle:0.72008,Car:0.70669
+.\Data\ImageNet\unicycle_n04509417\9.jpg,Unicycle:Vehicle:Wheel,Wheel:0.99846,Transportation:0.97581,Mountain Bike:0.97581,Bicycle:0.97581,Vehicle:0.97581
