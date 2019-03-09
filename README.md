@@ -18,9 +18,9 @@ Santa Clara University
 ---
 
 Google Results:
-    Labeler:
-        Speed: 70.8s for 250 images
-        Mean Accuracy: 58.1%
-    Text Extractor:
-        Speed: 160.7s for 175 images
-        Mean Jaccard Similarity: 45.7%
+- Labeler:
+    - Speed: 70.8s for 250 images
+    - Mean Accuracy: 58.1%
+- Text Extractor:
+    - Speed: 160.7s for 175 images
+    - Mean Jaccard Similarity: 45.7%
