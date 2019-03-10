@@ -24,3 +24,6 @@ Google Results:
 - Text Extractor:
     - Speed: 160.7s for 175 images
     - Mean Jaccard Similarity: 45.7%
+- Face Detector:
+    - Speed: 303.6s for 550 images
+    - Mean Accuracy: 99.8%
