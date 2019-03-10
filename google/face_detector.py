@@ -18,12 +18,12 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.join(os.getcwd(), 'google
 client = vision.ImageAnnotatorClient()
 
 def get_dataset(directory, classification):
-    data = pd.DataFrame(columns=['path', 'face_present', 'face_detected'])
+    data = pd.DataFrame(columns=['path', 'face_present', 'face_detected', 'confidence'])
     for path, directories, files in os.walk(directory):
         for file in files:
             filename, file_extension = os.path.splitext(file)
             if (file_extension.strip().lower() == '.jpg') or (file_extension.strip().lower() == '.jpeg'):
-                row = pd.DataFrame([[os.path.join(path, file), classification, None]], columns=['path', 'face_present', 'face_detected'])
+                row = pd.DataFrame([[os.path.join(path, file), classification, None, None]], columns=['path', 'face_present', 'face_detected', 'confidence'])
                 data = data.append(row, ignore_index=True)
     return data
 
@@ -40,6 +40,10 @@ for i in tqdm(range(len(df))):
         response = client.face_detection(image)
         if len(response.face_annotations) > 0:
             df.face_detected[i] = True
+            confidences = []
+            for face in response.face_annotations:
+                confidences.append(face.detection_confidence)
+            df.confidence[i] = max(confidences)
         else:
             df.face_detected[i] = False
 end_time = time.time()
