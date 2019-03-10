@@ -4,6 +4,8 @@
 Created on Thu Feb 14 18:03:21 2019
 
 @author: Nicholas Fong
+
+Extracts the top 5 labels for each image.
 """
 
 import io

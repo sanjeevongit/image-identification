@@ -3,6 +3,8 @@
 Created on Thu Mar  7 23:32:58 2019
 
 @author: Nicholas Fong
+
+Extract the text from an image and get the Jaccard similarity.
 """
 
 import io
