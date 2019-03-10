@@ -1,1 +1,4 @@
 data
+venv
+azure\config.json
+.idea
