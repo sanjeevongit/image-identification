@@ -27,3 +27,8 @@ Google Results:
 - Face Detector:
     - Speed: 303.6s for 550 images
     - Mean Accuracy: 99.8%
+    
+Azure Results:
+- Labeler: 
+    -Speed: 121.6s for 250 images
+    -Mean Accuracy: 37.6%
