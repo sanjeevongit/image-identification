@@ -30,5 +30,5 @@ Google Results:
     
 Azure Results:
 - Labeler: 
-    -Speed: 121.6s for 250 images
-    -Mean Accuracy: 37.6%
+    - Speed: 121.6s for 250 images
+    - Mean Accuracy: 37.6%
