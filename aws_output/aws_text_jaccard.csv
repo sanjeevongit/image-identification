@@ -1,0 +1,176 @@
+filename,extracted_text,word_label,similarity
+.\Data\SVT\00_00.jpg,"['dol', 'hut', 'tapbeer']","['beer', 'doll', 'house', 'tap']",0
+.\Data\SVT\00_05.jpg,"['1+', 'daieim', 'muz1o']","['241', 'anaheim', 'library', 'muzeo', 'public']",0
+.\Data\SVT\00_07.jpg,"['1', 'anaheim', 'band', 'instruments']","['anaheim', 'band', 'instruments']",0.75
+.\Data\SVT\00_09.jpg,"['3', '9', 'doly', 'goodwill', 'items', 'new', 'over', 'stocied', 'store']","['3,000', 'daily', 'goodwill', 'items', 'new', 'over', 'stocked', 'store']",0.416666667
+.\Data\SVT\00_10.jpg,"['angelo', 'bot', 'car', 'carlnoe', 'hamburgers', 'laundromat', 'rop', 's', 'servicb', 'tad sote', 'welcome']","[""angelo's"", 'beer', 'car', 'hamburgers', 'hop', 'laundromat', 'service', 'to', 'video', 'welcome']",0.235294118
+.\Data\SVT\00_11.jpg,"['+', '7o', 'ford', 'mills', 'welcome']","['ford', 'mills', 'to', 'welcome']",0.5
+.\Data\SVT\00_12.jpg,"['s', 'subwa']",['subway'],0
+.\Data\SVT\00_14.jpg,"['house', 'original', 'pancake', 'parking']","['house', 'no', 'original', 'pancake', 'parking']",0.8
+.\Data\SVT\01_01.jpg,['budget'],['budget'],1
+.\Data\SVT\01_02.jpg,"[""sol's""]","['75', 'one', ""sol's"", 'way']",0.25
+.\Data\SVT\01_04.jpg,['shell'],['shell'],1
+.\Data\SVT\01_05.jpg,"['0o', '1', '2bdo', 'enterprise', 'rent-acor']","['1', '800', 'a', 'car', 'enterprise', 'rent']",0.222222222
+.\Data\SVT\01_09.jpg,"['corner', 'greek', 'hinvr', ""nick's"", 'or']","['corner', 'greek', ""nick's""]",0.6
+.\Data\SVT\01_10.jpg,"['payless', 'sheesouree']","['payless', 'shoesource']",0.333333333
+.\Data\SVT\01_13.jpg,"['700', 'b', 'gay', 'i', 'icebox', 'ni', 'ool', 'pparel', 'products', 'promotional', 'stuff', 'th', 'the']","['700', 'apparel', 'brand', 'cool', 'icebox', 'products', 'promotional', 'stuff', 'the']",0.375
+.\Data\SVT\01_16.jpg,"['a', 'b', 'e', 'm', 's', 'ssy', 'y']",['embassy'],0
+.\Data\SVT\01_18.jpg,"['fdc', 'hotel', 'quality']","['fdc', 'hotel', 'quality']",1
+.\Data\SVT\01_19.jpg,"['202', 'heftz']","['202', 'hertz', 'parking']",0.25
+.\Data\SVT\02_03.jpg,"['1400', 'community', 'dunbar', 'high', 'laurence', 'orleans', 'paul', 'school', 'street']","['1400', 'community', 'dunbar', 'high', 'laurence', 'orleans', 'paul', 'school', 'street']",1
+.\Data\SVT\02_04.jpg,"['-4455', 'bre', 'buffalo', 'camden', 'catering', 'drat brer', 'dratt', 'eclas', 'favori', 'i', 'karaoke', 'n', 'pub', 'sp', 'specials', 'the', 'www.camdenp']","['4455', 'adams', 'atm', 'award', 'baltimore', 'beer', 'buffalo', 'camden', 'catering', 'draft', 'karaoke', 'pub', 'restaurant', 'samuel', 'specials', 'the']",0.269230769
+.\Data\SVT\02_07.jpg,['(gig'],"['delicious', 'gigi', 'just', 'pizza', 'sapph']",0
+.\Data\SVT\02_09.jpg,"['&', 'b', 'cafeteria', 'hotel', 'mount', 'vernon']","['&', 'access', 'cafeteria', 'first', 'for', 'garage', 'guests', 'hotel', 'mount', 'must', 'new', 'register', 'vernon']",0.357142857
+.\Data\SVT\02_11.jpg,"['cuisine', 'hhirish', 'thai']","['cuisine', 'thai', 'thairish']",0.5
+.\Data\SVT\02_12.jpg,"['coree', 'ealinone', 'scores']","['balitmore', 'scores']",0.25
+.\Data\SVT\02_14.jpg,"['0701', '6', ""chiapparelli's""]",['chiapparellis'],0
+.\Data\SVT\02_16.jpg,"['2forss', 'beer', 'day', 'drank', 'fl', 'game', 'hamptontnr.', 'here', 'latina', 'pickles', 'pub', 'specials', 'wise']","['2', '5', 'all', 'beer', 'bird', 'day', 'drank', 'during', 'events', 'flu', 'for', 'game', 'hampton', 'here', 'inn', 'latina', 'no', 'parking', 'pickles', 'pub', 'specials', 'stadium', 'wise']",0.384615385
+.\Data\SVT\02_19.jpg,"['altera', 'arcade', ""brown's"", 'clea', 'clean', 'dr', 'dry', 'expe', 'hair', 'inside', 'located', 'salon', 'se']","['arcade', ""brown's"", 'clean', 'dry', 'hair', 'inside', 'located', 'salon']",0.615384615
+.\Data\SVT\03_00.jpg,"['mountain', 'pub', 'pub & 8rpwery', 'sun']","['&', '1535', 'brewery', 'hand', 'left', 'mirror', 'mountain', 'pond', 'pub', 'sun']",0.272727273
+.\Data\SVT\03_01.jpg,"['2709', 'boot', 'fitting', 'g', 'gasiiie', ""larry's"", 'spruoe', 'street']","['2709', 'boot', 'fitting', ""larry's"", 'spruce', 'street']",0.555555556
+.\Data\SVT\03_02.jpg,"['beads', 'ow', 'pen']","['2539', 'beads', 'ow', 'pen']",0.75
+.\Data\SVT\03_08.jpg,['mberline'],['timberline'],0
+.\Data\SVT\03_12.jpg,['trident'],['trident'],1
+.\Data\SVT\03_14.jpg,"['14th', '2010', 'best', 'himalayas', 'idianluncf', 'resitaranito', 'stree']","['14th', '2010', 'best', 'himalayas', 'indian', 'lunch', 'restaurant', 'street']",0.363636364
+.\Data\SVT\03_15.jpg,"['7fx', 'cookin', 'heat', 'horton', 'poc', 'reverend', 'sfloet', 'tnrjgrrce']","['cookin', 'fox', 'heat', 'horton', 'reverend', 'the']",0.4
+.\Data\SVT\03_18.jpg,"['barnsley', 'co.', 'g', 'tire']","['barnsley', 'co.', 'michelin', 'tire', 'yokoha']",0.5
+.\Data\SVT\04_01.jpg,"['&', 'a/c', 'b', 'chiropractic', 'deli', 'di', 'fortllease', 'fresh', 'garny', 'giulio', 'meat', 'meat &', 'piken']","['&', '818-755-2700', 'a/c', 'chiropractic', 'deli', 'di', 'for', 'fresh', 'garny', 'giulio', 'lease', 'meat', 'medical', 'piken', 'space']",0.555555556
+.\Data\SVT\04_03.jpg,"['446', 'b', 'barber', 'color', 'cut', 'erm', 'modern']","['446', 'barber', 'color', 'cut', 'modern', 'open', 'perm']",0.555555556
+.\Data\SVT\04_04.jpg,"['563-4', '564410', 'b', 'glenoaks', 'maste', 'master', 'nail', 'nails', 's']","['glenoaks', 'master', 'nails']",0.333333333
+.\Data\SVT\04_05.jpg,"['b', 'church', 'first', 'methodist', 'united']","['church', 'first', 'methodist', 'united']",0.8
+.\Data\SVT\04_07.jpg,"['b', 'glenoaks 5', 'mobile', 't']","['glenoaks', 'mobile', 't']",0.4
+.\Data\SVT\04_14.jpg,"['1-6626', '920', 'accountancy', 'closed', 'm&m', 'mers', 'theeamo', 'y']","['920', 'accountancy', 'closed', 'm&m']",0.5
+.\Data\SVT\04_17.jpg,"['5', 'baut', 'buy', 'deivers', 'e', 'get', 'gifts', 'pizza', 'tas']","['1', '5', '6', 'buy', 'delivers', 'free', 'get', 'gifts', 'he', 'jas', 'man', 'open', 'pizza']",0.294117647
+.\Data\SVT\04_19.jpg,"['&', ""2ubina's"", 'b', 'cleaners', 'cut', 'glenoaks', 'laundry', 'open', 'salon', 'uty']","['$1', '&', 'children', 'cleaners', 'cut', 'glenoaks', 'hair', 'laundry', 'men', 'open', ""rubina's"", 'salon', 'shirts', 'supply', 'women']",0.388888889
+.\Data\SVT\05_01.jpg,"['moon', 'palace']","['moon', 'palace']",1
+.\Data\SVT\05_03.jpg,"['+d', 'wholefoods']","['foods', 'market', 'whole']",0
+.\Data\SVT\05_05.jpg,"['#', 'draperies', 'fabrics', 'fine', 'fishinans', 'it.c', 'nc.', 'sais']","['draperies', 'fabrics', 'fine', ""fisherman's"", 'g.', 'inc', 'sons']",0.25
+.\Data\SVT\05_06.jpg,"['b', 'jerome', 'school', 'st']","['jerome', 'school', 'st']",0.75
+.\Data\SVT\05_08.jpg,"['0225-888', '1225-b888', '13', 'a', 'a+', 'chinatown', 'e 46', 'hotel']","['(312)225-8888', 'chinatown', 'hotel']",0.222222222
+.\Data\SVT\05_10.jpg,"['+d', 'chicadd', 'gra', 'grandsiand', 'grandstand', 'police']","['chicago', 'grandstand', 'police']",0.285714286
+.\Data\SVT\05_11.jpg,"['&', '+d', '3', 'certied', 'corner', 'gpocers', 'grill', ""martin's"", 'rar']","['&', 'bar', 'certified', 'corner', 'grill', 'grocers', ""martin's""]",0.333333333
+.\Data\SVT\05_13.jpg,"['at&t', 'game', 'stop']","['at&t', 'gamestop']",0.25
+.\Data\SVT\05_14.jpg,"['a+', 'de', 'la', 'salle']","['de', 'la', 'salle']",0.75
+.\Data\SVT\05_16.jpg,['target'],['target'],1
+.\Data\SVT\06_00.jpg,"['$1', '8', 'deli', 'espressi', 'fine', 'food', 'fresh', ""immy's"", 'imports', 'italian', 'meats', 'plus', 'sausages', 'shot', 'store', 'ttalian']","['$1', '&', 'deli', 'espresso', 'fine', 'food', 'fresh', 'imports', 'italian', ""jimmy's"", 'meats', 'plus', 'sausages', 'shot', 'store', 'tax']",0.6
+.\Data\SVT\06_01.jpg,"['cafe', 'garde', 'girden']","['café', 'garden']",0
+.\Data\SVT\06_02.jpg,"['1924', 'bar', 'bluecollar', 'the']","['1924', 'bar', 'blue', 'collar', 'the']",0.5
+.\Data\SVT\06_04.jpg,"['ale', 'beer', 'beer-winelotto-phone', 'cards', 'che', 'or', 'save-way', 'ur', 'wine']","['beer', 'cards', 'cocacola', 'for', 'lease', 'lotto', 'open', 'or', 'phone', 'sale', 'save-way', 'sip', 'the', 'wine']",0.277777778
+.\Data\SVT\06_08.jpg,"['antioue', 'asanineue', ""b's"", 'free', 'g', 'lals', 'lula', 'mall', 'ope', 'rear', 'rking', 'z10330']","['antique', ""b's"", 'free', 'lula', 'mall', 'open', 'rear']",0.357142857
+.\Data\SVT\06_12.jpg,"['covffee', 'st-arbucks']","['coffee', 'starbucks']",0
+.\Data\SVT\06_15.jpg,"['daysurgery', 'p', 'physicians']","['day', 'physicians', 'surgery']",0.2
+.\Data\SVT\07_00.jpg,"['00', 'books', 'capitol', 'e', 'h', 'u']","['book', 'books', 'capitol', 'hill', 'the']",0.222222222
+.\Data\SVT\07_05.jpg,"['13thave', ""bender's"", 'br', ""domino's"", 'ta']","['13th', 'any', ""bender's"", ""domino's"", 'no', 'parking', 'pizza', 'time']",0.181818182
+.\Data\SVT\07_06.jpg,"['&', '8612057', 'b', 'bakery', 'capitol', 'custom', 'do', 'for', 'gentlemen', 'ladies', 'sjewelryg', 'tailors', 'watercou']","['&', '8612057', 'andora', 'baked', 'bakery', 'captiol', 'custom', 'foods', 'for', 'gentlemen', 'goods', 'jewelry', 'ladies', 'tailors', 'watercourse']",0.4
+.\Data\SVT\07_07.jpg,"['""we', '&', '6', '8', 'alaskan', 'are', 'custom', 'days!', 'framing', 'have', 'hollywood', 'in', 'more', 'movie', 'only', 'posters', 'quality', 'rock', 't', 'than', 'the', 'there', 'world!""']","['&', '6', '8', 'alaskan', 'amber', 'are', 'bud', 'custom', 'days', 'framing', 'have', 'hollywood', 'in', 'in', 'light', 'more', 'movie', 'only', 'posters', 'quality', 'rock', 'than', 'the', 'there', 'to', 'we', 'world']",0.612903226
+.\Data\SVT\07_08.jpg,"['57', 'avenue', 'tneatey']","['avenue', 'free', 'gas', 'theater']",0.166666667
+.\Data\SVT\07_10.jpg,"['day', 'every', ""medonald's""]","['day', 'every', 'free', 'mall', ""mcdonald's"", 'ride']",0.285714286
+.\Data\SVT\07_13.jpg,"['1275', 'b', 'jsubs', ""quizno's"", 'quiznos', 'subs']","['$5', '1275', 'enter', 'large', 'open', 'order', ""quizno's"", 'subs']",0.272727273
+.\Data\SVT\07_14.jpg,"['and', 'b', 'brown', 'comfort', 'cor', 'fort', 'hotel', 'inn', 'palace', 'spa']","['and', 'brown', 'comfort', 'hotel', 'inn', 'palace', 'spa']",0.7
+.\Data\SVT\07_16.jpg,"['620', 'ana', 'b', 'e.13""', 'ewoused', 'ga0', 'i', 'records', 'trax', 'wax']","['620', 'ii', 'new', 'records', 'trax', 'used', 'wax']",0.307692308
+.\Data\SVT\07_17.jpg,"['303', '303-832-6611', '6612', '832', 'chinese', 'ea', 'fax', 'fooi', 'great', 'tel', 'wall']","['chinese', 'fax', 'food', 'great', 'tel', 'wall']",0.416666667
+.\Data\SVT\07_19.jpg,"['(303)', '-hotel', '7228', '777-7777', 'cab', 'tuazy', 'warwick', 'yellow']","['(303)777-7777', '7228', 'cab', 'hotel', 'warwick', 'yellow']",0.4
+.\Data\SVT\08_04.jpg,"['alenc', 'center', 'hess', 'oine']","['allen', 'center', 'hess', 'one']",0.333333333
+.\Data\SVT\08_05.jpg,"['a+', 'plaza', 'shelll', 'two']","['plaza', 'shell', 'two']",0.4
+.\Data\SVT\08_10.jpg,"['1oo1', 'a+', 'mckinney']","['1001', 'mckinney']",0.25
+.\Data\SVT\08_14.jpg,['atet'],['at&t'],0
+.\Data\SVT\08_16.jpg,['alden'],['alden'],1
+.\Data\SVT\08_17.jpg,"['+d', 'spaghetti', 'warehouse']","['spaghetti', 'warehouse']",0.666666667
+.\Data\SVT\09_00.jpg,"['centre', 'circle']","['centre', 'circle']",1
+.\Data\SVT\09_02.jpg,"['b', 'days', 'inn', 'jersey', 'new']","['25', 'ahead', 'construction', 'days', 'inn', 'jersey', 'new', 'road', 'st']",0.4
+.\Data\SVT\09_03.jpg,"['houliha', ""houlihan's""]","['café', ""houlihan's""]",0.333333333
+.\Data\SVT\09_04.jpg,['stealsishalre'],"['n', 'shake', 'steak']",0
+.\Data\SVT\09_05.jpg,['complexions'],['complexions'],1
+.\Data\SVT\09_10.jpg,"['i', ""leon's""]","[""leon's""]",0.5
+.\Data\SVT\09_14.jpg,"['7i', 'brather', 'izesco', 'products', 't', 'zoll']","['brothers', 'products', 'zesco', 'zoll']",0.25
+.\Data\SVT\09_16.jpg,"['1610', 'anodizing', 'industrial']","['1610', 'anodizing', 'industrial']",1
+.\Data\SVT\09_17.jpg,"['and', 'center', 'conference', 'crowne', 'grand', 'hall', 'hotels', 'plaza', 'resorts', 'the']","['and', 'center', 'conference', 'crowne', 'grand', 'hall', 'hotels', 'plaza', 'resorts', 'the']",1
+.\Data\SVT\09_18.jpg,"['211', 'homewo', 'suites', 'wood']","['211', 'homewood', 'suites']",0.4
+.\Data\SVT\09_19.jpg,['simon'],['simon'],1
+.\Data\SVT\10_02.jpg,"['donuts', ""dunkin'"", 'offee', 'pho']","['coffee', 'donuts', 'dunkin']",0.166666667
+.\Data\SVT\10_03.jpg,"['176', '1k35', '212-240-9800', 'a', 'church', 'cuisine', 'house', 'ixress', 'lye', 'of', 'pakistan', 'paya', 'phone', 'qpen', 'st.', 'tea', 'texmexican', 'touch', 'traditional']","['176', '1k36', '212-240-9800', 'a', 'church', 'cuisine', 'express', 'house', 'of', 'open', 'pakistan', 'paya', 'phone', 'st.', 'tea', 'tex-mexican', 'touch', 'traditional']",0.608695652
+.\Data\SVT\10_18.jpg,"['1+', '8am-7pm', 'an', 'dading', 'eicet', 'except', 'frank', 'lad', 'lie', 'no', 'ranklywines', 'standing', 'sunsay', 'trucks']","['7pm', '8am', 'except', 'except', 'frankly', 'loading', 'no', 'standing', 'sunday', 'trucks', 'unloading', 'wines']",0.181818182
+.\Data\SVT\11_00.jpg,"['+', 'bohemian', 'entrance', 'grand', 'hotel']","['bohemian', 'entrance', 'grand', 'hotel']",0.8
+.\Data\SVT\11_01.jpg,"['lllrr', 'napasorn', 'thhhhh', 'win']","['56', 'napasorn']",0.2
+.\Data\SVT\11_02.jpg,"['hatsu', 'sushi']","['hatsu', 'sushi']",1
+.\Data\SVT\11_05.jpg,"['&', '1071 228-7088', 'bike', 'cx', 'delivery', ""kyle's"", 'shop', 'specials', 'up']","['bike', 'delivery', ""kyle's"", 'shop', 'specials']",0.555555556
+.\Data\SVT\11_06.jpg,"['coffee', 'starbucks']","['coffee', 'starbucks']",1
+.\Data\SVT\11_07.jpg,"['a', 'dido', 'dj', 'house', 'lane', 'latin', 'lisa', 'night', 'parliament', 'resort']","['dido', 'dj', 'house', 'lane', 'latin', 'lisa', 'night', 'parliament', 'resort']",0.9
+.\Data\SVT\11_09.jpg,"['00', 'bar', 'central', 'centratl', 'east', 'phone', 'station']","['bar', 'central', 'east', 'phone', 'station']",0.714285714
+.\Data\SVT\11_10.jpg,"['church', 'dianetics', 'foundation', 'hubbard', 'of', 'scientology']","['church', 'dianetics', 'foundation', 'hubbard', 'of', 'scientology']",1
+.\Data\SVT\11_15.jpg,"['&', 'coconiac', 'hobby', 'inc.', 'photo']","['&', 'colonial', 'hobby', 'inc', 'photo']",0.428571429
+.\Data\SVT\11_17.jpg,"['t', 'tubu']",['tabu'],0
+.\Data\SVT\12_02.jpg,"['& dime', 'bank', 'day.', ""don't"", 'freel', 'nickel', 'ny', 'open!', 'pic', 'td', 'we', ""we're"", 'wonl', 'you.']","['&', 'bank', 'day', 'dime', ""don't"", 'nickel', 'ny', 'open', 'pic', 'td', 'we', ""we're"", 'you']",0.421052632
+.\Data\SVT\12_04.jpg,"['center', 'city', 'do', 'e', 'embassy', 'enters', 'entir', 'l', 'not', 'parking', 'suites']","['center', 'city', 'do', 'embassy', 'enter', 'not', 'parking', 'suites']",0.583333333
+.\Data\SVT\12_06.jpg,"['capiro', 'celato', 'gelato', 'giro', 'lrtisaits', 'pani', 'presso']","['artisans', 'cap', 'espresso', 'galato', 'giro', 'panini']",0.083333333
+.\Data\SVT\12_15.jpg,"['o', 'ortliebs']","['jazz', 'ortliebs']",0.333333333
+.\Data\SVT\12_16.jpg,"['bos', 'facility', 'mimt', 'parking', 'states', 'tunnel', 'united', 'use']","['bus', 'facility', 'mint', 'one', 'parking', 'states', 'tunnel', 'united', 'use', 'way']",0.5
+.\Data\SVT\12_18.jpg,"['#', '$1h&up', '2', '27-2220', 'ar', 'chinatown', 'diang', 'dollar', 'hartware', 'ho', 'hoas', 'inc.', 'medicise', 'statianery', 'teyslpurtyupples', 'up', 'wasfe', 'wr9']","['$1', 'chinatown', 'ding', 'dollar', 'hardware', 'ho', 'houseware', 'inc', 'medicine', 'stationary', 'up']",0.16
+.\Data\SVT\13_02.jpg,"['coffee', 'sarbucrs']","['coffee', 'starbucks']",0.333333333
+.\Data\SVT\13_03.jpg,"['&', 'cafe', 'pasta', 'pizza', 'qutztos sub', 'roma', 'salads', 'subre', 'uesou']","['&', 'café', 'pasta', 'pizza', 'quiznos', 'roma', 'salads', 'subs', 'subs']",0.384615385
+.\Data\SVT\13_04.jpg,"['+', '101r', 'dodle', 'phelps']","['dodge', 'phelps', 'tower']",0.166666667
+.\Data\SVT\13_05.jpg,"['+d', 'el', 'portal']","['el', 'portal']",0.666666667
+.\Data\SVT\13_07.jpg,"['a', 'eye', 'lounge', 'o', 'od', 'sedemopori']","['eye', 'lounge']",0.333333333
+.\Data\SVT\13_08.jpg,"['+', 'denterprise', 'sremecr']","['a', 'car', 'enterprise', 'rent']",0
+.\Data\SVT\13_10.jpg,"['1', 'pizahiut']","['hut', 'pizza']",0
+.\Data\SVT\13_11.jpg,"['+', '212', '60', '80', 'auto', 'magic', 't', 'wvplmanicautou']","['auto', 'magic']",0.25
+.\Data\SVT\13_12.jpg,['ymaa'],['ymca'],0
+.\Data\SVT\13_13.jpg,"['55', 'speoe']","['55', 'space']",0.333333333
+.\Data\SVT\13_14.jpg,"['circles', 'discsatapes']","['&', 'circles', 'discs', 'tapes']",0.2
+.\Data\SVT\13_16.jpg,"['+d', 'arts', 'modified']","['arts', 'modified']",0.666666667
+.\Data\SVT\13_18.jpg,"[""atd's"", 'bar', ""portland's"", 'restaura']","['bar', ""portland's"", 'restaurant']",0.4
+.\Data\SVT\14_01.jpg,['higgins'],['higgins'],1
+.\Data\SVT\14_02.jpg,['martioft'],['marriott'],0
+.\Data\SVT\14_03.jpg,"['+d', 'living', 'room', 'theaters']","['living', 'room', 'theaters']",0.75
+.\Data\SVT\14_07.jpg,"['college', 'everest']","['college', 'everest']",1
+.\Data\SVT\14_08.jpg,"['avenue', 'fifth', 'pioneer', 'place', 'saks']","['avenue', 'fifth', 'pioneer', 'place', 'saks']",1
+.\Data\SVT\14_10.jpg,"['+d', 'kitchen', 'park']","['kitchen', 'park']",0.666666667
+.\Data\SVT\14_11.jpg,"['outdoor', 'store', 'u.s.', 'us.', 'woter']","['outdoor', 'store', 'u.s.', 'water']",0.5
+.\Data\SVT\14_14.jpg,"['$ystem', 'and', 'lifeand', 'microtia', 'o', 'satyriconpdx.com', 'station', 'the', 'times']","['and', 'and', 'life', 'microtia', 'satyriconpdx.com', 'station', 'system', 'the', 'times']",0.5
+.\Data\SVT\14_15.jpg,"['+d', 'genies', 'genle']",['genies'],0.333333333
+.\Data\SVT\14_17.jpg,"['high', 'lincoln', 'scrool']","['high', 'lincoln', 'school']",0.5
+.\Data\SVT\14_18.jpg,"['8', 'marrtott', 'warnot']",['marriott'],0
+.\Data\SVT\15_01.jpg,"['embassy', 'parking', 'suites']","['embassy', 'parking', 'suites']",1
+.\Data\SVT\15_02.jpg,"['beer', 'classic', 'draft', 'food', 'great', 'house', 'largest', 'of', 'rock', 'selection', ""world's"", 'yard']","['beer', 'classic', 'draft', 'food', 'great', 'house', 'largest', 'of', 'rock', 'selection', ""world's"", 'yard']",1
+.\Data\SVT\15_04.jpg,"['1500', 'american', 'and', 'art', 'european', 'fres admissyn', 'lcons', 'mein', 'muieim', 'museum', 'of', 'ofart', 'paintings', 'russian', 'timken', 'works']","['1500', 'admission', 'american', 'and', 'art', 'european', 'free', 'icons', 'museum', 'of', 'paintings', 'russian', 'timken', 'works']",0.578947368
+.\Data\SVT\15_06.jpg,"['b', 'cortez', 'el']","['cortez', 'el']",0.666666667
+.\Data\SVT\15_07.jpg,"['1+', ""croce's"", 'restaurant']","[""croce's"", 'restaurant']",0.666666667
+.\Data\SVT\15_08.jpg,"['asbah', 'the']","['casbah', 'the']",0.333333333
+.\Data\SVT\15_14.jpg,"['1-800-598-1810', '660', 'comfat', 'comfort', 'g', 'gaslamp', 'inn', 'street']","['1-800-598-1810', '660', 'comfort', 'g', 'gaslamp', 'inn', 'street']",0.875
+.\Data\SVT\15_17.jpg,"['aarriotl', 'courtyard']","['courtyard', 'marriott']",0.333333333
+.\Data\SVT\15_19.jpg,"['boutioue', 'holiday', 'laholiday', 'left', 'nn', 'turn', 'yiell', 'you']","['2', 'a', 'at', 'believe', 'boutique', 'designed', 'have', 'holiday', 'holiday', 'hotel', 'inn', 'inn', 'left', 'price', 'see', 'turn', 'yield', 'you']",0.181818182
+.\Data\SVT\16_00.jpg,"['01440', 'grand', 'h', 't']","['francisco', 'grand', 'hyatt', 'san']",0.142857143
+.\Data\SVT\16_01.jpg,"['1231', 'hotel', 'whitcomb']","['1231', 'hotel', 'whitcomb']",1
+.\Data\SVT\16_02.jpg,"['54', 'lic', 'mosser', 'parking', 'the']","['54', 'mosser', 'parking', 'the']",0.8
+.\Data\SVT\16_06.jpg,"['boo', 'books', 'city', 'cityuchte', 'lights', 'oostore', 'store', 'uights']","['beat', 'books', 'bookstore', 'cash', 'city', 'lights']",0.272727273
+.\Data\SVT\16_10.jpg,"['biersch', 'brewery', 'gordon', 'restaurant']","['biersch', 'brewery', 'gordon', 'restaurant']",1
+.\Data\SVT\16_13.jpg,"['i2', 'restaurant', 'tara']","['129', 'restaurant', 'tara']",0.5
+.\Data\SVT\16_14.jpg,"['1660', 'inn', 'square', 'washington']","['1660', 'inn', 'square', 'washington']",1
+.\Data\SVT\16_18.jpg,"['2.00', '900', 'chw', 'francis', 'hosptal', 'memorial', 'saint']","['900', 'chw', 'francis', 'hospital', 'memorial', 'parking', 'saint', 'valet']",0.5
+.\Data\SVT\17_00.jpg,"['art', 'jose', 'museum', 'of', 'san']","['art', 'jose', 'museum', 'of', 'san']",1
+.\Data\SVT\17_04.jpg,"['+', 'gombei']","['closed', 'gombei']",0.333333333
+.\Data\SVT\17_05.jpg,"['+', ""mcdonald's""]","[""mcdonald's""]",0.5
+.\Data\SVT\17_07.jpg,"['&', '+d', 'ei', 'ernst', 'young']","['&', 'carlos', 'ernst', 'san', 'st', 'young']",0.375
+.\Data\SVT\17_08.jpg,"['a+', 'bo', 'chinese', 'town', 'vietnamesi']","['bo', 'chinese', 'town', 'vietnamese']",0.5
+.\Data\SVT\17_09.jpg,"['claire', 'sainte', 'the']","['claire', 'sainte', 'the']",1
+.\Data\SVT\17_10.jpg,"['agency', 'f', 'liquid']","['agency', 'liquid']",0.666666667
+.\Data\SVT\17_11.jpg,"['a+', 'leasing', 'miraido', 'office', 'villace']","['buy', 'leasing', 'miraido', 'office', 'village', 'wanted']",0.375
+.\Data\SVT\17_15.jpg,"['a', 'ace', 'coodsou', 'devesion', 'goodwill']","['division', 'goodsource', 'goodwill']",0.142857143
+.\Data\SVT\17_18.jpg,"['billiards', 'first', 'south']","['billiards', 'first', 'south']",1
+.\Data\SVT\17_19.jpg,"['anno', 'apri8', 'domini', 'mar6', 'saner', 'thru']","['18', '6', 'anno', 'apr', 'domini', 'mar', 'saner', 'thru']",0.4
+.\Data\SVT\18_00.jpg,"['antica', 'pizzeria', 'tribunali', 'via']","['antica', 'pizza', 'pizzeria', 'tribunali', 'via']",0.8
+.\Data\SVT\18_03.jpg,"['hotel', 'k', 'max']","['hotel', 'm', 'max']",0.5
+.\Data\SVT\18_05.jpg,"['&', 'dinner', 'lunch', ""quinn's""]","['&', '1410', 'dinner', 'lunch', ""quinn's""]",0.8
+.\Data\SVT\18_06.jpg,"['10-22', '60', 'adult', 'advisory', 'aonossamorca', 'avenue', 'avenueg.com', 'foam', 'june', 'oloowo', 'paramount', 'parental', 'rubber', 'stg', 't', 't situations 40r']","['10-22', '40%', '60%', 'across', 'adult', 'advisory', 'america', 'avenue', 'avenueq.com', 'broadway', 'from', 'june', 'paramount', 'parental', 'rubber', 'situations']",0.333333333
+.\Data\SVT\18_07.jpg,"['alteratio', 'city', 'custom', 'hotel', 'moore', 'ons', 'tailors', 'the']","['alterations', 'city', 'custom', 'hotel', 'moore', 'tailors', 'the']",0.666666667
+.\Data\SVT\18_08.jpg,"['1130', '8', 'garage', 'rage']","['1130', 'garage']",0.5
+.\Data\SVT\18_09.jpg,"['and', 'pike', 'shop', 'western', 'wine']","['and', 'pike', 'shop', 'western', 'wine']",1
+.\Data\SVT\18_10.jpg,"['best', 'executive', 'inn', 'oh', 'western']","['best', 'executive', 'inn', 'western']",0.8
+.\Data\SVT\18_15.jpg,"['&', 'athaveneraracnl', 'avene', 'bar', 'bar&', 'barecrl', 'grill', 'ixthavenue', 'shaver', 'sixth']","['&', 'avenue', 'bar', 'grill', 'sixth']",0.363636364
+.\Data\SVT\18_16.jpg,"['94', 'clond', 'restaurant', 'stewart']","['94', 'closed', 'restaurant', 'stewart']",0.6
+.\Data\SVT\18_17.jpg,"['cinerama', 'www.cinerama.com']","['cinerama', 'www.cinerama.com']",1
+.\Data\SVT\18_19.jpg,"['neumos', 'pcomin']","['neumos', 'shows', 'upcoming']",0.25
+.\Data\SVT\19_01.jpg,"['7773', 'box', 'jewel', 'tiny']","['box', 'bus', 'jewel', 'metro', 'no', 'or', 'parking', 'standing', 'tiny', 'zone']",0.272727273
+.\Data\SVT\19_03.jpg,"['24', 'b', 'cvs', 'cvs/pharmacy', 'hours', 'pharmacy']","['24', 'cvs', 'hours', 'pharmacy']",0.666666667
+.\Data\SVT\19_06.jpg,"['7', 'atm', 'be', 'fireplace', 'liquor', 'ndams', 'phno', 's', 'samuel', 'the']","['adams', 'atm', 'everyday', 'fireplace', 'liquor', 'pacific', 'samuel', 'special', 'state', 'the', 'wine']",0.3125
+.\Data\SVT\19_09.jpg,"['1417', 'america', 'books', 'booksforamerica.org', 'boors', 'fo', 'for', 'open', 'utique']","['&', '1417', 'a', 'america', 'book', 'books', 'booksforamerica.org', 'bookstore', 'building', 'cds', 'donate', 'efforts', 'for', 'help', 'here', 'library', 'literacy', 'movies', 'new', 'non-profit', 'our', 'sale', 'support', 'used']",0.178571429
