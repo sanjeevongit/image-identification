@@ -29,17 +29,20 @@ Google Results:
     - Mean Accuracy: 99.8%
     
 Azure Results:
-- Labeling:
-    - Time taken: 108.9 s
+- Labeler:
+    - Speed: 108.9 s for 250 images
     - 56% accuracy within Top-5 tags
     - 46.4% accuracy with confidence > 50%
-
+- Text Extractor:
+    - Speed: 89.3s for 175 images
+    - Mean Jaccard Similarity: 23.4% 
+    
 - Face Detection:
     - Speed: 192.9s for 550 images
     - Mean Accuracy: 99.8% 
-    - No confidence score available (True/False Only)
+    - Confidence score only available for certain facial features, not detection
 
-Private Azure repo located [here](https://github.com/jakesingh/azure_final).
+Azure repo located [here](https://github.com/jakesingh/azure_final).
 
 AWS Results:
 - Labeler:
