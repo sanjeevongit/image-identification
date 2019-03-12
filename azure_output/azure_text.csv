@@ -1,0 +1,177 @@
+Unnamed: 0,Image,Words,detected_words,jaccard_similarity
+0,data\SVT\02_19.jpg,brown's arcade hair salon located inside dry clean,"['located', 'salon', 'inside', 'arcade', ""brown's""]",0.625
+1,data\SVT\15_19.jpg,holiday inn boutique designed hotel at a holiday inn price you have 2 see believe left turn yield,[],0.0
+2,data\SVT\11_17.jpg,tabu,[],0.0
+3,data\SVT\01_09.jpg,nick's greek corner,"['/', 'nicks', 'cousp', 'greek']",0.16666666666666666
+4,data\SVT\13_18.jpg,portland's restaurant bar,"['t', 'bar', ""portland's"", '•', 'restaura']",0.3333333333333333
+5,data\SVT\09_19.jpg,simon,['simon'],1.0
+6,data\SVT\05_14.jpg,de la salle,[],0.0
+7,data\SVT\04_19.jpg,glenoaks cleaners & laundry rubina's salon supply open hair cut men women children shirts $1,"['laundry', 'o)', 'a', 'salon', 'cleaners', 'clea', 'ty', 'glenoaks']",0.21052631578947367
+8,data\SVT\01_02.jpg,sol's one way 75,[],0.0
+9,data\SVT\16_06.jpg,city lights books bookstore cash beat,['iflll'],0.0
+10,data\SVT\17_11.jpg,miraido village leasing office buy wanted,['oftxct'],0.0
+11,data\SVT\15_04.jpg,timken museum of art european works american paintings and russian icons free admission 1500,"['timken', 'museum', 'w.rbofa,t', 'art', 'of', 'icem']",0.25
+12,data\SVT\14_02.jpg,marriott,['narrjolt'],0.0
+13,data\SVT\12_16.jpg,united states mint bus parking facility use tunnel one way,[],0.0
+14,data\SVT\00_11.jpg,welcome to mills ford,"['o', 'mills']",0.2
+15,data\SVT\09_03.jpg,houlihan's café,['houlihans'],0.0
+16,data\SVT\06_01.jpg,garden café,['iii'],0.0
+17,data\SVT\00_00.jpg,doll house tap beer,[],0.0
+18,data\SVT\14_08.jpg,pioneer place saks fifth avenue,"['pioneer', 'place']",0.4
+19,data\SVT\17_08.jpg,bo town chinese vietnamese,"['chinese', 'bo', 'vietnames*', 'town']",0.6
+20,data\SVT\12_18.jpg,chinatown dollar inc $1 up ding ho medicine hardware stationary houseware,"['dollar', 'v:ynatown']",0.08333333333333333
+21,data\SVT\18_03.jpg,m hotel max,[],0.0
+22,data\SVT\18_19.jpg,neumos upcoming shows,['euh•10b'],0.0
+23,data\SVT\19_06.jpg,the fireplace liquor atm samuel adams pacific state everyday wine special,"['fireplace', 'liquor', 'the', 'be']",0.25
+24,data\SVT\13_13.jpg,space 55,[],0.0
+25,data\SVT\15_07.jpg,croce's restaurant,"[""croce's"", 'restaurant']",1.0
+26,data\SVT\09_00.jpg,circle centre,"['sit', 'äiieäm-']",0.0
+27,data\SVT\14_14.jpg,satyriconpdx.com the life and times system and station microtia,"['-', 'the', 'salyriconpdx.cok-', 'times', 'life', 'and']",0.4
+28,data\SVT\02_07.jpg,gigi just delicious pizza sapph,[],0.0
+29,data\SVT\02_12.jpg,scores balitmore,"['scones', 'cores']",0.0
+30,data\SVT\08_05.jpg,two shell plaza,[],0.0
+31,data\SVT\06_15.jpg,physicians day surgery,"['physicians', 'daysurc,ery']",0.25
+32,data\SVT\13_12.jpg,ymca,[],0.0
+33,data\SVT\09_14.jpg,zoll zesco brothers products,[],0.0
+34,data\SVT\13_04.jpg,phelps dodge tower,[],0.0
+35,data\SVT\03_14.jpg,himalayas restaurant best indian lunch 2010 14th street,"['ion', 'vnc', '•', 'himalayas']",0.09090909090909091
+36,data\SVT\04_03.jpg,modern barber cut color perm 446 open,[],0.0
+37,data\SVT\17_15.jpg,goodwill goodsource division,"['good,w.ili;']",0.0
+38,data\SVT\18_08.jpg,garage 1130,['oeii'],0.0
+39,data\SVT\07_06.jpg,captiol custom tailors for ladies & gentlemen jewelry andora watercourse foods bakery baked goods 8612057,"['tailors', 'custom', 'capitol']",0.125
+40,data\SVT\00_14.jpg,original pancake house parking no,"['pancake', 't4.kal', 'house']",0.3333333333333333
+41,data\SVT\01_16.jpg,embassy,[],0.0
+42,data\SVT\03_18.jpg,barnsley tire co. yokoha michelin,"['co.', 'tire', 'barnsley']",0.6
+43,data\SVT\11_01.jpg,napasorn 56,[],0.0
+44,data\SVT\07_13.jpg,quizno's subs open $5 enter large 1275 order,"['qsubs', 'quizno', 'quiznosæsubs']",0.0
+45,data\SVT\16_00.jpg,grand hyatt san francisco,[],0.0
+46,data\SVT\15_02.jpg,great food classic rock yard house world's largest selection of draft beer,"['8', 'food', 'classic', 'selection', ""world's"", 'largest', 'yard', '•', 'rock', 'of', 'house']",0.6428571428571429
+47,data\SVT\00_09.jpg,"goodwill store over 3,000 new items stocked daily","['store', 'a,eei', 'over', 'goodwill']",0.3333333333333333
+48,data\SVT\14_18.jpg,marriott,['xarrtott'],0.0
+49,data\SVT\13_07.jpg,eye lounge,"['ebuno:', 'aka']",0.0
+50,data\SVT\00_12.jpg,subway,[],0.0
+51,data\SVT\18_09.jpg,pike and western wine shop,"['pike', ""'vesterv"", 'siiop']",0.14285714285714285
+52,data\SVT\16_02.jpg,the mosser parking 54,"['parking', 'thevosser']",0.2
+53,data\SVT\08_16.jpg,alden,['alden'],1.0
+54,data\SVT\15_06.jpg,el cortez,"['el', 'cortez']",1.0
+55,data\SVT\10_03.jpg,paya pakistan tea house a touch of traditional cuisine tex-mexican express 212-240-9800 176 church st. phone open 1k36,"[':', 'tea', 'a', 'pakistan', '212-240-9800', 'cuisine', 'touch', 'of', 'traditional', 'house']",0.47368421052631576
+56,data\SVT\11_06.jpg,starbucks coffee,"['starbucks', 'coffee']",1.0
+57,data\SVT\05_01.jpg,moon palace,"['palace', 'moon']",1.0
+58,data\SVT\05_05.jpg,g. fisherman's sons inc fine fabrics draperies,[],0.0
+59,data\SVT\17_05.jpg,mcdonald's,"[""mcdonald's""]",1.0
+60,data\SVT\08_10.jpg,1001 mckinney,[],0.0
+61,data\SVT\02_09.jpg,mount vernon hotel & cafeteria new guests must first register for garage access,"['cafetecia', '&', 'mount', 'vetncn', 'hotel']",0.2
+62,data\SVT\09_18.jpg,homewood suites 211,"['homewood', '211', 'suites']",1.0
+63,data\SVT\18_15.jpg,sixth avenue bar & grill,['baiwrill'],0.0
+64,data\SVT\09_05.jpg,complexions,['complexions'],1.0
+65,data\SVT\06_00.jpg,fine italian imports & deli jimmy's food store fresh meats sausages espresso $1 shot plus tax,"['8', 'food', 'store', 'imports', 'italian', 'meats', 'deli', 'fresh', ""jimmy's"", 'fine', 'shot']",0.5882352941176471
+66,data\SVT\18_10.jpg,best western executive inn,"['executive', 'inn']",0.5
+67,data\SVT\11_07.jpg,parliament house resort latin night  lisa lane dj dido,"['latin', 'lane', 'doo', 'dj', 'niøff', 'resort', '{parliament', 'usa']",0.3076923076923077
+68,data\SVT\07_00.jpg,capitol hill books the book,[],0.0
+69,data\SVT\04_17.jpg,pizza man he delivers jas gifts buy 1 get free 5 6 open,"['jas', 'gifts']",0.15384615384615385
+70,data\SVT\17_04.jpg,gombei closed,"['.11', 'gombei']",0.3333333333333333
+71,data\SVT\17_09.jpg,the sainte claire,"['sainte', 'the', 'claire']",1.0
+72,data\SVT\17_19.jpg,anno domini saner mar 6 thru apr 18,"['marg', 'aprio', '9', 'saner', 'thru', 'ono', 'domini']",0.25
+73,data\SVT\14_01.jpg,higgins,[],0.0
+74,data\SVT\07_07.jpg,quality custom framing in only 6 to 8 days hollywood posters we have more rock & movie than there are in the world alaskan amber bud light,"['8', 'l', 'world!""', 'hollywood', 'posters', 'have', '6', 'quality', '&', 'in', 'only', 'there', 'framing', 'movie', 'v', 'custom', 'the', 'are', 'd', 'rock', 'than', 'days!', 'more']",0.5806451612903226
+75,data\SVT\16_13.jpg,tara restaurant 129,"['tapa', 'restaurant']",0.25
+76,data\SVT\05_16.jpg,target,['arget'],0.0
+77,data\SVT\00_10.jpg,angelo's car hop service hamburgers laundromat welcome to beer video,[],0.0
+78,data\SVT\19_09.jpg,books for america 1417 book sale a non-profit bookstore new & used help support our library building literacy efforts donate movies cds here booksforamerica.org,[],0.0
+79,data\SVT\13_05.jpg,el portal,"['el', 'portal']",1.0
+80,data\SVT\14_15.jpg,genies,"['rær', 'genies']",0.5
+81,data\SVT\13_16.jpg,modified arts,"['arts', 'modif', 'red']",0.25
+82,data\SVT\18_06.jpg,paramount avenue parental advisory 60% adult situations 40% from rubber june 10-22 avenueq.com across america broadway,"['10-22', 'june', 'pearamountö']",0.11764705882352941
+83,data\SVT\13_11.jpg,magic auto,"['aut0', 'magic']",0.3333333333333333
+84,data\SVT\05_11.jpg,martin's corner bar & grill certified grocers,"['grill', ""martin's"", 'comer', '&']",0.375
+85,data\SVT\14_07.jpg,everest college,"['college', 'everest']",1.0
+86,data\SVT\07_10.jpg,mcdonald's every day free mall ride,"['evev.w•.my', ""cdonaid's""]",0.0
+87,data\SVT\11_10.jpg,church of scientology hubbard dianetics foundation,"['scläiålogy', 'tics', 'diane']",0.0
+88,data\SVT\14_11.jpg,u.s. outdoor store water,"['u.s.', ""outdoor'"", 'store', 'outdoor', 'us.']",0.5
+89,data\SVT\18_07.jpg,the moore hotel alterations city custom tailors,"['cusroi', 'moore', 'the', 'hotel', 'diff', '=', 'tailo']",0.2727272727272727
+90,data\SVT\05_13.jpg,at&t gamestop,['ßtuea'],0.0
+91,data\SVT\15_01.jpg,embassy suites parking,"['embassy', 'parking', 'suites']",1.0
+92,data\SVT\16_01.jpg,hotel whitcomb 1231,[],0.0
+93,data\SVT\19_01.jpg,tiny jewel box no standing or parking metro bus zone,[],0.0
+94,data\SVT\19_03.jpg,cvs pharmacy 24 hours,"['cvslphar_maqy', 'cvs/', 'hours']",0.16666666666666666
+95,data\SVT\16_18.jpg,saint francis memorial hospital chw 900 valet parking,"['francis', 'hosptal', 'saint', 'memorial']",0.3333333333333333
+96,data\SVT\16_10.jpg,gordon biersch brewery restaurant,[],0.0
+97,data\SVT\09_17.jpg,crowne plaza hotels resorts the grand hall and conference center,"['crowne', 'i', 'grand', 'hotels', 'halland', 'conference', 'center', ""plaza'"", 'resorts']",0.46153846153846156
+98,data\SVT\13_10.jpg,pizza hut,[],0.0
+99,data\SVT\14_03.jpg,living room theaters,"['room', 'living']",0.6666666666666666
+100,data\SVT\01_05.jpg,enterprise 1 800 rent a car,[],0.0
+101,data\SVT\02_16.jpg,pickles pub hampton inn wise latina drank here 2 for 5 beer bird flu game day specials no parking during all stadium events,"['&', 'pickiespub=_']",0.0
+102,data\SVT\04_01.jpg,garny meat & deli fresh di giulio chiropractic for lease piken medical space 818-755-2700 a/c,"['m', 'chiropractic', 'aic', '&', 'meat&deu', 'deli', 'meat', 'fresh', 'giulio', 'piken']",0.3888888888888889
+103,data\SVT\03_02.jpg,beads ow pen 2539,"['beads', 'ow']",0.5
+104,data\SVT\14_10.jpg,park kitchen,[],0.0
+105,data\SVT\01_13.jpg,the icebox cool stuff brand apparel promotional products 700,"['promotional', 'products', '700', 'the', 'sol', 'pparel', '•', 'stuff']",0.4166666666666667
+106,data\SVT\11_09.jpg,central station bar east phone,[],0.0
+107,data\SVT\07_14.jpg,brown palace hotel and spa comfort inn,[],0.0
+108,data\SVT\18_17.jpg,cinerama www.cinerama.com,[],0.0
+109,data\SVT\14_17.jpg,lincoln high school,[],0.0
+110,data\SVT\06_04.jpg,save-way beer wine lotto phone cards for sale or lease the sip open cocacola,"['save-way', 'cards']",0.14285714285714285
+111,data\SVT\17_10.jpg,liquid agency,[],0.0
+112,data\SVT\15_17.jpg,courtyard marriott,['courriard'],0.0
+113,data\SVT\05_06.jpg,st jerome school,[],0.0
+114,data\SVT\05_08.jpg,chinatown hotel (312)225-8888,"['hotel', 'chinätown']",0.25
+115,data\SVT\17_18.jpg,south first billiards,"['billiar', 'first', 'south']",0.5
+116,data\SVT\08_14.jpg,at&t,[],0.0
+117,data\SVT\03_00.jpg,mountain sun pub & brewery left hand mirror pond 1535,[],0.0
+118,data\SVT\02_03.jpg,paul laurence dunbar community high school 1400 orleans street,"['1400', 'community', 'orleans', 'laurence', 'paul', 'street', 'dunbar']",0.7777777777777778
+119,data\SVT\12_02.jpg,td bank we don't nickel & dime you pic day ny we're open,[],0.0
+120,data\SVT\12_15.jpg,ortliebs jazz,[],0.0
+121,data\SVT\02_04.jpg,camden pub catering specials draft beer karaoke restaurant the baltimore award buffalo samuel adams 4455 atm,"['award', '1-4455', 'camden', 'catering', 'favor', 'www.camdeng', 'buffalo', 'pub', 'win']",0.25
+122,data\SVT\01_19.jpg,hertz parking 202,[],0.0
+123,data\SVT\12_06.jpg,cap giro galato artisans espresso panini,"['9rego', '•', ""pan.'"", 'cet•to']",0.0
+124,data\SVT\03_15.jpg,fox reverend horton heat cookin the,['teat'],0.0
+125,data\SVT\16_14.jpg,1660 washington square inn,[],0.0
+126,data\SVT\03_12.jpg,trident,"['trident', ""e'""]",0.5
+127,data\SVT\17_00.jpg,san jose museum of art,"['jose', 'art', 'of', 'san']",0.8
+128,data\SVT\04_04.jpg,master nails glenoaks,[],0.0
+129,data\SVT\07_16.jpg,wax trax ii 620 new used records,"['trax', '13""', 'il', '620', 'e.', 'wax']",0.3
+130,data\SVT\09_10.jpg,leon's,[],0.0
+131,data\SVT\02_11.jpg,thairish thai cuisine,['cuisine'],0.3333333333333333
+132,data\SVT\04_07.jpg,t mobile glenoaks,"['.mobile', 'aenoas']",0.0
+133,data\SVT\18_16.jpg,94 stewart restaurant closed,"['stewart', 'restauran7', '94']",0.4
+134,data\SVT\05_03.jpg,whole foods market,[],0.0
+135,data\SVT\10_02.jpg,dunkin donuts coffee,"['don', '•']",0.0
+136,data\SVT\01_01.jpg,budget,[],0.0
+137,data\SVT\07_19.jpg,warwick hotel yellow cab 7228 (303)777-7777,"['(303)', 'yellow', '7228', 'warvv', '777-7777', 'cab', 'leix']",0.3
+138,data\SVT\10_18.jpg,frankly wines no standing except trucks loading unloading 8am 7pm except Sunday,"['m•cts', '8am-7pm', 'franklynes', 'standing', 'no']",0.14285714285714285
+139,data\SVT\01_04.jpg,shell,[],0.0
+140,data\SVT\17_07.jpg,ernst & young san carlos st,[],0.0
+141,data\SVT\09_02.jpg,new jersey st days inn road construction ahead 25,[],0.0
+142,data\SVT\13_14.jpg,circles discs & tapes,[],0.0
+143,data\SVT\11_05.jpg,delivery kyle's bike shop specials,[],0.0
+144,data\SVT\06_08.jpg,lula b's antique mall free rear open,"['lula', 'lot,a', ""ope'"", 'mall', 'antique', 'bs']",0.3
+145,data\SVT\06_12.jpg,starbucks coffee,[],0.0
+146,data\SVT\04_05.jpg,first united methodist church,[],0.0
+147,data\SVT\11_15.jpg,colonial photo & hobby inc,"['photo', 'inc.', 'hobby', 'ccccniac']",0.2857142857142857
+148,data\SVT\12_04.jpg,embassy suites parking center city do not enter,"['r', 'city', 'not', 'do', '+', 'enter', '—', 'enti', 'center', 'embassy', 'parking', 'suites']",0.6666666666666666
+149,data\SVT\18_00.jpg,antica via tribunali pizzeria pizza,"['via', 'antica', 'pizzeria']",0.6
+150,data\SVT\08_17.jpg,spaghetti warehouse,"['•', '-', 'ispaghettiäwarehouse']",0.0
+151,data\SVT\03_01.jpg,larry's boot fitting 2709 spruce street,"['fitting', '1709', ""larry's"", 'spruce', 'street']",0.5714285714285714
+152,data\SVT\08_04.jpg,hess one allen center,[],0.0
+153,data\SVT\00_05.jpg,anaheim public library muzeo 241,[],0.0
+154,data\SVT\09_04.jpg,steak n shake,"['aa', '•clan', 'n']",0.2
+155,data\SVT\09_16.jpg,industrial anodizing 1610,"['anodizing', 'industrial', '1610']",1.0
+156,data\SVT\04_14.jpg,920 m&m accountancy closed,"['m', '21.6626', '&', 'accountancy', 'mers', '920']",0.25
+157,data\SVT\07_08.jpg,avenue theater free gas,[],0.0
+158,data\SVT\15_14.jpg,comfort inn gaslamp 660 g street 1-800-598-1810,"['comfort', '660', 'inn', 'gas\\amp', 'street', 'g']",0.625
+159,data\SVT\01_18.jpg,quality hotel fdc,"['fdc', 'hotel', 'quality']",1.0
+160,data\SVT\00_07.jpg,anaheim band instruments,"['instruments', 'band']",0.6666666666666666
+161,data\SVT\02_14.jpg,chiapparellis,['chlapparellts'],0.0
+162,data\SVT\07_17.jpg,great wall chinese food tel fax,"['chinese', 'fooy', 'wall']",0.2857142857142857
+163,data\SVT\03_08.jpg,timberline,[],0.0
+164,data\SVT\01_10.jpg,payless shoesource,['päjless'],0.0
+165,data\SVT\05_10.jpg,grandstand chicago police,['grandstand'],0.3333333333333333
+166,data\SVT\13_02.jpg,starbucks coffee,[],0.0
+167,data\SVT\11_02.jpg,sushi hatsu,['sushi'],0.5
+168,data\SVT\15_08.jpg,the casbah,[],0.0
+169,data\SVT\18_05.jpg,quinn's lunch & dinner 1410,[],0.0
+170,data\SVT\07_05.jpg,bender's 13th domino's pizza no parking any time,"['s.', 'b', 'too:']",0.0
+171,data\SVT\13_03.jpg,quiznos subs café roma pizza pasta salads & subs,"[""cafe'"", 'quizttüs', 'roma', 'sug']",0.09090909090909091
+172,data\SVT\06_02.jpg,the blue collar bar 1924,['bluecollar'],0.0
+173,data\SVT\11_00.jpg,grand bohemian hotel entrance,"['hotel', 'entrance', 'bohemian']",0.75
+174,data\SVT\13_08.jpg,enterprise rent a car,[],0.0
+,,,,
