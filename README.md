@@ -40,3 +40,21 @@ Azure Results:
     - No confidence score available (True/False Only)
 
 Private Azure repo located [here](https://github.com/jakesingh/azure_final).
+
+AWS Results:
+
+- Labeler:
+    - Speed: 230s for 250 images (using S3 bucket)
+    - Speed: 351s for 250 images (using direct)
+    - Mean Accuracy: 49.1%
+    - Mean Accurancy (Synonyms): 78.6%
+    
+- Text Extractor:
+    - Speed: 356s for 175 images (using S3 bucket)
+    - Speed: In Prog (using direct)
+    - Mean Jaccard Similarity: 48.5%
+    
+- Face Detector:
+    - Speed: 645s for 550 images (using S3 bucket)
+    - Speed: In Prog (using direct)
+    - Mean Accuracy: 100%
