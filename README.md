@@ -29,6 +29,12 @@ Google Results:
     - Mean Accuracy: 99.8%
     
 Azure Results:
-- Labeler: 
-    - Speed: 121.6s for 250 images
-    - Mean Accuracy: 37.6%
+- Labeling:
+    - Time taken: 108.9 s
+    - 56% accuracy within Top-5 tags
+    - 46.4% accuracy with confidence > 50%
+
+- Face Detection:
+    - Speed: 192.9s for 550 images
+    - Mean Accuracy: 99.8% 
+    - No confidence score available (True/False Only)
