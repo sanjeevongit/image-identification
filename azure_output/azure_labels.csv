@@ -1,0 +1,251 @@
+path,truth,tags,confidence,success
+data\ImageNet\bicycle_n02834778\0.jpg,bicycle,"['bicycle', 'outdoor', 'road', 'riding', 'building']",0.9999686479568481,1
+data\ImageNet\bicycle_n02834778\1.jpg,bicycle,"['outdoor', 'bicycle', 'sign', 'parked', 'street']",0.9884944558143616,1
+data\ImageNet\bicycle_n02834778\10.jpg,bicycle,"['road', 'outdoor', 'way', 'sidewalk', 'bicycle']",0.9573237895965576,1
+data\ImageNet\bicycle_n02834778\11.jpg,bicycle,"['outdoor', 'sky', 'bicycle', 'person', 'bike']",0.9321233630180359,1
+data\ImageNet\bicycle_n02834778\12.jpg,bicycle,"['outdoor', 'grass', 'bicycle', 'tree', 'road']",0.9848212599754333,1
+data\ImageNet\bicycle_n02834778\13.jpg,bicycle,"['outdoor', 'bicycle', 'person', 'man', 'riding']",0.9918728470802307,1
+data\ImageNet\bicycle_n02834778\14.jpg,bicycle,"['bicycle', 'outdoor', 'tree', 'sidewalk', 'leaning']",0.9999994039535522,1
+data\ImageNet\bicycle_n02834778\15.jpg,bicycle,"['person', 'outdoor', 'man', 'people', 'bicycle']",0.1869741529226303,1
+data\ImageNet\bicycle_n02834778\16.jpg,bicycle,"['bicycle', 'outdoor', 'bike', 'cycling', 'cycle']",0.998062789440155,1
+data\ImageNet\bicycle_n02834778\17.jpg,bicycle,"['tree', 'outdoor', 'bicycle', 'bike', 'cycle']",0.9392622113227844,1
+data\ImageNet\bicycle_n02834778\18.jpg,bicycle,"['outdoor', 'sky', 'person', 'man', 'jumping']",0.0,0
+data\ImageNet\bicycle_n02834778\19.jpg,bicycle,"['bicycle', 'outdoor', 'building', 'person', 'street']",0.999068558216095,1
+data\ImageNet\bicycle_n02834778\2.jpg,bicycle,"['bicycle', 'outdoor', 'parked', 'sidewalk', 'rack']",0.9999032020568848,1
+data\ImageNet\bicycle_n02834778\20.JPG,bicycle,"['bicycle', 'circus', 'acrobat', 'art', 'dancing']",0.28034815192222595,1
+data\ImageNet\bicycle_n02834778\21.jpg,bicycle,"['bicycle', 'outdoor', 'parked', 'rack', 'bicycle rack']",0.9997953772544861,1
+data\ImageNet\bicycle_n02834778\22.jpg,bicycle,"['bicycle', 'outdoor', 'transport', 'carriage', 'black and white']",0.9940270185470581,1
+data\ImageNet\bicycle_n02834778\23.jpg,bicycle,"['road', 'outdoor', 'way', 'bicycle', 'sidewalk']",0.9635806083679199,1
+data\ImageNet\bicycle_n02834778\24.jpg,bicycle,"['bicycle', 'outdoor', 'building', 'ground', 'sidewalk']",0.9998169541358948,1
+data\ImageNet\bicycle_n02834778\3.jpg,bicycle,"['flower', 'indoor', 'plant', 'spring']",0.0,0
+data\ImageNet\bicycle_n02834778\4.jpg,bicycle,"['bicycle', 'grass', 'outdoor', 'parked', 'bike']",0.9999737739562988,1
+data\ImageNet\bicycle_n02834778\5.jpg,bicycle,"['bicycle', 'outdoor', 'night', 'parked', 'curb']",0.9971598386764526,1
+data\ImageNet\bicycle_n02834778\6.jpg,bicycle,"['bicycle', 'bike', 'museum', 'street', 'cycle']",0.9991883635520935,1
+data\ImageNet\bicycle_n02834778\7.jpg,bicycle,"['outdoor', 'red', 'door', 'old', 'colorful']",0.0,0
+data\ImageNet\bicycle_n02834778\8.jpg,bicycle,"['chain', 'ride', 'bike', 'bicycle']",0.010592476416060218,1
+data\ImageNet\bicycle_n02834778\9.jpg,bicycle,"['outdoor', 'building', 'bicycle', 'street', 'sidewalk']",0.9315310716629028,1
+data\ImageNet\birds_n01604330\0.jpg,bird,"['bird', 'animal', 'outdoor', 'starling', 'wildlife']",0.9998273849487305,1
+data\ImageNet\birds_n01604330\1.jpg,bird,"['bird', 'art', 'ballet', 'animal']",0.26540297269821167,1
+data\ImageNet\birds_n01604330\10.jpg,bird,"['tree', 'bird of prey', 'animal', 'bird', 'outdoor']",0.9948703050613403,1
+data\ImageNet\birds_n01604330\11.jpg,bird,"['bird', 'outdoor', 'standing', 'animal', 'water']",0.9998492002487183,1
+data\ImageNet\birds_n01604330\12.jpg,bird,"['outdoor', 'grass', 'bird', 'tree', 'animal']",0.9998940229415894,1
+data\ImageNet\birds_n01604330\13.jpg,bird,"['animal', 'bird', 'outdoor', 'black', 'red']",0.9924095869064331,1
+data\ImageNet\birds_n01604330\14.jpg,bird,"['bird', 'animal', 'sitting', 'branch', 'outdoor']",0.9998959302902222,1
+data\ImageNet\birds_n01604330\15.jpg,bird,"['dog', 'indoor', 'brown', 'staring', 'animal']",0.0,0
+data\ImageNet\birds_n01604330\16.jpg,bird,"['bird', 'animal', 'metal', 'wildlife']",0.9941233992576599,1
+data\ImageNet\birds_n01604330\17.jpg,bird,"['bird', 'animal', 'rock', 'outdoor', 'perched']",0.9942618608474731,1
+data\ImageNet\birds_n01604330\18.jpg,bird,"['bird', 'outdoor', 'animal', 'black', 'tyrannid']",0.9986395239830017,1
+data\ImageNet\birds_n01604330\19.jpg,bird,"['animal', 'outdoor', 'water', 'turtle', 'swimming']",0.0,0
+data\ImageNet\birds_n01604330\2.jpg,bird,"['water', 'outdoor', 'gull', 'animal', 'rock']",0.0,0
+data\ImageNet\birds_n01604330\20.jpg,bird,"['animal', 'tree', 'bird', 'branch', 'colorful']",0.907301664352417,1
+data\ImageNet\birds_n01604330\21.jpg,bird,"['grass', 'outdoor', 'animal', 'bird', 'gallinaceous bird']",0.8965861797332764,1
+data\ImageNet\birds_n01604330\22.jpg,bird,"['bird', 'animal', 'pigeon']",0.3804861307144165,1
+data\ImageNet\birds_n01604330\23.jpg,bird,"['grass', 'outdoor', 'tree', 'animal', 'standing']",0.0,0
+data\ImageNet\birds_n01604330\24.JPG,bird,"['bird', 'outdoor', 'tree', 'grass', 'sitting']",0.9993298053741455,1
+data\ImageNet\birds_n01604330\3.jpg,bird,"['bird', 'sky', 'tree', 'outdoor', 'animal']",0.99951171875,1
+data\ImageNet\birds_n01604330\4.jpg,bird,"['tree', 'outdoor', 'bird', 'branch', 'animal']",0.9942907094955444,1
+data\ImageNet\birds_n01604330\5.jpg,bird,"['gallinaceous bird', 'phasianid', 'bird', 'animal', 'green']",0.9999836683273315,1
+data\ImageNet\birds_n01604330\6.jpg,bird,"['bird', 'outdoor', 'animal', 'plover', 'standing']",1.0,1
+data\ImageNet\birds_n01604330\7.jpg,bird,"['outdoor', 'water', 'sky', 'beach', 'walking']",0.0,0
+data\ImageNet\birds_n01604330\8.jpg,bird,"['animal', 'bird', 'branch', 'hummingbird']",0.8395183682441711,1
+data\ImageNet\birds_n01604330\9.jpg,bird,"['outdoor', 'bird', 'animal', 'green', 'oscine']",0.9462113380432129,1
+data\ImageNet\dog_n02084071\0.jpg,dog,"['dog', 'indoor', 'person', 'black', 'cat']",0.9994850158691406,1
+data\ImageNet\dog_n02084071\1.jpg,dog,"['sky', 'outdoor', 'grass', 'mountain', 'rock']",0.0,0
+data\ImageNet\dog_n02084071\10.jpg,dog,"['dog', 'snow', 'outdoor', 'winter', 'beagle']",0.999966025352478,1
+data\ImageNet\dog_n02084071\11.jpg,dog,"['dog', 'looking', 'brown', 'indoor', 'staring']",0.9997498393058777,1
+data\ImageNet\dog_n02084071\12.jpg,dog,"['dog', 'sitting', 'indoor', 'brown', 'mammal']",0.9999998807907104,1
+data\ImageNet\dog_n02084071\13.jpg,dog,"['water', 'outdoor', 'dog', 'black', 'mouth']",0.995294988155365,1
+data\ImageNet\dog_n02084071\14.jpg,dog,"['outdoor', 'road', 'dog', 'ground', 'sidewalk']",0.9888355135917664,1
+data\ImageNet\dog_n02084071\15.jpg,dog,"['grass', 'outdoor', 'laying', 'dog', 'animal']",0.9446475505828857,1
+data\ImageNet\dog_n02084071\16.jpg,dog,"['sofa', 'indoor', 'window', 'looking', 'staring']",0.0,0
+data\ImageNet\dog_n02084071\17.jpg,dog,"['dog', 'grass', 'outdoor', 'sitting', 'looking']",0.9999980926513672,1
+data\ImageNet\dog_n02084071\18.jpg,dog,"['ground', 'outdoor', 'dog', 'animal', 'mammal']",0.9224929213523865,1
+data\ImageNet\dog_n02084071\19.jpg,dog,"['dog', 'indoor', 'looking', 'brown', 'staring']",0.9999945163726807,1
+data\ImageNet\dog_n02084071\2.jpg,dog,"['grass', 'dog', 'outdoor', 'animal', 'mammal']",0.9941365718841553,1
+data\ImageNet\dog_n02084071\20.jpg,dog,"['water', 'outdoor', 'sky', 'dog', 'sunset']",0.993473470211029,1
+data\ImageNet\dog_n02084071\21.jpg,dog,"['dog', 'indoor', 'floor', 'black', 'pug']",0.9633956551551819,1
+data\ImageNet\dog_n02084071\22.jpg,dog,"['dog', 'ground', 'outdoor', 'brown', 'animal']",0.9999986886978149,1
+data\ImageNet\dog_n02084071\23.jpg,dog,"['dog', 'indoor', 'person', 'animal', 'mammal']",0.992110550403595,1
+data\ImageNet\dog_n02084071\24.JPG,dog,"['person', 'dog', 'outdoor', 'little', 'mammal']",0.9853728413581848,1
+data\ImageNet\dog_n02084071\3.jpg,dog,"['dog', 'grass', 'frisbee', 'outdoor', 'mouth']",0.9999995231628418,1
+data\ImageNet\dog_n02084071\4.jpg,dog,"['dog', 'ground', 'outdoor', 'white', 'animal']",0.9988753199577332,1
+data\ImageNet\dog_n02084071\5.jpg,dog,"['dog', 'brown', 'animal', 'sitting', 'ground']",0.9998288154602051,1
+data\ImageNet\dog_n02084071\6.jpg,dog,"['grass', 'dog', 'animal', 'mammal', 'outdoor']",0.9572057127952576,1
+data\ImageNet\dog_n02084071\7.jpg,dog,"['grass', 'dog', 'outdoor', 'black', 'animal']",0.9998838901519775,1
+data\ImageNet\dog_n02084071\8.jpg,dog,"['dog', 'ground', 'outdoor', 'sitting', 'animal']",0.9994982481002808,1
+data\ImageNet\dog_n02084071\9.jpg,dog,"['dog', 'indoor', 'black', 'puppy', 'animal']",0.9990875720977783,1
+data\ImageNet\fishing_n00453935\0.jpg,fishing,"['person', 'sky', 'water', 'outdoor', 'animal']",0.0,0
+data\ImageNet\fishing_n00453935\1.jpg,fishing,"['indoor', 'person', 'fish', 'ceiling', 'spiny-finned fish']",0.0,0
+data\ImageNet\fishing_n00453935\10.jpg,fishing,"['person', 'water', 'boat', 'outdoor', 'fish']",0.0,0
+data\ImageNet\fishing_n00453935\11.jpg,fishing,"['water', 'outdoor', 'animal', 'wave', 'dolphin']",0.0,0
+data\ImageNet\fishing_n00453935\12.jpg,fishing,"['outdoor', 'person', 'fish', 'fishing', 'river']",0.45976826548576355,1
+data\ImageNet\fishing_n00453935\13.jpg,fishing,"['water', 'boat', 'outdoor', 'sky', 'ocean']",0.0,0
+data\ImageNet\fishing_n00453935\14.jpg,fishing,"['outdoor', 'sky', 'water', 'boat', 'day']",0.0,0
+data\ImageNet\fishing_n00453935\15.jpg,fishing,"['water', 'outdoor', 'ocean', 'boat', 'fishing']",0.3630545735359192,1
+data\ImageNet\fishing_n00453935\16.jpg,fishing,"['boat', 'water', 'outdoor', 'yacht', 'sailing']",0.0,0
+data\ImageNet\fishing_n00453935\17.jpg,fishing,"['outdoor', 'tree', 'boat', 'sky', 'water']",0.0,0
+data\ImageNet\fishing_n00453935\18.jpg,fishing,"['outdoor', 'grass', 'person', 'sky', 'man']",0.0,0
+data\ImageNet\fishing_n00453935\19.jpg,fishing,"['outdoor', 'person', 'fish', 'fishing', 'sportfishing']",0.7548000812530518,1
+data\ImageNet\fishing_n00453935\2.jpg,fishing,"['person', 'outdoor', 'fish', 'sailing', 'aquarium']",0.0,0
+data\ImageNet\fishing_n00453935\20.jpg,fishing,"['boat', 'water', 'yacht', 'sailing', 'sailboat']",0.0,0
+data\ImageNet\fishing_n00453935\21.jpg,fishing,"['sky', 'outdoor', 'boat', 'man', 'person']",0.0,0
+data\ImageNet\fishing_n00453935\22.jpg,fishing,"['water', 'sky', 'person', 'outdoor', 'fishing']",0.6361798644065857,1
+data\ImageNet\fishing_n00453935\23.jpg,fishing,"['sky', 'outdoor', 'ground', 'person', 'man']",0.0,0
+data\ImageNet\fishing_n00453935\24.jpg,fishing,"['water', 'outdoor', 'fishing', 'sky', 'sport']",0.9895748496055603,1
+data\ImageNet\fishing_n00453935\3.jpg,fishing,"['sky', 'outdoor', 'boat', 'water', 'ship']",0.0,0
+data\ImageNet\fishing_n00453935\4.jpg,fishing,"['outdoor', 'sky', 'water', 'person', 'fish']",0.0,0
+data\ImageNet\fishing_n00453935\5.jpg,fishing,"['sky', 'outdoor', 'water', 'person', 'ocean']",0.0,0
+data\ImageNet\fishing_n00453935\6.jpg,fishing,"['person', 'fish', 'animal', 'outdoor', 'soft-finned fish']",0.0,0
+data\ImageNet\fishing_n00453935\7.jpg,fishing,"['sky', 'water', 'outdoor', 'person', 'man']",0.0,0
+data\ImageNet\fishing_n00453935\8.jpg,fishing,"['water', 'outdoor', 'person', 'boat', 'fishing']",0.9899963140487671,1
+data\ImageNet\fishing_n00453935\9.jpg,fishing,"['outdoor', 'person', 'wave', 'male', 'sailing']",0.0,0
+data\ImageNet\gymnastics_n00433802\0.jpg,gymnastics,"['indoor', 'ceiling', 'plane', 'air', 'boy']",0.0,0
+data\ImageNet\gymnastics_n00433802\1.jpg,gymnastics,"['sport', 'player', 'person', 'gymnastics', 'boy']",0.18655501576450434,1
+data\ImageNet\gymnastics_n00433802\10.jpg,gymnastics,"['woman', 'person', 'court', 'sport', 'player']",0.0,0
+data\ImageNet\gymnastics_n00433802\11.jpg,gymnastics,"['sport', 'person', 'court', 'gymnastics', 'female']",0.5609443187713623,1
+data\ImageNet\gymnastics_n00433802\12.jpg,gymnastics,"['floor', 'person', 'indoor', 'gymnastics', 'sport']",0.5617465376853943,1
+data\ImageNet\gymnastics_n00433802\13.jpg,gymnastics,"['sport', 'gymnastics', 'person', 'volleyball', 'boy']",0.8490231037139893,1
+data\ImageNet\gymnastics_n00433802\14.jpg,gymnastics,"['road', 'person', 'sport', 'gymnastics', 'volleyball']",0.5372108817100525,1
+data\ImageNet\gymnastics_n00433802\15.jpg,gymnastics,"['person', 'sport', 'gymnastics', 'group', 'volleyball']",0.8574252724647522,1
+data\ImageNet\gymnastics_n00433802\16.jpg,gymnastics,"['road', 'gymnastics', 'outdoor', 'sport', 'person']",0.9605790376663208,1
+data\ImageNet\gymnastics_n00433802\17.jpg,gymnastics,"['person', 'sport', 'gymnastics', 'blue', 'ping pong']",0.5342058539390564,1
+data\ImageNet\gymnastics_n00433802\18.jpg,gymnastics,"['person', 'man', 'fashion', 'dancing', 'music']",0.0,0
+data\ImageNet\gymnastics_n00433802\19.jpg,gymnastics,"['person', 'sport', 'indoor', 'punch', 'wrestling']",0.0,0
+data\ImageNet\gymnastics_n00433802\2.jpg,gymnastics,"['sport', 'gymnastics', 'person', 'wrestling']",0.9112527370452881,1
+data\ImageNet\gymnastics_n00433802\20.jpg,gymnastics,"['sport', 'player', 'basketball', 'gymnastics', 'person']",0.48157655025534446,1
+data\ImageNet\gymnastics_n00433802\21.jpg,gymnastics,"['sport', 'person', 'female', 'gymnastics', 'track and field']",0.44182538986206055,1
+data\ImageNet\gymnastics_n00433802\22.jpg,gymnastics,"['sculpture', 'statue', 'person', 'museum', 'bronze']",0.0,0
+data\ImageNet\gymnastics_n00433802\23.jpg,gymnastics,"['sport', 'person', 'player', 'gymnastics', 'crowd']",0.6420034170150757,1
+data\ImageNet\gymnastics_n00433802\24.jpg,gymnastics,"['outdoor', 'sky', 'tree', 'person', 'ground']",0.0,0
+data\ImageNet\gymnastics_n00433802\3.jpg,gymnastics,"['person', 'sport', 'gymnastics']",0.7381898760795593,1
+data\ImageNet\gymnastics_n00433802\4.jpg,gymnastics,"['sport', 'person', 'gymnastics']",0.9034990072250366,1
+data\ImageNet\gymnastics_n00433802\5.jpg,gymnastics,"['person', 'sport', 'gymnastics', 'dancing']",0.9469934105873108,1
+data\ImageNet\gymnastics_n00433802\6.jpg,gymnastics,"['wall', 'indoor', 'sport', 'person', 'floor']",0.0,0
+data\ImageNet\gymnastics_n00433802\7.jpg,gymnastics,"['person', 'sport', 'gymnastics']",0.8356465101242065,1
+data\ImageNet\gymnastics_n00433802\8.jpg,gymnastics,"['grass', 'tree', 'outdoor', 'woman', 'person']",0.0,0
+data\ImageNet\gymnastics_n00433802\9.jpg,gymnastics,"['sport', 'person', 'gymnastics', 'wrestling']",0.7332038283348083,1
+data\ImageNet\jet_n03335030\0.jpg,jet,"['sky', 'airplane', 'outdoor', 'plane', 'flying']",0.0,0
+data\ImageNet\jet_n03335030\1.jpg,jet,"['plane', 'airplane', 'airport', 'aircraft', 'tarmac']",0.0,0
+data\ImageNet\jet_n03335030\10.jpg,jet,"['sky', 'outdoor', 'airplane', 'aircraft', 'flying']",0.0,0
+data\ImageNet\jet_n03335030\11.jpg,jet,"['plane', 'outdoor', 'flying', 'airplane', 'mountain']",0.0,0
+data\ImageNet\jet_n03335030\12.jpg,jet,"['grass', 'outdoor', 'sky', 'plane', 'runway']",0.0,0
+data\ImageNet\jet_n03335030\13.jpg,jet,"['sky', 'outdoor', 'plane', 'flying', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\14.jpg,jet,"['sky', 'flying', 'outdoor', 'plane', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\15.jpg,jet,"['sky', 'flying', 'outdoor', 'plane', 'aircraft']",0.0,0
+data\ImageNet\jet_n03335030\16.jpg,jet,"['sky', 'outdoor', 'flying', 'aircraft', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\17.jpg,jet,"['airplane', 'dark', 'aircraft', 'light', 'knife']",0.0,0
+data\ImageNet\jet_n03335030\18.jpg,jet,"['sky', 'aircraft', 'outdoor', 'airplane', 'transport']",0.0,0
+data\ImageNet\jet_n03335030\19.jpg,jet,"['plane', 'airplane', 'indoor', 'aircraft', 'fighter']",0.0,0
+data\ImageNet\jet_n03335030\2.jpg,jet,"['grass', 'sky', 'plane', 'outdoor', 'field']",0.0,0
+data\ImageNet\jet_n03335030\20.jpg,jet,"['outdoor', 'sky', 'flying', 'airplane', 'aircraft']",0.0,0
+data\ImageNet\jet_n03335030\21.jpg,jet,"['outdoor', 'flying', 'sky', 'aircraft', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\22.jpg,jet,"['outdoor', 'sky', 'transport', 'aircraft', 'flying']",0.0,0
+data\ImageNet\jet_n03335030\23.jpg,jet,"['stationary', 'airplane', 'aircraft', 'pen', 'fighter']",0.0,0
+data\ImageNet\jet_n03335030\24.jpg,jet,"['sky', 'outdoor', 'mountain', 'aircraft', 'transport']",0.0,0
+data\ImageNet\jet_n03335030\3.jpg,jet,"['sky', 'outdoor', 'airplane', 'flying', 'transport']",0.0,0
+data\ImageNet\jet_n03335030\4.jpg,jet,"['ground', 'sky', 'plane', 'outdoor', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\5.jpg,jet,"['sky', 'military', 'fighter', 'outdoor', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\6.jpg,jet,"['snow', 'mountain', 'outdoor', 'transport', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\7.jpg,jet,"['water', 'outdoor', 'aircraft', 'transport', 'airplane']",0.0,0
+data\ImageNet\jet_n03335030\8.jpg,jet,"['sky', 'flying', 'outdoor', 'airplane', 'plane']",0.0,0
+data\ImageNet\jet_n03335030\9.jpg,jet,"['plane', 'airplane', 'outdoor', 'aircraft', 'runway']",0.0,0
+data\ImageNet\motorcycle_n03790512\0.jpg,motorcycle,"['outdoor', 'person', 'motorcycle', 'motorbike', 'bike']",0.4127179682254791,1
+data\ImageNet\motorcycle_n03790512\1.jpg,motorcycle,"['sky', 'tree', 'outdoor', 'road', 'motorbike']",0.0,0
+data\ImageNet\motorcycle_n03790512\10.jpg,motorcycle,"['motorcycle', 'scooter', 'motorbike', 'person', 'bike']",0.5698845982551575,1
+data\ImageNet\motorcycle_n03790512\11.jpg,motorcycle,"['sky', 'road', 'outdoor', 'motorcycle', 'bicycle']",0.5694892406463623,1
+data\ImageNet\motorcycle_n03790512\12.jpg,motorcycle,"['motorcycle', 'road', 'outdoor', 'red', 'parked']",0.9999977350234985,1
+data\ImageNet\motorcycle_n03790512\13.jpg,motorcycle,"['grass', 'outdoor', 'people', 'bike', 'motorbike']",0.0,0
+data\ImageNet\motorcycle_n03790512\14.jpg,motorcycle,"['road', 'outdoor', 'sky', 'travel', 'city']",0.0,0
+data\ImageNet\motorcycle_n03790512\15.jpg,motorcycle,"['road', 'sky', 'outdoor', 'way', 'street']",0.0,0
+data\ImageNet\motorcycle_n03790512\16.jpg,motorcycle,"['motorcycle', 'outdoor', 'bicycle', 'motorbike', 'person']",0.9901359677314758,1
+data\ImageNet\motorcycle_n03790512\17.jpg,motorcycle,"['road', 'outdoor', 'motorcycle', 'street', 'buffalo']",0.9933536052703857,1
+data\ImageNet\motorcycle_n03790512\18.jpg,motorcycle,"['motorcycle', 'road', 'outdoor', 'parked', 'motorcycling']",0.9999823570251465,1
+data\ImageNet\motorcycle_n03790512\19.jpg,motorcycle,"['road', 'outdoor', 'grass', 'motorcycle', 'mountain']",0.9952253103256226,1
+data\ImageNet\motorcycle_n03790512\2.jpg,motorcycle,"['outdoor', 'road', 'motorcycle', 'parked', 'curb']",0.9906392097473145,1
+data\ImageNet\motorcycle_n03790512\20.jpg,motorcycle,"['motorcycle', 'outdoor', 'parked', 'curb', 'motorbike']",0.9999372959136963,1
+data\ImageNet\motorcycle_n03790512\21.jpg,motorcycle,"['motorcycle', 'parked', 'red', 'scooter', 'curb']",0.9978808760643005,1
+data\ImageNet\motorcycle_n03790512\22.jpg,motorcycle,"['motorcycle', 'grass', 'outdoor', 'parked', 'sky']",0.9999895095825195,1
+data\ImageNet\motorcycle_n03790512\23.jpg,motorcycle,"['outdoor', 'sky', 'motorcycle', 'road', 'riding']",0.99420565366745,1
+data\ImageNet\motorcycle_n03790512\24.jpg,motorcycle,"['motorcycle', 'parked', 'motorcycling', 'helmet', 'curb']",0.9999997615814209,1
+data\ImageNet\motorcycle_n03790512\3.jpg,motorcycle,"['floor', 'indoor', 'bike', 'bicycle', 'motorbike']",0.0,0
+data\ImageNet\motorcycle_n03790512\4.jpg,motorcycle,"['building', 'outdoor', 'motorcycle', 'parked', 'road']",0.9999232292175293,1
+data\ImageNet\motorcycle_n03790512\5.jpg,motorcycle,"['motorcycle', 'road', 'riding', 'outdoor', 'street']",0.9999730587005615,1
+data\ImageNet\motorcycle_n03790512\6.jpg,motorcycle,"['tree', 'outdoor', 'road', 'riding', 'person']",0.0,0
+data\ImageNet\motorcycle_n03790512\7.jpg,motorcycle,"['motorcycle', 'outdoor', 'sky', 'road', 'orange']",0.9978635907173157,1
+data\ImageNet\motorcycle_n03790512\8.jpg,motorcycle,"['sky', 'outdoor', 'parked', 'motorcycle', 'cement']",0.5332889556884766,1
+data\ImageNet\motorcycle_n03790512\9.jpg,motorcycle,"['tree', 'outdoor', 'road', 'riding', 'bicycle']",0.0,0
+data\ImageNet\shark_n01482330\0.jpg,shark,"['fish', 'blue', 'aquarium', 'whale', 'underwater']",0.0,0
+data\ImageNet\shark_n01482330\1.jpg,shark,"['outdoor', 'water', 'fish', 'shark', 'day']",0.821051836013794,1
+data\ImageNet\shark_n01482330\10.jpg,shark,"['sky', 'outdoor', 'animal', 'fish', 'shark']",0.6793735027313232,1
+data\ImageNet\shark_n01482330\11.jpg,shark,"['fish', 'blue', 'diving', 'animal', 'underwater']",0.0,0
+data\ImageNet\shark_n01482330\12.jpg,shark,"['sky', 'outdoor', 'rock', 'reef', 'ocean floor']",0.0,0
+data\ImageNet\shark_n01482330\13.jpg,shark,"['outdoor', 'flock', 'shark', 'diving', 'ocean']",0.6337206959724426,1
+data\ImageNet\shark_n01482330\14.jpg,shark,"['water', 'fish', 'animal', 'shark', 'pool']",0.8577938675880432,1
+data\ImageNet\shark_n01482330\15.jpg,shark,"['animal', 'fish', 'shark', 'aquarium', 'seal']",0.8502089381217957,1
+data\ImageNet\shark_n01482330\16.jpg,shark,"['animal', 'fish', 'shark', 'aquarium']",0.42453938722610474,1
+data\ImageNet\shark_n01482330\17.jpg,shark,"['sky', 'water', 'outdoor', 'person', 'animal']",0.0,0
+data\ImageNet\shark_n01482330\18.jpg,shark,"['water', 'swimming', 'aquarium', 'animal', 'shark']",0.043443583816764234,1
+data\ImageNet\shark_n01482330\19.jpg,shark,"['indoor', 'animal', 'fish', 'shark', 'underwater']",0.6088277101516724,1
+data\ImageNet\shark_n01482330\2.jpg,shark,"['water', 'animal', 'fish', 'swimming', 'underwater']",0.0,0
+data\ImageNet\shark_n01482330\20.jpg,shark,"['sky', 'outdoor', 'animal', 'fish', 'blue']",0.0,0
+data\ImageNet\shark_n01482330\21.jpg,shark,"['fish', 'aquarium', 'animal', 'shark']",0.03250922612387015,1
+data\ImageNet\shark_n01482330\22.jpg,shark,"['indoor', 'fish', 'shark', 'aquarium']",0.6129332184791565,1
+data\ImageNet\shark_n01482330\23.jpg,shark,"['animal', 'indoor', 'fish', 'dark', 'shark']",0.4703840911388397,1
+data\ImageNet\shark_n01482330\24.jpg,shark,"['animal', 'outdoor', 'fish', 'swimming', 'water']",0.0,0
+data\ImageNet\shark_n01482330\3.jpg,shark,"['outdoor', 'shark', 'animal', 'underwater', 'diving']",0.9640507698059082,1
+data\ImageNet\shark_n01482330\4.jpg,shark,"['indoor', 'fish', 'person', 'animal', 'soft-finned fish']",0.0,0
+data\ImageNet\shark_n01482330\5.jpg,shark,"['water', 'pool', 'swimming', 'person', 'dolphin']",0.0,0
+data\ImageNet\shark_n01482330\6.jpg,shark,"['outdoor', 'blue', 'fish', 'shark', 'animal']",0.4782651364803314,1
+data\ImageNet\shark_n01482330\7.jpg,shark,"['water', 'aquarium', 'fish', 'animal', 'shark']",0.07295048870729381,1
+data\ImageNet\shark_n01482330\8.jpg,shark,"['person', 'child', 'little', 'street']",0.0,0
+data\ImageNet\shark_n01482330\9.jpg,shark,"['fish', 'animal', 'shark', 'indoor', 'dark']",0.9925238490104675,1
+data\ImageNet\swimming_n00442115\0.jpg,swimming,"['person', 'outdoor', 'watching', 'beach', 'girl']",0.0,0
+data\ImageNet\swimming_n00442115\1.jpg,swimming,"['indoor', 'floor', 'person', 'people', 'swimming']",0.6486237645149231,1
+data\ImageNet\swimming_n00442115\10.jpg,swimming,"['indoor', 'swimming', 'orange', 'sport', 'waterpolo']",0.485722154378891,1
+data\ImageNet\swimming_n00442115\11.jpg,swimming,"['person', 'water', 'outdoor', 'sport', 'people']",0.0,0
+data\ImageNet\swimming_n00442115\12.jpg,swimming,"['water', 'person', 'outdoor', 'water sport', 'swimming']",0.841762125492096,1
+data\ImageNet\swimming_n00442115\13.jpg,swimming,"['water', 'sport', 'swimming', 'water sport', 'pool']",0.6710419654846191,1
+data\ImageNet\swimming_n00442115\14.jpg,swimming,"['outdoor', 'swimming']",0.3258421719074249,1
+data\ImageNet\swimming_n00442115\15.jpg,swimming,"['mountain', 'swimming', 'underwater', 'diving']",0.42555922269821167,1
+data\ImageNet\swimming_n00442115\16.jpg,swimming,"['outdoor', 'tree', 'swimming', 'people', 'vacation']",0.72149258852005,1
+data\ImageNet\swimming_n00442115\17.jpg,swimming,"['water', 'sport', 'outdoor', 'athletic game', 'swimming']",0.3365776240825653,1
+data\ImageNet\swimming_n00442115\18.jpg,swimming,"['sport', 'water', 'athletic game', 'water sport', 'swimming']",0.33595481514930725,1
+data\ImageNet\swimming_n00442115\19.jpg,swimming,"['swimming', 'pool', 'water sport', 'blue', 'waterpolo']",0.8343905806541443,1
+data\ImageNet\swimming_n00442115\2.jpg,swimming,"['water', 'person', 'swimming', 'sport', 'dame']",0.5955218076705933,1
+data\ImageNet\swimming_n00442115\20.jpg,swimming,"['water', 'sport', 'outdoor', 'athletic game', 'swimming']",0.5503960847854614,1
+data\ImageNet\swimming_n00442115\21.jpg,swimming,"['water', 'sport', 'water sport', 'outdoor', 'swimming']",0.8366520404815674,1
+data\ImageNet\swimming_n00442115\22.jpg,swimming,"['jellyfish', 'hydrozoan', 'water', 'splash', 'waterfall']",0.0,0
+data\ImageNet\swimming_n00442115\23.jpg,swimming,"['sport', 'swimming', 'freestyle', 'dame', 'competition']",0.4356805086135864,1
+data\ImageNet\swimming_n00442115\24.jpg,swimming,"['indoor', 'blue', 'swimming', 'swimming pool', 'pool']",0.4620625972747803,1
+data\ImageNet\swimming_n00442115\3.jpg,swimming,"['water', 'outdoor', 'water sport', 'sport', 'wave']",0.0,0
+data\ImageNet\swimming_n00442115\4.jpg,swimming,"['water', 'sport', 'yellow', 'outdoor', 'swimming']",0.8425215482711792,1
+data\ImageNet\swimming_n00442115\5.jpg,swimming,"['water', 'sport', 'water sport', 'swimming', 'colored']",0.7854903340339661,1
+data\ImageNet\swimming_n00442115\6.jpg,swimming,"['person', 'indoor', 'sport', 'swimming', 'freestyle']",0.571381169534295,1
+data\ImageNet\swimming_n00442115\7.jpg,swimming,"['water', 'outdoor', 'sport', 'water sport', 'green']",0.0,0
+data\ImageNet\swimming_n00442115\8.jpg,swimming,"['sport', 'person', 'track and field', 'gymnastics']",0.0,0
+data\ImageNet\swimming_n00442115\9.jpg,swimming,"['person', 'woman', 'sport', 'player', 'female']",0.0,0
+data\ImageNet\unicycle_n04509417\0.jpg,unicycle,"['grass', 'outdoor', 'person', 'playing', 'field']",0.0,0
+data\ImageNet\unicycle_n04509417\1.jpg,unicycle,"['outdoor', 'person', 'cement', 'ledge', 'concrete']",0.0,0
+data\ImageNet\unicycle_n04509417\10.jpg,unicycle,"['outdoor', 'building', 'person', 'road', 'riding']",0.0,0
+data\ImageNet\unicycle_n04509417\11.jpg,unicycle,"['tree', 'outdoor', 'ground', 'dirt', 'wood']",0.0,0
+data\ImageNet\unicycle_n04509417\12.jpg,unicycle,"['tree', 'outdoor', 'road', 'riding', 'bicycle']",0.0,0
+data\ImageNet\unicycle_n04509417\13.jpg,unicycle,"['tree', 'outdoor', 'road', 'riding', 'grass']",0.0,0
+data\ImageNet\unicycle_n04509417\14.jpg,unicycle,"['road', 'outdoor', 'sky', 'tree', 'street']",0.0,0
+data\ImageNet\unicycle_n04509417\15.jpg,unicycle,"['person', 'girl', 'group', 'sport', 'posing']",0.0,0
+data\ImageNet\unicycle_n04509417\16.jpg,unicycle,"['floor', 'person', 'girl', 'female', 'bicycle']",0.0,0
+data\ImageNet\unicycle_n04509417\17.jpg,unicycle,"['sky', 'outdoor', 'ground', 'dirt', 'mountain']",0.0,0
+data\ImageNet\unicycle_n04509417\18.jpg,unicycle,"['outdoor', 'grass', 'bicycle', 'parked', 'curb']",0.0,0
+data\ImageNet\unicycle_n04509417\19.jpg,unicycle,"['outdoor', 'ground', 'riding', 'person', 'transport']",0.0,0
+data\ImageNet\unicycle_n04509417\2.jpg,unicycle,"['sky', 'outdoor', 'road', 'tree', 'sport']",0.0,0
+data\ImageNet\unicycle_n04509417\20.jpg,unicycle,"['road', 'building', 'outdoor', 'street', 'transport']",0.0,0
+data\ImageNet\unicycle_n04509417\21.jpg,unicycle,"['outdoor', 'sky', 'sport', 'athletic game', 'cycling']",0.0,0
+data\ImageNet\unicycle_n04509417\22.jpg,unicycle,"['ground', 'outdoor', 'bicycle', 'transport', 'wheel']",0.0,0
+data\ImageNet\unicycle_n04509417\23.JPG,unicycle,"['grass', 'outdoor', 'tree', 'person', 'bicycle']",0.0,0
+data\ImageNet\unicycle_n04509417\24.jpg,unicycle,"['wall', 'floor', 'indoor', 'transport', 'bicycle']",0.0,0
+data\ImageNet\unicycle_n04509417\3.jpg,unicycle,"['road', 'outdoor', 'tree', 'sky', 'person']",0.0,0
+data\ImageNet\unicycle_n04509417\4.jpg,unicycle,"['person', 'people', 'group', 'indoor', 'sport']",0.0,0
+data\ImageNet\unicycle_n04509417\5.jpg,unicycle,"['person', 'outdoor', 'ground', 'riding', 'transport']",0.0,0
+data\ImageNet\unicycle_n04509417\6.jpg,unicycle,"['sky', 'outdoor', 'playground', 'park', 'bike']",0.0,0
+data\ImageNet\unicycle_n04509417\7.jpg,unicycle,"['tree', 'outdoor', 'grass', 'unicycle', 'man']",0.9571865797042847,1
+data\ImageNet\unicycle_n04509417\8.jpg,unicycle,"['outdoor', 'person', 'riding', 'ramp', 'bicycle']",0.0,0
+data\ImageNet\unicycle_n04509417\9.jpg,unicycle,"['ground', 'outdoor', 'bicycle', 'transport', 'chain']",0.0,0

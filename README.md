@@ -38,3 +38,5 @@ Azure Results:
     - Speed: 192.9s for 550 images
     - Mean Accuracy: 99.8% 
     - No confidence score available (True/False Only)
+
+Private Azure repo located [here](https://github.com/jakesingh/azure_final).
