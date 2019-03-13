@@ -195,9 +195,6 @@ for filename in input_files:
     if count == 1:
        success_count = success_count + 1
 
-    if success_count == 500:
-       break
-
     count = 0
 # End time for batch processing
 end_time = time.time()
