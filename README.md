@@ -57,4 +57,4 @@ AWS Results:
 - Face Detector:
     - Speed: 645s for 550 images (using S3 bucket)
     - Speed: 957s for 550 images (using direct upload)
-    - Mean Accuracy: 100%
+    - Mean Accuracy: 96.3%
