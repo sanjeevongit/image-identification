@@ -48,9 +48,9 @@ AWS Results:
 - Cost
     - FreeTier: 5000 images/month
     - PaidTier: $1 per 1000 images for first 1Million images
-                $.80 per 1000 images for next 9Million images
-                $.60 per 1000 images for next 90Million images
-                $.40 per 1000 images if over 100Million images 
+               - $.80 per 1000 images for next 9Million images
+               - $.60 per 1000 images for next 90Million images
+               - $.40 per 1000 images if over 100Million images 
 - Labeler:
     - Speed: 230s for 250 images (using S3 bucket)
     - Speed: 351s for 250 images (using direct upload)
