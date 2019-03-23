@@ -4,6 +4,12 @@ README Notes for executing and analysing Image Rekognition for AWS
 Running Environment: Windows 8.1, AWS SDK Boto 3, Python 3.7
 ============================================================
 
+Python package requirements:
+- pandas
+- boto3
+- nltk
+- tqdm
+
 Setup of AWS SDK for Windows
 ++++++++++++++++++++++++++++
 1. First and foremost we need credentials for accessing the AWS cloud
