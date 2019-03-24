@@ -34,7 +34,7 @@ Azure Results:
     - Paid Tier: 
         - Tag, Face:
            - 0-1M transactions: $1 per 1,000 transactions                         
-           - M-5M transactions — $0.80 per 1,000 transactions 
+           - 1M-5M transactions — $0.80 per 1,000 transactions 
            - 5M-10M transactions — $0.65 per 1,000 transactions 
            - 10M-100M transactions — $0.65 per 1,000 transactions 
            - 100M+ transactions — $0.65 per 1,000 transactions 
