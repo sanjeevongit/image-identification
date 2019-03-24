@@ -28,7 +28,24 @@ Google Results:
     - Speed: 303.6s for 550 images
     - Mean Accuracy: 99.8%
     
-Azure Results:
+Azure Results: 
+- Cost
+    - Free Tier: 5000 transactions free/month, capped at 200$ credit.
+    - Paid Tier: 
+        - Tag, Face:
+           - 0-1M transactions: $1 per 1,000 transactions                         
+           - M-5M transactions — $0.80 per 1,000 transactions 
+           - 5M-10M transactions — $0.65 per 1,000 transactions 
+           - 10M-100M transactions — $0.65 per 1,000 transactions 
+           - 100M+ transactions — $0.65 per 1,000 transactions 
+         
+         - OCR: 
+             - 0-1M transactions — $1.50 per 1,000 transactions 
+             - 1M-5M transactions — $1 per 1,000 transactions 
+             - 5M-10M transactions — $0.65 per 1,000 transactions 
+             - 10M-100M transactions — $0.65 per 1,000 transactions 
+             - 100M+ transactions — $0.65 per 1,000 transactions 
+         
 - Labeler:
     - Speed: 108.9 s for 250 images
     - 56% accuracy within Top-5 tags
@@ -42,7 +59,7 @@ Azure Results:
     - Mean Accuracy: 99.8% 
     - Confidence score only available for certain facial features, not detection
 
-Azure repo located [here](https://github.com/jakesingh/azure_final).
+More can be located [here](https://github.com/jakesingh/azure_final).
 
 AWS Results:
 - Cost
